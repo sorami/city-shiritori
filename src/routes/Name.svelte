@@ -12,8 +12,12 @@
 				<span class="font-bold">{city.shiritori.last}</span>
 			</div>
 			<div class="text-xl font-bold">{city.name}</div>
+
 			<div class="text-xs">
-				{city.country}, {(city.population / 10000).toFixed(0)}万人
+				{city.country}
+			</div>
+			<div class="text-xs">
+				{(city.population / 10000).toFixed(0)}万人
 			</div>
 		</div>
 	</div>
