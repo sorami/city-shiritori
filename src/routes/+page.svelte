@@ -86,8 +86,8 @@
 		let r1: [number, number, number];
 		let r2: [number, number, number] = [0, 0, 0];
 
-		// currentCity = cities[Math.floor(Math.random() * cities.length)];
-		currentCity = cities.find((city) => city.name === '菏沢')!;
+		currentCity = cities[Math.floor(Math.random() * cities.length)];
+		// currentCity = cities.find((city) => city.name === '札幌')!;
 		p1 = p2;
 		p2 = currentCity.coordinates;
 		r1 = r2;
@@ -134,6 +134,18 @@
 
 <div class="grid h-screen place-items-center">
 	<div class="font-bold text-neutral-600 text-xl">都市名しりとり</div>
+	<div>
+		🚀 <input
+			type="range"
+			name="speed"
+			id="speed"
+			bind:value={transitionDuration}
+			min="100"
+			max="3000"
+			step="100"
+			class="w-52"
+		/> 🐢
+	</div>
 	<Name city={currentCity} />
 	<div id="wrapper" />
 </div>
