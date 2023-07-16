@@ -5,10 +5,15 @@
 	import * as topojson from 'topojson-client';
 	import type { Topology } from 'topojson-specification';
 	import { Versor } from '$lib';
+	import type { City } from '$lib';
+	import Name from './Name.svelte';
+
+	let currentCity: City;
+	let transitionDuration = 1500;
 
 	onMount(async () => {
-		const width = window.innerWidth;
-		const height = window.innerHeight;
+		const width = window.innerWidth * 0.9;
+		const height = window.innerHeight * 0.9;
 
 		const world: Topology | undefined = await d3.json(
 			'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
@@ -17,10 +22,7 @@
 		const land = topojson.feature(world, world.objects.land);
 		// @ts-ignore
 		const borders = topojson.mesh(world, world.objects.countries, (a, b) => a !== b);
-		// @ts-ignore
-		const countries = topojson.feature(world, world.objects.countries).features;
-		// const sphere = { type: 'Sphere' };
-		const sphere = { type: 'Sphere' };
+		const sphere = { type: 'Sphere', geometries: {} as d3.GeoGeometryObjects[] };
 		const tilt = 20;
 
 		// cf. https://github.com/observablehq/stdlib/blob/main/src/dom/context2d.js
@@ -43,28 +45,38 @@
 		);
 		const path = d3.geoPath(projection, context);
 
-		function render(country, arc) {
+		const cities: City[] | undefined = await d3.json('./cities.json');
+		if (!cities) return cities;
+
+		function render(city: City, arcCoordinates?: [number, number][]) {
 			if (!context) return;
+
 			context.clearRect(0, 0, width, height);
-			context.beginPath(), path(land), (context.fillStyle = '#ccc'), context.fill();
-			context.beginPath(), path(country), (context.fillStyle = '#f00'), context.fill();
+
+			context.beginPath(), path(land), (context.fillStyle = '#aaa'), context.fill();
 			context.beginPath(),
 				path(borders),
 				(context.strokeStyle = '#fff'),
 				(context.lineWidth = 0.5),
 				context.stroke();
-
 			context.beginPath(),
 				path(sphere),
-				(context.strokeStyle = '#000'),
+				(context.strokeStyle = '#ccc'),
 				(context.lineWidth = 1.5),
 				context.stroke();
 
 			context.beginPath(),
-				path(arc),
-				(context.strokeStyle = '#333'),
-				(context.lineWidth = 3),
-				context.stroke();
+				path(d3.geoCircle().center(city.coordinates).radius(1.2)()),
+				(context.fillStyle = 'tomato'),
+				context.fill();
+
+			if (arcCoordinates) {
+				context.beginPath(),
+					path({ type: 'LineString', coordinates: arcCoordinates }),
+					(context.strokeStyle = '#333'),
+					(context.lineWidth = 2),
+					context.stroke();
+			}
 
 			return context.canvas;
 		}
@@ -73,27 +85,43 @@
 		let p2: [number, number] = [0, 0];
 		let r1: [number, number, number];
 		let r2: [number, number, number] = [0, 0, 0];
-		for (const country of countries) {
-			const name = country.properties.name;
 
+		// currentCity = cities[Math.floor(Math.random() * cities.length)];
+		currentCity = cities.find((city) => city.name === '菏沢')!;
+		p1 = p2;
+		p2 = currentCity.coordinates;
+		r1 = r2;
+		r2 = [-p2[0], tilt - p2[1], 0];
+		const ip = d3.geoInterpolate(p1, p2);
+		const iv = Versor.interpolateAngles(r1, r2);
+		projection.rotate(iv(1));
+		render(currentCity);
+		await new Promise((resolve) => setTimeout(resolve, transitionDuration / 2));
+
+		while (true) {
+			const nextCities = cities.filter(
+				(city) => currentCity.shiritori.last === city.shiritori.first
+			);
+			if (nextCities.length === 0) {
+				console.log(currentCity);
+			}
+			currentCity = nextCities[Math.floor(Math.random() * nextCities.length)];
 			p1 = p2;
-			p2 = d3.geoCentroid(country);
-			console.log({ p2 });
+			p2 = currentCity.coordinates;
 			r1 = r2;
 			r2 = [-p2[0], tilt - p2[1], 0];
 			const ip = d3.geoInterpolate(p1, p2);
 			const iv = Versor.interpolateAngles(r1, r2);
-
 			await d3
 				.transition()
-				.duration(1500)
+				.duration(transitionDuration)
 				.tween('render', () => (t) => {
 					projection.rotate(iv(t));
-					render(country, { type: 'LineString', coordinates: [p1, ip(t)] });
+					render(currentCity, [p1, ip(t)]);
 				})
 				.transition()
 				.tween('render', () => (t) => {
-					render(country, { type: 'LineString', coordinates: [ip(t), p2] });
+					render(currentCity, [ip(t), p2]);
 				})
 				.end();
 		}
@@ -105,5 +133,7 @@
 </svelte:head>
 
 <div class="grid h-screen place-items-center">
+	<div class="font-bold text-neutral-600 text-xl">都市名しりとり</div>
+	<Name city={currentCity} />
 	<div id="wrapper" />
 </div>

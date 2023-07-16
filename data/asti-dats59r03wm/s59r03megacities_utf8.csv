@@ -1,0 +1,522 @@
+country_code	name_jp	name_jps	name_en	name_ens	capital_jp	capital_en	iscapital	lat	lon	pop	pop_year	pop_ref	note_jp	note_en
+AZ	アゼルバイジャン共和国	アゼルバイジャン	Republic of Azerbaijan	Azerbaijan	バクー	Baku	1	40.3670397	49.8320385	2285273 	2019	DYB2020		
+AF	アフガニスタン・イスラム共和国	アフガニスタン	Islamic Republic of Afghanistan	Afghanistan	カブール	Kabul	1	34.5210955	69.1736723	4775074 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	サンアントニオ	San Antonio	0	29.4245868	-98.4951446	1451853 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	サンディエゴ	San Diego	0	32.7219437	-117.1719177	1381611 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	シカゴ	Chicago	0	41.8838228	-87.6320778	2696555 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	ダラス	Dallas	0	32.7762564	-96.7969131	1288457 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	ニューヨーク	New York City	0	40.7127744	-74.006059	8467513 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	ヒューストン	Houston	0	29.7601589	-95.3694177	2288250 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	フィラデルフィア	Philadelphia	0	39.9528	-75.1634833	1576251 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	フェニックス	Phoenix	0	33.448724	-112.0773204	1624569 	2021	DYB2021		
+US	アメリカ合衆国	アメリカ（米国）	United States of America	United States	ロサンゼルス	Los Angeles	0	34.0537136	-118.2426533	3849297 	2021	DYB2021		
+AE	アラブ首長国連邦	アラブ首長国連邦	United Arab Emirates	UAE	ドバイ	Dubai	0	25.2642949	55.3113754	1089000 	2002	DYB2017		
+DZ	アルジェリア民主人民共和国	アルジェリア	People's Democratic Republic of Algeria	Algeria	アルジェ	Algiers	1	36.7762431	3.0577373	2712944 	2008	DYB2017		
+DZ	アルジェリア民主人民共和国	アルジェリア	People's Democratic Republic of Algeria	Algeria	オラン	Oran	0	35.7025101	-0.6492208	1165687 	2008	DYB2017		
+AR	アルゼンチン共和国	アルゼンチン	Argentine Republic	Argentina	ブエノスアイレス	Buenos Aires	1	-34.6081414	-58.3737025	15567820 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+AR	アルゼンチン共和国	アルゼンチン	Argentine Republic	Argentina	コルドバ	Cordoba	0	-31.4162913	-64.1908906	1573231 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+AR	アルゼンチン共和国	アルゼンチン	Argentine Republic	Argentina	メンドーサ	Mendoza	0	-32.8977768	-68.8429983	1033391 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+AR	アルゼンチン共和国	アルゼンチン	Argentine Republic	Argentina	ロサリオ	Rosario	0	-32.947091	-60.632427	1329857 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+AM	アルメニア共和国	アルメニア	Republic of Armenia	Armenia	エレバン	Yerevan	1	40.1746332	44.5040456	1087886 	2020	DYB2021		
+AO	アンゴラ共和国	アンゴラ	Republic of Angola	Angola	ルアンダ	Luanda	1	-8.8179857	13.2358495	1742180 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+YE	イエメン共和国	イエメン	Republic of Yemen	Yemen	サヌア	Sana'a	1	15.3558942	44.2063384	3674000 	2020	DYB2021	代表点は国立博物館，都市圏の人口	The representative point is the National Museum. The population is population in urban agglomeration.
+YE	イエメン共和国	イエメン	Republic of Yemen	Yemen	アデン	Adan	0	12.7900688	45.0184992	1020000 	2020	DYB2021	都市圏の人口（行政区域と同じ）	The population is population in urban agglomeration.
+GB	グレートブリテン及び北アイルランド連合王国	イギリス（英国）	United Kingdom of Great Britain and Northern Ireland	United Kingdom	ロンドン	London	1	51.504827	-0.0786264	8135667 	2011	DYB2017	都市圏（Greater London）の人口	The population is population in urban agglomeration.
+GB	グレートブリテン及び北アイルランド連合王国	イギリス（英国）	United Kingdom of Great Britain and Northern Ireland	United Kingdom	グラスゴー	Glasgow	0	55.8609363	-4.2483803	1209143 	2011	DYB2017	都市圏（Greater Glasgow）の人口	The population is population in urban agglomeration.
+GB	グレートブリテン及び北アイルランド連合王国	イギリス（英国）	United Kingdom of Great Britain and Northern Ireland	United Kingdom	バーミンガム	Birmingham	0	52.4801975	-1.902783	1085810 	2011	DYB2017		
+IT	イタリア共和国	イタリア	Italian Republic	Italy	ローマ	Rome	1	41.8930546	12.4834738	2789260 	2020	DYB2021		
+IT	イタリア共和国	イタリア	Italian Republic	Italy	ミラノ	Milano	0	45.4666994	9.1903207	1390412 	2020	DYB2021		
+IQ	イラク共和国	イラク	Republic of Iraq	Iraq	バグダッド	Baghdad	1	33.335064	44.4047534	1211934 	2015	DYB2017		
+IQ	イラク共和国	イラク	Republic of Iraq	Iraq	バスラ	Basra (Al-Basrah Qadha Center)	0	30.5082064	47.8256884	1225793 	2015	DYB2017		
+IQ	イラク共和国	イラク	Republic of Iraq	Iraq	モスル	Mosul (Al-Mosal Qadha Center)	0	36.3806877	43.1676406	1384260 	2015	DYB2017	代表点は仮庁舎	The representative point is the temporary government building.
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	テヘラン	Tehran	1	35.6812409	51.414932	8693706 	2016	DYB2017		
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	アフヴァーズ	Ahvaz	0	31.3204333	48.6629412	1184788 	2016	DYB2017		
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	イスファハン	Isfahan	0	32.6578333	51.6702017	1961260 	2016	DYB2017		
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	キャラジ	Karaj	0	35.8126244	50.9963532	1592492 	2016	DYB2017		
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	ゴム	Qom	0	34.6618971	50.8991416	1201158 	2016	DYB2017		
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	シーラーズ	Shiraz	0	29.6182001	52.5429486	1565572 	2016	DYB2017		
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	タブリーズ	Tabriz	0	38.0736806	46.2956786	1558693 	2016	DYB2017		
+IR	イラン・イスラム共和国	イラン	The Islamic Republic of Iran	Iran	マシュハド	Mashhad	0	36.2972193	59.6050643	3001184 	2016	DYB2017		
+IN	インド	インド	India	India	デリー	Delhi	1	28.6720669	77.2207318	11034555 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	アウランガーバード	Aurangabad (Maharashtra)	0	19.8905175	75.3242801	1175116 	2011	DYB2017	都市圏の人口，マハーラーシュトラ州の都市	The population is population in urban agglomeration. The city is located in Maharashtra state.
+IN	インド	インド	India	India	アグラ	Agra	0	27.2030764	78.0059804	1585704 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	アフマダーバード	Ahmedabad	0	23.0212182	72.5856015	5633927 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	アムリトサル	Amritsar	0	31.6565265	74.8638663	1159227 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	アラーハーバード	Allahabad	0	25.4491339	81.8273517	1168385 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	インドール	Indore	0	22.721725	75.8588534	1994397 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ヴァドーダラー	Vadodara	0	22.2968437	73.2015319	1752371 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ヴィシャーカパトナム	Visakhapatnam	0	17.7228314	83.3082919	1728128 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ヴィジャヤワーダ	Vijayawada	0	16.5109447	80.6113531	1143232 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ガーズィヤーバード	Ghaziabad	0	28.6683221	77.4305251	1648643 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	カーンプル	Kanpur	0	26.4753111	80.31686	2768057 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	カルヤン	Kalyan	0	19.2406977	73.1287256	1247327 	2011	DYB2017	ドンビブリを含む都市圏の人口（カルヤン・ドンビブリ）	The population is population in urban agglomeration including Dombivli (Kalyan-Dombivli).
+IN	インド	インド	India	India	グワーリオール	Gwalior	0	26.2099511	78.1866021	1054420 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	コインバトール	Coimbatore	0	10.9932822	76.9617704	1050721 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	コーター	Kota	0	25.1660542	75.8325324	1001694 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	コルカタ	Kolkata	0	22.5625439	88.353115	4496694 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ジャイプル	Jaipur	0	26.8920832	75.8052702	3046163 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ジャバルプル	Jabalpur	0	23.1652046	79.9329826	1081677 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	シュリーナガル	Srinagar	0	34.0784164	74.7995929	1206419 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ジョードプル	Jodhpur	0	26.2650702	73.023094	1056191 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	スーラト	Surat	0	21.2000969	72.8211828	4501610 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ターネー	Thane	0	19.1975446	72.9672198	1841488 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ダンバード	Dhanbad	0	23.7967225	86.4348827	1162472 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	チェンナイ	Chennai	0	13.081778	80.2715035	4646732 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ナーグプル	Nagpur	0	21.1542031	79.077254	2405665 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ナーシク	Nashik	0	20.0003422	73.7755037	1486053 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ナビムンバイ	Navi Mumbai	0	19.0104019	73.0278543	1120547 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ハイデラーバード	Hyderabad	0	17.4075874	78.4758149	6993262 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ハウラー	Howrah	0	22.5818812	88.3367985	1077075 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	バサイ	Vasai	0	19.4560881	72.8124609	1222390 	2011	DYB2017	ビラーを含む都市圏の人口（バサイ・ビラー）	The population is population in urban agglomeration including Virar (Vasai-Virar).
+IN	インド	インド	India	India	パトナ	Patna	0	25.6094205	85.1350046	1684297 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	バンガロール	Bengaluru	0	12.9658019	77.5878212	8495492 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ピンプリ・チンチワッド	Pimpri-Chinchwad	0	18.6282063	73.804817	1727692 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ファリーダーバード	Faridabad	0	28.3917024	77.3008364	1414050 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	プネー	Pune	0	18.5233237	73.8534957	3124458 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ボーパール	Bhopal	0	23.2242047	77.4028651	1798218 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	マドゥライ	Madurai	0	9.9364386	78.1390279	1017865 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ムンバイ	Mumbai	0	18.9403642	72.834503	12442373 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	メーラト	Meerut	0	28.9807325	77.6962466	1305429 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ラーイプル	Raipur	0	21.2363164	81.6400179	1027264 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ラージコート	Rajkot	0	22.291918	70.8021737	1323363 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ラーンチー	Ranchi	0	23.377486	85.3246441	1073427 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ラクナウ	Lucknow	0	26.8476606	80.9419452	2817105 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ルディアーナー	Ludhiana	0	30.918862	75.849276	1618879 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+IN	インド	インド	India	India	ワーラーナシー	Varanasi	0	25.3184459	83.014073	1198491 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	ジャカルタ	Jakarta	1	-6.1815787	106.8283893	10562088 	2020	DYB2021		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	スカブミ	Sukabumi	0	-6.9178948	106.9315006	1301873 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	スラバヤ	Surabaya	0	-7.2577569	112.7474988	2874314 	2020	DYB2021		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	タンゲラン	Tangerang	0	-6.1713359	106.6405503	3050758 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	チルボン	Cirebon	0	-6.7068954	108.5581603	1891957 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	バタム	Batam	0	1.1276777	104.0554723	1347762 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	パレンバン	Palembang	0	-2.9910577	104.7567502	1649298 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	バンダールランプン	Bandar Lampung	0	-5.4299788	105.2627258	1033601 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	バンドン	Bandung	0	-6.9108795	107.6098588	2444160 	2020	DYB2021		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	プカンバル	Pekanbaru	0	0.5171071	101.5408782	1090735 	2018	DYB2018	Tenayan Raya地区を含む	The answer includes Tenayan Raya district.
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	ボゴール	Bogor	0	-6.5952177	106.7936935	5162044 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	マカッサル	Makassar	0	-5.1335271	119.4080136	1502459 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	マラン	Malang	0	-7.978075	112.633868	1382786 	2018	DYB2018		
+ID	インドネシア共和国	インドネシア	Republic of Indonesia	Indonesia	メダン	Medan	0	3.5904796	98.6748504	2435252 	2020	DYB2021		
+UG	ウガンダ共和国	ウガンダ	Republic of Uganda	Uganda	カンパラ	Kampala	1	0.3149631	32.5862304	1650800 	2019	DYB2019		
+UA	ウクライナ	ウクライナ	Ukraine	Ukraine	キーウ	Kyiv	1	50.446306	30.520272	2893215 	2018	DYB2018	旧キエフ	
+UA	ウクライナ	ウクライナ	Ukraine	Ukraine	ハルキウ	Kharkiv	0	49.9900585	36.2323481	1430515 	2018	DYB2018	旧ハリコフ	
+UZ	ウズベキスタン共和国	ウズベキスタン	Republic of Uzbekistan	Uzbekistan	タシケント	Tashkent	1	41.3108248	69.2492835	2694378 	2021	DYB2021		
+UY	ウルグアイ東方共和国	ウルグアイ	Oriental Republic of Uruguay	Uruguay	モンテビデオ	Montevideo	1	-34.9062357	-56.1861229	1383601 	2021	DYB2021		
+EC	エクアドル共和国	エクアドル	Republic of Ecuador	Ecuador	キト	Quito	1	-0.220366	-78.5115271	1836779 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+EC	エクアドル共和国	エクアドル	Republic of Ecuador	Ecuador	グアヤキル	Guayaquil	0	-2.1952778	-79.8808333	2652684 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+EG	エジプト・アラブ共和国	エジプト	Arab Republic of Egypt	Egypt	カイロ	Cairo	1	30.0448511	31.2449268	9539673 	2017	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+EG	エジプト・アラブ共和国	エジプト	Arab Republic of Egypt	Egypt	アレクサンドリア	Alexandria	0	31.2404434	29.9625879	5163750 	2017	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+ET	エチオピア連邦民主共和国	エチオピア	Federal Democratic Republic of Ethiopia	Ethiopia	アディスアベバ	Addis Ababa	1	9.0346684	38.7508585	3774000 	2021	DYB2021		
+AU	オーストラリア連邦	オーストラリア	Commonwealth of Australia	Australia	アデレード	Adelaide	0	-34.9260956	138.6002489	1376601 	2020	DYB2021	都市圏（Greater Adelaide）の人口	The population is population in urban agglomeration.
+AU	オーストラリア連邦	オーストラリア	Commonwealth of Australia	Australia	シドニー	Sydney	0	-33.8731575	151.2061157	5367206 	2020	DYB2021	都市圏（Greater Sydney）の人口	The population is population in urban agglomeration.
+AU	オーストラリア連邦	オーストラリア	Commonwealth of Australia	Australia	パース	Perth	0	-31.9549063	115.8604856	2125114 	2020	DYB2021	都市圏（Greater Perth）の人口	The population is population in urban agglomeration.
+AU	オーストラリア連邦	オーストラリア	Commonwealth of Australia	Australia	ブリスベーン	Brisbane	0	-27.468993	153.023494	2560720 	2020	DYB2021	都市圏（Greater Brisbane）の人口	The population is population in urban agglomeration.
+AU	オーストラリア連邦	オーストラリア	Commonwealth of Australia	Australia	メルボルン	Melbourne	0	-37.8150856	144.9665653	5159211 	2020	DYB2021	都市圏（Greater Melbourne）の人口	The population is population in urban agglomeration.
+AT	オーストリア共和国	オーストリア	Republic of Austria	Austria	ウィーン	Vienna	1	48.2109437	16.3565084	1897491 	2019	DYB2019		
+GH	ガーナ共和国	ガーナ	Republic of Ghana	Ghana	アクラ	Accra	1	5.5507001	-0.2035776	1594419 	2010	DYB2017		
+GH	ガーナ共和国	ガーナ	Republic of Ghana	Ghana	クマシ	Kumasi	0	6.694429	-1.6146168	1730249 	2010	DYB2017		
+KZ	カザフスタン共和国	カザフスタン	Republic of Kazakhstan	Kazakhstan	アスタナ	Astana	1	51.1668247	71.420043	1212078 	2021	DYB2021	旧ヌルスルタン	
+KZ	カザフスタン共和国	カザフスタン	Republic of Kazakhstan	Kazakhstan	アルマトイ	Almaty	0	43.2365989	76.9456558	2001060 	2021	DYB2021		
+KZ	カザフスタン共和国	カザフスタン	Republic of Kazakhstan	Kazakhstan	シムケント	Shymkent	0	42.3191745	69.5909512	1093468 	2021	DYB2021		
+QA	カタール国	カタール	State of Qatar	Qatar	ドーハ	Doha	1	25.2818113	51.5046599	1186023 	2020	DYB2021		
+CA	カナダ	カナダ	Canada	Canada	オタワ	Ottawa	1	45.420608	-75.6904893	1054800 	2021	DYB2021		
+CA	カナダ	カナダ	Canada	Canada	エドモントン	Edmonton	0	53.5456493	-113.490263	1480754 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+CA	カナダ	カナダ	Canada	Canada	カルガリー	Calgary	0	51.0460243	-114.0573726	1559284 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+CA	カナダ	カナダ	Canada	Canada	トロント	Toronto	0	43.6534399	-79.3840901	6572524 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+CA	カナダ	カナダ	Canada	Canada	バンクーバー	Vancouver	0	49.2608138	-123.1140226	2773148 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+CA	カナダ	カナダ	Canada	Canada	モントリオール	Montreal	0	45.5089192	-73.5543325	4342213 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+CM	カメルーン共和国	カメルーン	Republic of Cameroon	Cameroon	ヤウンデ	Yaounde	1	3.8748155	11.5165097	3255651 	2020	DYB2021		
+CM	カメルーン共和国	カメルーン	Republic of Cameroon	Cameroon	ドゥアラ	Duala	0	4.0415644	9.6852786	3322170 	2020	DYB2021		
+KR	大韓民国	韓国	Republic of Korea	South Korea	ソウル	Seoul	1	37.5662952	126.9779451	9601693 	2020	DYB2021		
+KR	大韓民国	韓国	Republic of Korea	South Korea	仁川（インチョン）	Incheon	0	37.4560897	126.7059157	2951030 	2020	DYB2021		
+KR	大韓民国	韓国	Republic of Korea	South Korea	蔚山（ウルサン）	Ulsan	0	35.5396224	129.3115276	1139703 	2020	DYB2021		
+KR	大韓民国	韓国	Republic of Korea	South Korea	光州（クァンジュ）	Gwangju	0	35.1600766	126.8514758	1487675 	2020	DYB2021		
+KR	大韓民国	韓国	Republic of Korea	South Korea	大邱（テグ）	Daegu	0	35.8714046	128.6017501	2419246 	2020	DYB2021		
+KR	大韓民国	韓国	Republic of Korea	South Korea	大田（テジョン）	Daejeon	0	36.3504567	127.3848187	1500215 	2020	DYB2021		
+KR	大韓民国	韓国	Republic of Korea	South Korea	釜山（プサン）	Busan	0	35.1797913	129.074987	3343528 	2020	DYB2021		
+KH	カンボジア王国	カンボジア	Kingdom of Cambodia	Cambodia	プノンペン	Phnom Penh	1	11.5762481	104.9168018	1570791 	2011	DYB2017		
+KH	カンボジア王国	カンボジア	Kingdom of Cambodia	Cambodia	バッタンバン	Battambang	0	13.0907672	103.1987751	1126345 	2011	DYB2017		
+KP	朝鮮民主主義人民共和国	北朝鮮	Democratic People's Republic of Korea	North Korea	ピョンヤン	Pyongyang	1	39.0285429	125.7503686	2581076 	2008	DYB2017		
+GN	ギニア共和国	ギニア	Republic of Guinea	Guinea	コナクリ	Conakry	1	9.51014	-13.717439	2431930 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+CU	キューバ共和国	キューバ	Republic of Cuba	Cuba	ハバナ	Havana	1	23.1423901	-82.3559261	2130872 	2021	DYB2021		
+KG	キルギス共和国	キルギス	Kyrgyz Republic	Kyrgyzstan	ビシュケク	Bishkek	1	42.8761758	74.5865589	1086261 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+KE	ケニア共和国	ケニア	Republic of Kenya	Kenya	ナイロビ	Nairobi	1	-1.286585	36.821837	4395749 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+KE	ケニア共和国	ケニア	Republic of Kenya	Kenya	モンバサ	Mombasa	0	-4.063081	39.678747	1208112 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+CI	コートジボワール共和国	コートジボワール	Republic of Côte d'Ivoire	Ivory Coast	アビジャン	Abidjan	0	5.3211911	-4.0202908	5467296 	2021	DYB2021		
+CO	コロンビア共和国	コロンビア	Republic of Colombia	Colombia	ボゴタ	Bogota	1	4.5984614	-74.076467	7834167 	2021	DYB2021		
+CO	コロンビア共和国	コロンビア	Republic of Colombia	Colombia	カリ	Cali	0	3.454437	-76.5345849	2264748 	2021	DYB2021		
+CO	コロンビア共和国	コロンビア	Republic of Colombia	Colombia	カルタヘナ	Cartagena	0	10.4218571	-75.5500987	1043926 	2021	DYB2021		
+CO	コロンビア共和国	コロンビア	Republic of Colombia	Colombia	バランキージャ	Barranquilla	0	10.9814933	-74.7781999	1297082 	2021	DYB2021		
+CO	コロンビア共和国	コロンビア	Republic of Colombia	Colombia	メデリン	Medellin	0	6.2452572	-75.573553	2573220 	2021	DYB2021		
+CD	コンゴ民主共和国	コンゴ民主共和国	Democratic Republic of the Congo	Congo, DR	キンシャサ	Kinshasa	1	-4.3061828	15.3084537	2664309 	1984	DYB2004		
+SA	サウジアラビア王国	サウジアラビア	Kingdom of Saudi Arabia	Saudi Arabia	リヤド	Riyadh	1	24.6725488	46.7372325	5188286 	2010	DYB2017		
+SA	サウジアラビア王国	サウジアラビア	Kingdom of Saudi Arabia	Saudi Arabia	アルマディーナ	Al-Madinah	0	24.4595215	39.6004628	1100093 	2010	DYB2017		
+SA	サウジアラビア王国	サウジアラビア	Kingdom of Saudi Arabia	Saudi Arabia	ジッダ	Jeddah	0	21.5006793	39.1676546	3430697 	2010	DYB2017		
+SA	サウジアラビア王国	サウジアラビア	Kingdom of Saudi Arabia	Saudi Arabia	メッカ	Makkah	0	21.4435691	39.9031143	1534731 	2010	DYB2017		
+ZM	ザンビア共和国	ザンビア	Republic of Zambia	Zambia	ルサカ	Lusaka	1	-15.4209502	28.3010351	1747152 	2010	DYB2017		
+SL	シエラレオネ共和国	シエラレオネ	Republic of Sierra Leone	Sierra Leone	フリータウン	Freetown	1	8.4904231	-13.2354989	1200230 	2020	DYB2020		
+GE	ジョージア	ジョージア	Georgia	Georgia	トビリシ	Tbilisi	1	41.7257221	44.775287	1184818 	2020	DYB2020	旧国名グルジア，都市圏の人口	The population is population in urban agglomeration.
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	ダマスカス	Damascus	1	33.5156746	36.2956763	1680000 	2008	DYB2017		
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	アレッポ	Aleppo	0	36.2030726	37.1470294	4450000 	2008	DYB2017		
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	イドリブ	Idlib	0	35.926947	36.633822	1376000 	2008	DYB2017		
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	ダマスカス郊外	Rural Damascus	0	33.5713731	36.4009774	2529000 	2008	DYB2017	代表点はドゥーマー（行政区域内のモスク）	The representative point is Douma.
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	デリゾール	Deir ez-Zor	0	35.3407158	40.132954	1111000 	2008	DYB2017	代表点はデリゾール博物館	The representative point is the Deir ez-Zor Museum.
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	ハサカ	Al-Hasakah	0	36.5023318	40.7489294	1392000 	2008	DYB2017	代表点は聖ゲオルギオス教会	The representative point is St. George
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	ハマー	Hama	0	35.1315267	36.7643523	1508000 	2008	DYB2017		
+SY	シリア・アラブ共和国	シリア	Syrian Arab Republic	Syria	ホムス	Homs	0	34.7299368	36.7104229	1667000 	2008	DYB2017		
+SG	シンガポール共和国	シンガポール	Republic of Singapore	Singapore	シンガポール	Singapore	1	1.3067039	103.8431002	5453566 	2021	DYB2021		
+ZW	ジンバブエ共和国	ジンバブエ	Republic of Zimbabwe	Zimbabwe	ハラレ	Harare	1	-17.8319021	31.0461399	1877614 	2021	DYB2021		
+CH	スイス連邦	スイス	Swiss Confederation	Switzerland	チューリッヒ	Zurich	0	47.3715274	8.5427133	1414771 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+SD	スーダン共和国	スーダン	The Republic of the Sudan	Sudan	ハルツーム	Khartoum	1	15.6074317	32.5182284	2919773 	1993	DYB2009-2010	都市圏の人口	The population is population in urban agglomeration.
+SD	スーダン共和国	スーダン	The Republic of the Sudan	Sudan	オムドゥルマン	Omdurman	0	15.6393358	32.4855733	1271403 	1993	DYB2009-2010		
+ES	スペイン	スペイン	Spain	Spain	マドリード	Madrid	1	40.4183806	-3.6918174	3320069 	2020	DYB2021		
+ES	スペイン	スペイン	Spain	Spain	バルセロナ	Barcelona	0	41.3823947	2.1773651	1650457 	2020	DYB2021		
+SN	セネガル共和国	セネガル	Republic of Senegal	Senegal	ダカール	Dakar	1	14.6721562	-17.4315476	1457697 	2021	DYB2021		
+SN	セネガル共和国	セネガル	Republic of Senegal	Senegal	ピキン	Pikine	0	14.7440158	-17.4022247	1489164 	2021	DYB2021		
+RS	セルビア共和国	セルビア	Republic of Serbia	Serbia	ベオグラード	Belgrade	1	44.8107948	20.4625572	1694480 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+SO	ソマリア連邦共和国	ソマリア	Federal Republic of Somalia	Somalia	モガディシオ	Mogadishu	1	2.0348901	45.3418305	1212000 	2001	DYB2017		
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	バンコク	Bangkok	1	13.7538189	100.5018236	8392556 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ウドーンターニー	Udon Thani	0	17.4152487	102.7874174	1247556 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ウボンラーチャターニー	Ubon Ratchathani	0	15.2767697	104.8042944	1728250 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	コーンケン	Khon Kaen	0	16.4448691	102.8356841	1702060 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	サムットプラカーン	Samut Prakan	0	13.5994195	100.5968855	2151753 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	スラートターニー	Surat Thani	0	9.1323532	99.3329005	1048398 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	スリン	Surin	0	14.8822919	103.4922798	1046755 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ソンクラー	Songkhla	0	7.2052648	100.5969485	1611882 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	チエンマイ	Chiang Mai	0	18.8371264	98.9708332	1682180 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	チエンラーイ	Chiang Rai	0	19.920675	99.8142679	1107346 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	チョンブリー	Chon Buri	0	13.3618997	100.9833311	1747572 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ナコーンシータンマラート	Nakhon Si Thammarat	0	8.4185082	99.9634825	1491115 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ナコーンパトム	Nakhon Pathom	0	13.7667989	100.0586629	1056901 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ナコーンラーチャシーマー	Nakhon Ratchasima	0	14.9723581	102.1000962	2477991 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ノンタブリー	Nonthaburi	0	13.8625051	100.5144834	1641691 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	パトゥムターニー	Pathum Thani	0	14.0213121	100.5246592	1601351 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ブリーラム	Buri Ram	0	14.9457991	103.1011683	1199858 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TH	タイ王国	タイ	Kingdom of Thailand	Thailand	ローイエット	Roi Et	0	16.0531679	103.6524409	1049594 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TW	台湾（中華民国）	台湾	Taiwan, Province of China (Republic of China)	Taiwan	台北（タイペイ）	Taipei	1	25.0375417	121.5644327	2524393 	2021	TW2021		
+TW	台湾（中華民国）	台湾	Taiwan, Province of China (Republic of China)	Taiwan	高雄（カオシュン）	Kaohsiung	0	22.6204616	120.3120625	2744691 	2021	TW2021		
+TW	台湾（中華民国）	台湾	Taiwan, Province of China (Republic of China)	Taiwan	新北（シンペイ）	New Taipei	0	25.0123025	121.4654552	4008113 	2021	TW2021		
+TW	台湾（中華民国）	台湾	Taiwan, Province of China (Republic of China)	Taiwan	台中（タイチョン）	Taichung	0	24.1617727	120.6469191	2813490 	2021	TW2021		
+TW	台湾（中華民国）	台湾	Taiwan, Province of China (Republic of China)	Taiwan	台南（タイナン）	Tainan	0	22.9922351	120.1850548	1862059 	2021	TW2021		
+TW	台湾（中華民国）	台湾	Taiwan, Province of China (Republic of China)	Taiwan	桃園（タオユェン）	Taoyuan	0	24.9931569	121.3010063	2272391 	2021	TW2021		
+TW	台湾（中華民国）	台湾	Taiwan, Province of China (Republic of China)	Taiwan	彰化（チャンホワ）	Changhua	0	24.0809056	120.5422565	1255330 	2021	TW2021		
+TZ	タンザニア連合共和国	タンザニア	United Republic of Tanzania	Tanzania	アルーシャ	Arusha	0	-3.3705298	36.6959131	1000923 	2018	DYB2018		
+TZ	タンザニア連合共和国	タンザニア	United Republic of Tanzania	Tanzania	ザンジバル	Zanzibar	0	-6.16591	39.189027	1303569 	2012	DYB2017		
+TZ	タンザニア連合共和国	タンザニア	United Republic of Tanzania	Tanzania	ダルエスサラーム	Dar es Salaam	0	-6.8203671	39.2864438	5147070 	2018	DYB2018		
+TZ	タンザニア連合共和国	タンザニア	United Republic of Tanzania	Tanzania	ムワンザ	Mwanza	0	-2.5106504	32.9031247	2772509 	2012	DYB2017		
+CZ	チェコ共和国	チェコ	Czech Republic	Czech Republic	プラハ	Prague	1	50.0782622	14.4212465	1335084 	2021	DYB2021		
+TD	チャド共和国	チャド	Republic of Chad	Chad	ウンジャメナ	N'Djamena	1	12.1052915	15.0448322	1521882 	2019	DYB2019		
+CN	中華人民共和国	中国	People's Republic of China	China	北京（ペキン）	Beijing	1	39.9046496	116.7184868	18796000 	2016	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+CN	中華人民共和国	中国	People's Republic of China	China	鞍山（アンシャン）	Anshan	0	41.1062139	122.9889569	1556285 	2000	DYB2009-2010	遼寧省鞍山市	
+CN	中華人民共和国	中国	People's Republic of China	China	安丘（アンチュウ）	Anqiu	0	36.4793987	119.2131744	1096782 	2000	DYB2009-2010	山東省イ坊市安丘市	
+CN	中華人民共和国	中国	People's Republic of China	China	宜興（イーシン）	Yixing	0	31.3399357	119.8155566	1164275 	2000	DYB2009-2010	江蘇省無錫市宜興市	
+CN	中華人民共和国	中国	People's Republic of China	China	益陽（イーヤン）	Yiyang	0	28.5586155	112.3495122	1228881 	2000	DYB2009-2010	湖南省益陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	煙台（イェンタイ）	Yantai	0	37.4633792	121.4425492	1724404 	2000	DYB2009-2010	山東省煙台市	
+CN	中華人民共和国	中国	People's Republic of China	China	無錫（ウーシー）	Wuxi	0	31.4934639	120.3075167	1425766 	2000	DYB2009-2010	江蘇省無錫市	
+CN	中華人民共和国	中国	People's Republic of China	China	武進（ウージン）	Wujin	0	31.7031566	119.937825	1420204 	2000	DYB2009-2010	江蘇省常州市武進区	
+CN	中華人民共和国	中国	People's Republic of China	China	武漢（ウーハン）	Wuhan	0	30.5951047	114.2994248	8312700 	2000	DYB2009-2010	湖北省武漢市	
+CN	中華人民共和国	中国	People's Republic of China	China	濰坊（ウェイファン）	Weifang	0	36.7073709	119.1557607	1380300 	2000	DYB2009-2010	山東省イ坊市	
+CN	中華人民共和国	中国	People's Republic of China	China	温州（ウェンヂョウ）	Wenzhou	0	27.996698	120.6952913	1915548 	2000	DYB2009-2010	浙江省温州市	
+CN	中華人民共和国	中国	People's Republic of China	China	温嶺（ウェンリン）	Wenling	0	28.3759481	121.3808909	1162783 	2000	DYB2009-2010	浙江省台州市温嶺市	
+CN	中華人民共和国	中国	People's Republic of China	China	烏魯木斉（ウルムチ）	Urumqi	0	43.8242219	87.6139701	1753298 	2000	DYB2009-2010	新疆ウイグルウルムチ	
+CN	中華人民共和国	中国	People's Republic of China	China	鄂州（オゥーヂョウ）	Ezhou	0	30.3936932	114.8898386	1023285 	2000	DYB2009-2010	湖北省鄂州市	
+CN	中華人民共和国	中国	People's Republic of China	China	高州（カオチョウ）	Gaozhou	0	21.9222581	110.8491742	1219132 	2000	DYB2009-2010	広東省茂名市高州市	
+CN	中華人民共和国	中国	People's Republic of China	China	広安（グァンアン）	Guangan	0	30.4594645	106.6286039	1093103 	2000	DYB2009-2010	四川省広安市	
+CN	中華人民共和国	中国	People's Republic of China	China	広州（グアンヂョウ）	Guangzhou	0	23.1321116	113.2589791	8524826 	2000	DYB2009-2010	広東省広州市	
+CN	中華人民共和国	中国	People's Republic of China	China	桂平（グイピン）	Guiping	0	23.3966521	110.0743541	1359035 	2000	DYB2009-2010	広西チワン族自治区貴港市桂平市	
+CN	中華人民共和国	中国	People's Republic of China	China	貴港（グエガン）	Guigang	0	23.1143828	109.5947248	1413128 	2000	DYB2009-2010	広西チワン族自治区貴港市	
+CN	中華人民共和国	中国	People's Republic of China	China	昆明（クンミン）	Kunming	0	24.8879021	102.8311083	3035406 	2000	DYB2009-2010	雲南省昆明市	
+CN	中華人民共和国	中国	People's Republic of China	China	貴陽（コイヤン）	Guiyang	0	26.6502201	106.6245581	2985105 	2000	DYB2009-2010	貴州省貴陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	公主嶺（ゴンヂューリン）	Gongzhuling	0	43.4778504	124.7631423	1041735 	2000	DYB2009-2010	吉林省四平市公主嶺市	
+CN	中華人民共和国	中国	People's Republic of China	China	棗荘（ザオヂュアン）	Zaozhuang	0	34.8110913	117.3178778	1996798 	2000	DYB2009-2010	山東省棗荘市	
+CN	中華人民共和国	中国	People's Republic of China	China	棗陽（ザオヤン）	Zaoyang	0	32.1309335	112.7665635	1054374 	2000	DYB2009-2010	湖北省襄陽市棗陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	江陰（ジァンイン）	Jiangyin	0	31.9225531	120.2804843	1315472 	2000	DYB2009-2010	江蘇省無錫市江陰市	
+CN	中華人民共和国	中国	People's Republic of China	China	江都（ジァンドゥー）	Jiangdu	0	32.4381762	119.5646782	1053023 	2000	DYB2009-2010	江蘇省揚州市江都区	
+CN	中華人民共和国	中国	People's Republic of China	China	西安（シーアン）	Xi'an	0	34.3440699	108.9351966	4481508 	2000	DYB2009-2010	陝西省西安市	
+CN	中華人民共和国	中国	People's Republic of China	China	石家荘（シージャーズォアン）	Shijiazhuang	0	38.0415733	114.5088137	1969975 	2000	DYB2009-2010	河北省石家荘市	
+CN	中華人民共和国	中国	People's Republic of China	China	錫山（シーシャン）	Xishan	0	31.5914125	120.3531749	1181073 	2000	DYB2009-2010	江蘇省無錫市錫山区	
+CN	中華人民共和国	中国	People's Republic of China	China	済南（ジーナン）	Jinan	0	36.6518777	117.1139712	2999934 	2000	DYB2009-2010	山東省済南市	
+CN	中華人民共和国	中国	People's Republic of China	China	済寧（ジーニン）	Jining (Shandong)	0	35.4155506	116.5819705	1050522 	2000	DYB2009-2010	山東省済寧市	The city is located in Shandong province.
+CN	中華人民共和国	中国	People's Republic of China	China	即墨（ジーモー）	Jimo	0	36.389307	120.4420111	1111202 	2000	DYB2009-2010	山東省青島市即墨区	
+CN	中華人民共和国	中国	People's Republic of China	China	仙桃（シェンタオ）	Xiantao	0	30.3309558	113.4369955	1474078 	2000	DYB2009-2010	湖北省仙桃市	
+CN	中華人民共和国	中国	People's Republic of China	China	深圳（シェンヂェン）	Shenzhen	0	22.5465671	114.0545314	7008831 	2000	DYB2009-2010	広東省深セン	
+CN	中華人民共和国	中国	People's Republic of China	China	瀋陽（シェンヤン）	Shenyang	0	41.6752902	123.458089	5303053 	2000	DYB2009-2010	遼寧省瀋陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	簡陽（ジェンヤン）	Jianyang (Sichuan)	0	30.41416	104.5448214	1412523 	2000	DYB2009-2010	四川省資陽市簡陽市	The city is located in Sichuan province.
+CN	中華人民共和国	中国	People's Republic of China	China	廈門（シャーメン）	Xiamen	0	24.4824606	118.0845005	2053070 	2000	DYB2009-2010	福建省廈門市	
+CN	中華人民共和国	中国	People's Republic of China	China	蕭山（シャオシャン）	Xiaoshan	0	30.1862719	120.2597572	1233348 	2000	DYB2009-2010	浙江省杭州市蕭山区	
+CN	中華人民共和国	中国	People's Republic of China	China	江津（ジャンジン）	Jiangjin	0	29.3226292	106.2605483	1322890 	2000	DYB2009-2010	重慶市江津区	
+CN	中華人民共和国	中国	People's Republic of China	China	商丘（シャンチュウ）	Shangqiu	0	34.4164423	115.6507159	1428983 	2000	DYB2009-2010	河南省商丘市	
+CN	中華人民共和国	中国	People's Republic of China	China	項城（シャンチョン）	Xiangcheng	0	33.4670889	114.8697996	1052468 	2000	DYB2009-2010	河南省周口市項城市	
+CN	中華人民共和国	中国	People's Republic of China	China	汕頭（シャントウ）	Shantou	0	23.3566091	116.6775568	1270112 	2000	DYB2009-2010	広東省汕頭市	
+CN	中華人民共和国	中国	People's Republic of China	China	上海（シャンハイ）	Shanghai	0	31.2321437	121.4692687	14348535 	2000	DYB2009-2010	上海市	
+CN	中華人民共和国	中国	People's Republic of China	China	徐州（シューィヂョウ）	Xuzhou	0	34.2066568	117.2783733	1679626 	2000	DYB2009-2010	江蘇省徐州市	
+CN	中華人民共和国	中国	People's Republic of China	China	宣威（シュエンウェイ）	Xuanwei	0	26.2226403	104.1013932	1292825 	2000	DYB2009-2010	雲南省曲靖市宣威市	
+CN	中華人民共和国	中国	People's Republic of China	China	順徳（シュンダー）	Shunde	0	22.8084956	113.2876512	1694152 	2000	DYB2009-2010	広東省仏山市順徳区	
+CN	中華人民共和国	中国	People's Republic of China	China	寿光（ショウグァン）	Shouguang	0	36.8575403	118.7862639	1081991 	2000	DYB2009-2010	山東省イ坊市寿光市	
+CN	中華人民共和国	中国	People's Republic of China	China	諸城（ショジョウ）	Zhucheng	0	35.9956781	119.4041802	1053695 	2000	DYB2009-2010	山東省イ坊市諸城市	
+CN	中華人民共和国	中国	People's Republic of China	China	晋江（ジンジアン）	Jinjiang	0	24.7846618	118.5471454	1479259 	2000	DYB2009-2010	福建省泉州市晋江市	
+CN	中華人民共和国	中国	People's Republic of China	China	新泰（シンタイ）	Xintai	0	35.909388	117.762107	1344395 	2000	DYB2009-2010	山東省泰安市新泰市	
+CN	中華人民共和国	中国	People's Republic of China	China	荊州（ジンヂョウ）	Jingzhou	0	30.3385844	112.235999	1177150 	2000	DYB2009-2010	湖北省荊州区	
+CN	中華人民共和国	中国	People's Republic of China	China	興化（シンフア）	Xinghua	0	32.9143243	119.8468263	1441659 	2000	DYB2009-2010	江蘇省泰州市興化市	
+CN	中華人民共和国	中国	People's Republic of China	China	信陽（シンヤン）	Xinyang	0	32.150641	114.0851952	1255750 	2000	DYB2009-2010	河南省信陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	随州（スイヂョウ）	Suizhou	0	31.6920189	113.3763468	1598752 	2000	DYB2009-2010	湖北省随州市	
+CN	中華人民共和国	中国	People's Republic of China	China	遂寧（スイニン）	Suining	0	30.535446	105.5893891	1355388 	2000	DYB2009-2010	四川省遂寧市	
+CN	中華人民共和国	中国	People's Republic of China	China	宿州（スーヂョウ）	Suzhou (Anhui)	0	33.6487773	116.9587806	1601181 	2000	DYB2009-2010	安徽省宿州市	The city is located in Anhui province.
+CN	中華人民共和国	中国	People's Republic of China	China	蘇州（スーヂョウ）	Suzhou (Jiangsu)	0	31.3019417	120.5810077	1344709 	2000	DYB2009-2010	江蘇省蘇州市	The city is located in Jiangsu province.
+CN	中華人民共和国	中国	People's Republic of China	China	淄博（ズーボー）	Zibo	0	36.813085	118.0488091	2817479 	2000	DYB2009-2010	山東省シ博市	
+CN	中華人民共和国	中国	People's Republic of China	China	資陽（ズーヤン）	Ziyang	0	30.1316754	104.6251845	1016034 	2000	DYB2009-2010	四川省資陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	鄭州（ズェンヂョウ）	Zhengzhou	0	34.7477857	113.6193223	2589387 	2000	DYB2009-2010	河南省鄭州市	
+CN	中華人民共和国	中国	People's Republic of China	China	鄒城（ズォウチョン）	Zoucheng	0	35.4046683	117.0016364	1101003 	2000	DYB2009-2010	山東省済寧市鄒城市	
+CN	中華人民共和国	中国	People's Republic of China	China	中山（ズォンシャン）	Zhongshan	0	22.5196006	113.3881505	2363322 	2000	DYB2009-2010	広東省中山市	
+CN	中華人民共和国	中国	People's Republic of China	China	大慶（ダーチン）	Daqing	0	46.5879559	125.0978135	1380051 	2000	DYB2009-2010	黒竜江省大慶市	
+CN	中華人民共和国	中国	People's Republic of China	China	大同（ダートン）	Datong	0	40.0952816	113.3597721	1526744 	2000	DYB2009-2010	山西省大同市	
+CN	中華人民共和国	中国	People's Republic of China	China	大連（ダーリエン）	Dalian	0	38.9132697	121.6096782	3245191 	2000	DYB2009-2010	遼寧省大連市	
+CN	中華人民共和国	中国	People's Republic of China	China	泰安（タイアン）	Tai'an	0	36.2003108	117.08093	1538211 	2000	DYB2009-2010	山東省泰安市	
+CN	中華人民共和国	中国	People's Republic of China	China	泰興（タイシン）	Taixing	0	32.1749791	120.0463789	1235454 	2000	DYB2009-2010	江蘇省泰州市泰興市	
+CN	中華人民共和国	中国	People's Republic of China	China	台州（タイヂョウ）	Taizhou (Zhejiang)	0	28.659135	121.4163298	1491963 	2000	DYB2009-2010	浙江省台州市	The city is located in Zhejiang province.
+CN	中華人民共和国	中国	People's Republic of China	China	太原（タイユアン）	Taiyuan	0	37.8700141	112.5436769	2558382 	2000	DYB2009-2010	山西省太原市	
+CN	中華人民共和国	中国	People's Republic of China	China	唐山（タンシャン）	Tangshan	0	39.6295218	118.173932	1711311 	2000	DYB2009-2010	河北省唐山市	
+CN	中華人民共和国	中国	People's Republic of China	China	啓東（チードン）	Qidong	0	31.7950456	121.6510548	1057073 	2000	DYB2009-2010	江蘇省南通市啓東市	
+CN	中華人民共和国	中国	People's Republic of China	China	赤峰（チーフォン）	Chifeng	0	42.255944	118.8805894	1153723 	2000	DYB2009-2010	内モンゴル赤峰市	
+CN	中華人民共和国	中国	People's Republic of China	China	吉林（ヂーリン）	Jilin	0	43.8357685	126.5435638	1953134 	2000	DYB2009-2010	吉林省吉林市	
+CN	中華人民共和国	中国	People's Republic of China	China	斉斉哈爾（チチハル）	Qiqihar	0	47.3530288	123.9117149	1540089 	2000	DYB2009-2010	黒竜江省チチハル	
+CN	中華人民共和国	中国	People's Republic of China	China	潮陽（チャオヤン）	Chaoyang (Guangdong)	0	23.2685287	116.5969606	2470812 	2000	DYB2009-2010	広東省汕頭市潮陽区	The city is located in Guangdong province.
+CN	中華人民共和国	中国	People's Republic of China	China	湛江（チャンジァン）	Zhanjiang	0	21.2727282	110.3532028	1350665 	2000	DYB2009-2010	広東省湛江市	
+CN	中華人民共和国	中国	People's Republic of China	China	長沙（チャンシャー）	Changsha	0	28.2317758	112.933457	2122873 	2000	DYB2009-2010	湖南省長沙市	
+CN	中華人民共和国	中国	People's Republic of China	China	常熟（チャンスゥオー）	Changshu	0	31.6578962	120.7481094	1239637 	2000	DYB2009-2010	江蘇省蘇州市常熟市	
+CN	中華人民共和国	中国	People's Republic of China	China	常徳（チャンダー）	Changde	0	29.0344074	111.6933311	1346739 	2000	DYB2009-2010	湖南省常徳市	
+CN	中華人民共和国	中国	People's Republic of China	China	長春（チャンチュン）	Changchun	0	43.8144637	125.3170843	3225557 	2000	DYB2009-2010	吉林省長春市	
+CN	中華人民共和国	中国	People's Republic of China	China	常州（チャンヂョウ）	Changzhou	0	31.8133181	119.9692827	1081845 	2000	DYB2009-2010	江蘇省常州市	
+CN	中華人民共和国	中国	People's Republic of China	China	諸曁（ヂュージー）	Zhuji	0	29.7121465	120.2423491	1070675 	2000	DYB2009-2010	浙江省紹興市諸曁市	
+CN	中華人民共和国	中国	People's Republic of China	China	泉州（チュワンヂョウ）	Quanzhou	0	24.8770138	118.6713419	1192286 	2000	DYB2009-2010	福建省泉州市	
+CN	中華人民共和国	中国	People's Republic of China	China	鍾祥（ヂョンシャン）	Zhongxiang	0	31.170342	112.5828965	1021998 	2000	DYB2009-2010	湖北省荊門市鍾祥市	
+CN	中華人民共和国	中国	People's Republic of China	China	欽州（チンジョウ）	Qinzhou	0	21.9841318	108.650635	1035504 	2000	DYB2009-2010	広西チワン族自治区欽州市	
+CN	中華人民共和国	中国	People's Republic of China	China	青島（チンダオ）	Qingdao	0	36.0668695	120.3774645	2720972 	2000	DYB2009-2010	山東省青島市	
+CN	中華人民共和国	中国	People's Republic of China	China	自貢（ツーゴン）	Zigong	0	29.3418399	104.7767894	1051384 	2000	DYB2009-2010	四川省自貢市	
+CN	中華人民共和国	中国	People's Republic of China	China	慈渓（ツーシー）	Cixi	0	30.1729512	121.2622406	1214537 	2000	DYB2009-2010	浙江省寧波市慈渓市	
+CN	中華人民共和国	中国	People's Republic of China	China	成都（ツェンドゥー）	Chengdu	0	30.5753729	104.0634097	4333541 	2000	DYB2009-2010	四川省成都市	
+CN	中華人民共和国	中国	People's Republic of China	China	重慶（ツォンチン）	Chongqing	0	29.5667685	106.5468717	9691901 	2000	DYB2009-2010	重慶市	
+CN	中華人民共和国	中国	People's Republic of China	China	天水（ティエンシュイ）	Tianshui	0	34.5833458	105.7206763	1146986 	2000	DYB2009-2010	甘粛省天水市	
+CN	中華人民共和国	中国	People's Republic of China	China	天津（ティエンジン）	Tianjin	0	39.0839665	117.1948783	7499181 	2000	DYB2009-2010	天津市	
+CN	中華人民共和国	中国	People's Republic of China	China	天門（ティエンメン）	Tianmen	0	30.6662124	113.1606565	1613739 	2000	DYB2009-2010	湖北省天門市	
+CN	中華人民共和国	中国	People's Republic of China	China	定州（ティンチョウ）	Dingzhou	0	38.5160273	114.9842161	1107903 	2000	DYB2009-2010	河北省保定市定州市	
+CN	中華人民共和国	中国	People's Republic of China	China	鄧州（テンチョウ）	Dengzhou	0	32.6897697	112.081209	1290656 	2000	DYB2009-2010	河南省南陽市トウ州市	
+CN	中華人民共和国	中国	People's Republic of China	China	東莞（ドングアン）	Dongguan	0	23.0234629	113.7466294	6445777 	2000	DYB2009-2010	広東省東莞市	
+CN	中華人民共和国	中国	People's Republic of China	China	東台（ドンタイ）	Dongtai	0	32.8697727	120.315548	1164653 	2000	DYB2009-2010	江蘇省塩城市東台市	
+CN	中華人民共和国	中国	People's Republic of China	China	滕州（トンヂョウ）	Tengzhou	0	35.11434	117.1599902	1548817 	2000	DYB2009-2010	山東省棗荘市滕州市	
+CN	中華人民共和国	中国	People's Republic of China	China	通州（トンヂョウ）	Tongzhou	0	32.0680597	121.0691663	1371498 	2000	DYB2009-2010	江蘇省南通市通州区	
+CN	中華人民共和国	中国	People's Republic of China	China	南安（ナンアン）	Nan'an	0	24.962873	118.3816575	1385276 	2000	DYB2009-2010	福建省泉州市南安市	
+CN	中華人民共和国	中国	People's Republic of China	China	南京（ナンジン）	Nanjing	0	32.062314	118.7916685	3624234 	2000	DYB2009-2010	江蘇省南京市	
+CN	中華人民共和国	中国	People's Republic of China	China	南昌（ナンチャン）	Nanchang	0	28.6861474	115.8533421	1844253 	2000	DYB2009-2010	江西省南昌市	
+CN	中華人民共和国	中国	People's Republic of China	China	南充（ナンチョン）	Nanchong	0	30.8401143	106.1066211	1771920 	2000	DYB2009-2010	四川省南充市	
+CN	中華人民共和国	中国	People's Republic of China	China	南寧（ナンニン）	Nan'ning	0	22.8199729	108.3621402	1766701 	2000	DYB2009-2010	広西チワン族自治区南寧市	
+CN	中華人民共和国	中国	People's Republic of China	China	南海（ナンハイ）	Nanhai	0	23.0315394	113.1379108	2133741 	2000	DYB2009-2010	広東省仏山市南海区	
+CN	中華人民共和国	中国	People's Republic of China	China	南陽（ナンヤン）	Nan'yang	0	32.9924011	112.522665	1584715 	2000	DYB2009-2010	河南省南陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	寧波（ニンポー）	Ningbo	0	29.8627926	121.6204654	1567499 	2000	DYB2009-2010	浙江省寧波市	
+CN	中華人民共和国	中国	People's Republic of China	China	内江（ネイジャン）	Neijiang	0	29.5826801	105.0546616	1391931 	2000	DYB2009-2010	四川省内江市	
+CN	中華人民共和国	中国	People's Republic of China	China	哈爾浜（ハーアルピン）	Harbin	0	45.801217	126.5291519	3481504 	2000	DYB2009-2010	黒竜江省ハルビン	
+CN	中華人民共和国	中国	People's Republic of China	China	巴中（バーヂョン）	Bazhong	0	31.8699073	106.7432865	1185862 	2000	DYB2009-2010	四川省巴中市	
+CN	中華人民共和国	中国	People's Republic of China	China	合肥（ハーフェイ）	Hefei	0	31.823575	117.2218708	1659075 	2000	DYB2009-2010	安徽省合肥市	
+CN	中華人民共和国	中国	People's Republic of China	China	海城（ハイチョン）	Haicheng	0	40.8808329	122.6799276	1181130 	2000	DYB2009-2010	遼寧省鞍山市海城市	
+CN	中華人民共和国	中国	People's Republic of China	China	包頭（パオトウ）	Baotou	0	40.6200534	109.9473038	1671181 	2000	DYB2009-2010	内モンゴル包頭市	
+CN	中華人民共和国	中国	People's Republic of China	China	邯鄲（ハンダン）	Handan	0	36.6257544	114.53341	1329734 	2000	DYB2009-2010	河北省邯鄲市	
+CN	中華人民共和国	中国	People's Republic of China	China	漢川（ハンチュアン）	Hanchuan	0	30.6767728	113.8325601	1057396 	2000	DYB2009-2010	湖北省孝感市漢川市	
+CN	中華人民共和国	中国	People's Republic of China	China	杭州（ハンヂョウ）	Hangzhou	0	30.2489606	120.2051729	2451319 	2000	DYB2009-2010	浙江省杭州市	
+CN	中華人民共和国	中国	People's Republic of China	China	畢節（ビージェー）	Bijie	0	27.2870713	105.2885283	1128230 	2000	DYB2009-2010	貴州省畢節市	
+CN	中華人民共和国	中国	People's Republic of China	China	邳州（ピーヂョウ）	Pizhou	0	34.3401128	118.0067892	1539922 	2000	DYB2009-2010	江蘇省徐州市ヒ州市	
+CN	中華人民共和国	中国	People's Republic of China	China	平度（ピンドゥ）	Pingdu	0	36.7527049	119.966354	1321975 	2000	DYB2009-2010	山東省青島市平度市	
+CN	中華人民共和国	中国	People's Republic of China	China	淮南（ファイナン）	Huainan	0	32.5894083	117.0129783	1357228 	2000	DYB2009-2010	安徽省淮南市	
+CN	中華人民共和国	中国	People's Republic of China	China	撫順（フーシュン）	Fushun	0	41.87895	123.9513185	1434447 	2000	DYB2009-2010	遼寧省撫順市	
+CN	中華人民共和国	中国	People's Republic of China	China	福州（フーヂョウ）	Fuzhou (Fujian)	0	26.0773171	119.2913656	2124435 	2000	DYB2009-2010	福建省福州市	The city is located in Fujian province.
+CN	中華人民共和国	中国	People's Republic of China	China	撫州（フーヂョウ）	Fuzhou (Jiangxi)	0	27.9523524	116.3530273	1007391 	2000	DYB2009-2010	江西省撫州市	The city is located in Jiangxi province.
+CN	中華人民共和国	中国	People's Republic of China	China	湖州（フーヂョウ）	Huzhou	0	30.8964472	120.0818364	1145414 	2000	DYB2009-2010	浙江省湖州市	
+CN	中華人民共和国	中国	People's Republic of China	China	福清（フーチン）	Fuqing	0	25.7228117	119.3794156	1174540 	2000	DYB2009-2010	福建省福州市福清市	
+CN	中華人民共和国	中国	People's Republic of China	China	普寧（プーニン）	Puning	0	23.3003839	116.1611531	1856402 	2000	DYB2009-2010	広東省掲陽市普寧市	
+CN	中華人民共和国	中国	People's Republic of China	China	富陽（フーヤン）	Fuyang (Zhejiang)	0	30.0506661	119.9557244	1719057 	2000	DYB2009-2010	浙江省杭州市富陽区	The city is located in Zhejiang province.
+CN	中華人民共和国	中国	People's Republic of China	China	豊城（フォンチョン）	Fengcheng (Jiangxi)	0	28.1640468	115.7661661	1216412 	2000	DYB2009-2010	江西省宜春市豊城市	The city is located in Jiangxi province.
+CN	中華人民共和国	中国	People's Republic of China	China	呼和浩特（フフホト）	Huhehaote	0	40.841401	111.7417195	1406955 	2000	DYB2009-2010	内モンゴルフフホト	
+CN	中華人民共和国	中国	People's Republic of China	China	北流（ベイリュウ）	Beiliu	0	22.7111764	110.3494756	1049035 	2000	DYB2009-2010	広西チワン族自治区玉林市北流市	
+CN	中華人民共和国	中国	People's Republic of China	China	淮安（ホァイアン）	Huai'an	0	33.5525646	119.1075748	1200679 	2000	DYB2009-2010	江蘇省淮安市	
+CN	中華人民共和国	中国	People's Republic of China	China	化州（ホアチョウ）	Huazhou	0	21.6675882	110.6352671	1007796 	2000	DYB2009-2010	広東省茂名市化州市	
+CN	中華人民共和国	中国	People's Republic of China	China	合川（ホーチュアン）	Hechuan	0	29.9747502	106.2724608	1420520 	2000	DYB2009-2010	重慶市合川区	
+CN	中華人民共和国	中国	People's Republic of China	China	亳州（ボーヂョウ）	Bozhou	0	33.8468632	115.7730595	1351939 	2000	DYB2009-2010	安徽省亳州市	
+CN	中華人民共和国	中国	People's Republic of China	China	菏沢（ホーヅー）	Heze	0	35.2348208	115.4738228	1280031 	2000	DYB2009-2010	山東省カ沢市	
+CN	中華人民共和国	中国	People's Republic of China	China	香港（ホンコン）	Hong Kong	0	22.2802975	114.16586	7413100 	2021	DYB2021		
+CN	中華人民共和国	中国	People's Republic of China	China	麻城（マーチョン）	Macheng	0	31.1748915	115.002613	1129047 	2000	DYB2009-2010	湖北省黄岡市麻城市	
+CN	中華人民共和国	中国	People's Republic of China	China	綿陽（ミエンヤン）	Mianyang	0	31.4699245	104.6764862	1162962 	2000	DYB2009-2010	四川省綿陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	牡丹江（ムーダンジァン）	Mudanjiang	0	44.5498792	129.626088	1014206 	2000	DYB2009-2010	黒竜江省牡丹江市	
+CN	中華人民共和国	中国	People's Republic of China	China	禹州（ユィヂョウ）	Yuzhou	0	34.1433748	113.4822419	1122669 	2000	DYB2009-2010	河南省許昌市禹州市	
+CN	中華人民共和国	中国	People's Republic of China	China	玉樹（ユーシュー）	Yushu	0	32.9949517	97.0090781	1155670 	2000	DYB2009-2010	青海省玉樹市	
+CN	中華人民共和国	中国	People's Republic of China	China	楽清（ユエチン）	Leqing	0	28.1163193	120.9812552	1162765 	2000	DYB2009-2010	浙江省温州市楽清市	
+CN	中華人民共和国	中国	People's Republic of China	China	永城（ヨンチョン）	Yongcheng	0	33.9311629	116.4439687	1264607 	2000	DYB2009-2010	河南省商丘市永城市	
+CN	中華人民共和国	中国	People's Republic of China	China	楽山（ラーシャン）	Leshan	0	29.5552987	103.7633817	1120158 	2000	DYB2009-2010	四川省楽山市	
+CN	中華人民共和国	中国	People's Republic of China	China	莱蕪（ライウー）	Laiwu	0	36.2143101	117.6698781	1233525 	2000	DYB2009-2010	山東省済南市莱蕪区	
+CN	中華人民共和国	中国	People's Republic of China	China	蘭州（ランチョウ）	Lanzhou	0	36.0612876	103.831814	2087759 	2000	DYB2009-2010	甘粛省蘭州市	
+CN	中華人民共和国	中国	People's Republic of China	China	日照（リーザオ）	Rizhao	0	35.4172558	119.5214836	1148190 	2000	DYB2009-2010	山東省日照市	
+CN	中華人民共和国	中国	People's Republic of China	China	廉江（リェンジャン）	Lianjiang	0	21.6125773	110.281957	1205764 	2000	DYB2009-2010	広東省湛江市廉江市	
+CN	中華人民共和国	中国	People's Republic of China	China	柳州（リュウヂョウ）	Liuzhou	0	24.3286693	109.4238969	1220392 	2000	DYB2009-2010	広西チワン族自治区柳州市	
+CN	中華人民共和国	中国	People's Republic of China	China	瀏陽（リュウヤン）	Liuyang	0	28.1672836	113.6378164	1307572 	2000	DYB2009-2010	湖南省長沙市瀏陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	臨沂（リンイー）	Linyi	0	35.105204	118.3507053	1938510 	2000	DYB2009-2010	山東省臨沂市	
+CN	中華人民共和国	中国	People's Republic of China	China	瑞安（ルイアン）	Ruian	0	27.7817892	120.6511811	1207788 	2000	DYB2009-2010	浙江省温州市瑞安市	
+CN	中華人民共和国	中国	People's Republic of China	China	六安（ルーアン）	Lu'an	0	31.7383139	116.5143503	1559037 	2000	DYB2009-2010	安徽省六安市	
+CN	中華人民共和国	中国	People's Republic of China	China	如皋（ルーガオ）	Rugao	0	32.3735061	120.5697473	1362533 	2000	DYB2009-2010	江蘇省南通市如皋市	
+CN	中華人民共和国	中国	People's Republic of China	China	瀘州（ルーヂョウ）	Luzhou	0	28.874	105.4381174	1252884 	2000	DYB2009-2010	四川省瀘州市	
+CN	中華人民共和国	中国	People's Republic of China	China	陸豊（ルーフォン）	Lufeng	0	22.9221	115.6475487	1164767 	2000	DYB2009-2010	広東省汕尾市陸豊市	
+CN	中華人民共和国	中国	People's Republic of China	China	洛陽（ルオヤン）	Luoyang	0	34.6212737	112.4476511	1491680 	2000	DYB2009-2010	河南省洛陽市	
+CN	中華人民共和国	中国	People's Republic of China	China	雷州（レイジョウ）	Leizhou	0	20.9170387	110.0921423	1268298 	2000	DYB2009-2010	広東省湛江市雷州市	
+CN	中華人民共和国	中国	People's Republic of China	China	耒陽（レイヤン）	Leiyang	0	26.425976	112.8544574	1180235 	2000	DYB2009-2010	湖南省衡陽市耒陽市	
+TN	チュニジア共和国	チュニジア	Republic of Tunisia	Tunisia	チュニス	Tunis	1	36.7974237	10.1659935	1056247 	2014	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+DE	ドイツ連邦共和国	ドイツ	Federal Republic of Germany	Germany	ベルリン	Berlin	1	52.5182775	13.4086443	3644826 	2019	DYB2019		
+DE	ドイツ連邦共和国	ドイツ	Federal Republic of Germany	Germany	ケルン	Cologne	0	50.9381035	6.9591214	1085664 	2019	DYB2019		
+DE	ドイツ連邦共和国	ドイツ	Federal Republic of Germany	Germany	ハンブルク	Hamburg	0	53.5504312	9.9923335	1841179 	2019	DYB2019		
+DE	ドイツ連邦共和国	ドイツ	Federal Republic of Germany	Germany	ミュンヘン	Munich	0	48.1375798	11.5758153	1471508 	2019	DYB2019		
+TG	トーゴ共和国	トーゴ	Republic of Togo	Togo	ロメ	Lome	1	6.1310843	1.2153581	1788600 	2015	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+DO	ドミニカ共和国	ドミニカ共和国	Dominican Republic	Dominican Republic	サントドミンゴ	Santo Domingo	1	18.4482387	-69.9269311	1043186 	2020	DYB2020	都市圏の人口（行政区域と同じ）	The population is population in urban agglomeration.
+DO	ドミニカ共和国	ドミニカ共和国	Dominican Republic	Dominican Republic	サントドミンゴエステ	Santo Domingo East	0	18.5047821	-69.8587009	1161393 	2020	DYB2020		
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	アンカラ	Ankara	1	39.9395921	32.8382867	5663322 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	アイドゥン	Aydin	0	37.8472525	27.8460664	1119084 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	アダナ	Adana	0	36.9931244	35.3256402	2258718 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	アンタルヤ	Antalya	0	36.894914	30.710506	2548308 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	イスタンブール	Istanbul	0	41.0134947	28.9552083	15462452 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	イズミル	Izmir	0	38.419754	27.1288705	4394694 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	ヴァン	Van	0	38.4910134	43.4038643	1149342 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	カイセリ	Kayseri	0	38.72261	35.489218	1421455 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	ガジアンテップ	Gaziantep	0	37.0663072	37.3735625	2101157 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	カフラマンマラシュ	Kahramanmaras	0	37.5764076	36.926797	1168163 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	コジャエリ	Kocaeli	0	40.7604515	29.9329995	1997258 	2020	DYB2021	都市圏の人口，代表点はイズミット	The population is population in urban agglomeration. The representative point is Izmit.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	コンヤ	Konya	0	37.8717005	32.4989594	2250020 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	サカリヤ	Sakarya	0	40.8526601	30.3166223	1042649 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	サムスン	Samsun	0	41.2897054	36.3378538	1356079 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	シャンルウルファ	Sanliurfa	0	37.1603305	38.8006906	2115256 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	ディヤルバクル	Diyarbakir	0	37.9156468	40.2255692	1783431 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	テキルダー	Tekirdag	0	40.9791432	27.5151779	1081065 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	デニズリ	Denizli	0	37.7811241	29.0850982	1040915 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	ハタイ	Hatay	0	36.198501	36.1597201	1659320 	2020	DYB2021	都市圏の人口，代表点はアンタキヤ	The population is population in urban agglomeration. The representative point is Antakya.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	バルケスィル	Balikesir	0	39.6452964	27.8837042	1240285 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	ブルサ	Bursa	0	40.182712	29.066238	3101833 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	マニサ	Manisa	0	38.6141726	27.4341184	1450616 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	ムーラ	Mugla	0	37.2173271	28.3672873	1000773 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+TR	トルコ共和国	トルコ	Republic of Turkey	Turkey	メルシン	Mersin	0	36.7723799	34.5580413	1868757 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+NG	ナイジェリア連邦共和国	ナイジェリア	Federal Republic of Nigeria	Nigeria	イバダン	Ibadan	0	7.4110917	3.9088469	1835300 	1991	DYB2009-2010		
+NG	ナイジェリア連邦共和国	ナイジェリア	Federal Republic of Nigeria	Nigeria	カノ	Kano	0	11.9883143	8.5196842	2166554 	1991	DYB2009-2010		
+NG	ナイジェリア連邦共和国	ナイジェリア	Federal Republic of Nigeria	Nigeria	ラゴス	Lagos	0	6.4507616	3.3976748	5195247 	1991	DYB2009-2010		
+NE	ニジェール共和国	ニジェール	Republic of Niger	Niger	ニアメ	Niamey	1	13.5138169	2.1091785	1283888 	2019	DYB2020		
+JP	日本国	日本	Japan	Japan	東京	Tokyo	1	35.6896342	139.6921007	9733276 	2020	DYB2020	人口は特別区（東京23区）の合計	The population is the sum of special wards (23 words) in Tokyo.
+JP	日本国	日本	Japan	Japan	大阪	Osaka City	0	34.6937366	135.5021669	2752412 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	川崎	Kawasaki	0	35.5308074	139.702997	1538262 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	京都	Kyoto City	0	35.0116574	135.768125	1463723 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	神戸	Kobe	0	34.6894859	135.195739	1525152 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	さいたま	Saitama City	0	35.861665	139.6454616	1324025 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	札幌	Sapporo	0	43.0620803	141.3543614	1973395 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	仙台	Sendai	0	38.2682009	140.8694255	1096704 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	名古屋	Nagoya	0	35.1814303	136.9065665	2332176 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	広島	Hiroshima City	0	34.3851663	132.4550605	1200754 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	福岡	Fukuoka City	0	33.5901979	130.4017186	1612392 	2020	DYB2020		
+JP	日本国	日本	Japan	Japan	横浜	Yokohama	0	35.4503614	139.6342277	3777491 	2020	DYB2020		
+NZ	ニュージーランド	ニュージーランド	New Zealand	New Zealand	オークランド	Auckland	0	-36.850937	174.7633152	1715600 	2021	DYB2021		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	イスラマバード	Islamabad	1	33.6669681	73.0108131	1014825 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	カラチ	Karachi	0	24.8555366	67.0076902	14910352 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	クエッタ	Quetta	0	30.1993629	67.0114467	1001205 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	グジュランワラ	Gujranwala	0	32.1475067	74.1927947	2027001 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	ハイデラバード	Hyderabad	0	25.3914957	68.3684426	1732693 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	ファイサラバード	Faisalabad	0	31.4186744	73.0941314	3203846 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	ペシャーワル	Peshawar	0	34.0176356	71.5716303	1970042 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	ムルタン	Multan	0	30.2096946	71.4490077	1871843 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	ラホール	Lahore	0	31.5746202	74.3054851	11126285 	2017	DYB2017		
+PK	パキスタン・イスラム共和国	パキスタン	Islamic Republic of Pakistan	Pakistan	ラワルピンディ	Rawalpindi	0	33.6051069	73.0646972	2098231 	2017	DYB2017		
+PA	パナマ共和国	パナマ	Republic of Panama	Panama	パナマシティ	Panama City	1	8.9709043	-79.5347442	1140001 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+PY	パラグアイ共和国	パラグアイ	Republic of Paraguay	Paraguay	アスンシオン	Asuncion	1	-25.3043626	-57.5595886	2887087 	2014	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+HU	ハンガリー	ハンガリー	Hungary	Hungary	ブダペスト	Budapest	1	47.507121	19.045669	2622241 	2020	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+BD	バングラデシュ人民共和国	バングラデシュ	People's Republic of Bangladesh	Bangladesh	ダッカ	Dhaka	1	23.711335	90.4113704	8906035 	2011	DYB2017		
+BD	バングラデシュ人民共和国	バングラデシュ	People's Republic of Bangladesh	Bangladesh	チョットグラム	Chattogram	0	22.3443623	91.8142381	2591681 	2011	DYB2017	旧名はチッタゴン	The old name is Chittagong.
+PH	フィリピン共和国	フィリピン	Republic of the Philippines	Philippines	マニラ	Manila	1	14.5895137	120.9816112	1846513 	2020	DYB2020		
+PH	フィリピン共和国	フィリピン	Republic of the Philippines	Philippines	カローカン	Caloocan	0	14.6487713	120.9906325	1661584 	2020	DYB2020		
+PH	フィリピン共和国	フィリピン	Republic of the Philippines	Philippines	ケソンシティ	Quezon City	0	14.6464639	121.0500976	2960048 	2020	DYB2020		
+PH	フィリピン共和国	フィリピン	Republic of the Philippines	Philippines	ダバオ	Davao City	0	7.064525	125.6077665	1776949 	2020	DYB2020		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	ブラジリア	Brasilia	1	-15.7845812	-47.9079509	3094325 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	カンピーナス	Campinas	0	-22.9009391	-47.057332	1223237 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	グアルーリョス	Guarulhos	0	-23.4556312	-46.5170303	1404694 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	クリチバ	Curitiba	0	-25.4168589	-49.2687481	1963726 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	ゴイアニア	Goiania	0	-16.702725	-49.2271902	1555626 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	サルバドール	Salvador	0	-12.9749022	-38.5124909	2900319 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	サンゴンサロ	Sao Goncalo	0	-22.8250717	-43.0491043	1098357 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	サンパウロ	Sao Paulo	0	-23.5474385	-46.637397	12396372 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	サンルイス	Sao Luis	0	-2.5274248	-44.3060052	1115932 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	フォルタレザ	Fortaleza	0	-3.7251881	-38.5235817	2703391 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	ベレン	Belem	0	-1.4558482	-48.5023104	1506420 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	ベロオリゾンテ	Belo Horizonte	0	-19.9237641	-43.9363914	2530701 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	ポルトアレグレ	Porto Alegre	0	-30.0281574	-51.2286421	1492530 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	マセイオ	Maceio	0	-9.6728928	-35.7218663	1031597 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	マナウス	Manaus	0	-3.1093323	-60.0508336	2255903 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	リオデジャネイロ	Rio de Janeiro	0	-22.9112021	-43.2056255	6775561 	2021	DYB2021		
+BR	ブラジル連邦共和国	ブラジル	Federative Republic of Brazil	Brazil	レシフェ	Recife	0	-8.0542964	-34.8724242	1661017 	2021	DYB2021		
+FR	フランス共和国	フランス	French Republic	France	パリ	Paris	1	48.8564826	2.3524135	10706072 	2015	DYB2018	都市圏の人口	The population is population in urban agglomeration.
+FR	フランス共和国	フランス	French Republic	France	マルセイユ	Marseille	0	43.2972622	5.3695381	1585498 	2015	DYB2018	都市圏の人口	The population is population in urban agglomeration.
+FR	フランス共和国	フランス	French Republic	France	リール	Lille	0	50.6307664	3.0709246	1039397 	2015	DYB2018	都市圏の人口	The population is population in urban agglomeration.
+FR	フランス共和国	フランス	French Republic	France	リヨン	Lyon	0	45.7675541	4.8342517	1639558 	2015	DYB2018	都市圏の人口	The population is population in urban agglomeration.
+BG	ブルガリア共和国	ブルガリア	Republic of Bulgaria	Bulgaria	ソフィア	Sofia	1	42.6969843	23.331701	1221785 	2021	DYB2021		
+BF	ブルキナファソ	ブルキナファソ	Burkina Faso	Burkina Faso	ワガドゥグー	Ouagadougou	1	12.3680826	-1.527066	2415266 	2019	DYB2021		
+VN	ベトナム社会主義共和国	ベトナム	Socialist Republic of Viet Nam	Viet Nam	ハノイ	Hanoi	1	21.0282935	105.8542103	8246540 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+VN	ベトナム社会主義共和国	ベトナム	Socialist Republic of Viet Nam	Viet Nam	カントー	Can Tho	0	10.0370802	105.7882356	1240731 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+VN	ベトナム社会主義共和国	ベトナム	Socialist Republic of Viet Nam	Viet Nam	ダナン	Da Nang	0	16.0770941	108.2227022	1169480 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+VN	ベトナム社会主義共和国	ベトナム	Socialist Republic of Viet Nam	Viet Nam	ハイフォン	Hai Phong	0	20.8646498	106.6833928	2053493 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+VN	ベトナム社会主義共和国	ベトナム	Socialist Republic of Viet Nam	Viet Nam	ホーチミン	Ho Chi Minh City	0	10.776561	106.700972	9227598 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+VE	ベネズエラ・ボリバル共和国	ベネズエラ	Bolivarian Republic of Venezuela	Venezuela	カラカス	Caracas	1	10.5049943	-66.9150848	2082130 	2015	DYB2017	リベルタドル市のこと	Caracas is the common name of Municipio Libertador.
+VE	ベネズエラ・ボリバル共和国	ベネズエラ	Bolivarian Republic of Venezuela	Venezuela	マラカイボ	Maracaibo	0	10.6409345	-71.6075778	1653215 	2015	DYB2017		
+BY	ベラルーシ共和国	ベラルーシ	Republic of Belarus	Belarus	ミンスク	Minsk	1	53.8952131	27.5497696	2020133 	2020	DYB2021		
+PE	ペルー共和国	ペルー	Republic of Peru	Peru	リマ	Lima	1	-12.0452322	-77.0311674	10922735 	2021	DYB2021		
+PE	ペルー共和国	ペルー	Republic of Peru	Peru	アレキパ	Arequipa	0	-16.3997173	-71.5370483	1121510 	2021	DYB2021		
+PE	ペルー共和国	ペルー	Republic of Peru	Peru	トルヒーヨ	Trujillo	0	-8.1126895	-79.0284169	1088266 	2021	DYB2021	トルヒーリョ，トゥルヒージョとも表記	
+BE	ベルギー王国	ベルギー	Kingdom of Belgium	Belgium	ブリュッセル	Brussels	1	50.8465882	4.3518717	1550299 	2011	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+PL	ポーランド共和国	ポーランド	Republic of Poland	Poland	ワルシャワ	Warsaw	1	52.2317616	21.0061014	1792692 	2020	DYB2020		
+BO	ボリビア多民族国	ボリビア	Plurinational State of Bolivia	Bolivia	サンタクルス	Santa Cruz	0	-17.7825937	-63.1818521	1616063 	2010	DYB2017		
+MG	マダガスカル共和国	マダガスカル	Republic of Madagascar	Madagascar	アンタナナリボ	Antananarivo	1	-18.9052409	47.5236879	1275207 	2018	DYB2019		
+ML	マリ共和国	マリ	Republic of Mali	Mali	バマコ	Bamako	1	12.6471316	-8.001597	1810366 	2009	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+MY	マレーシア	マレーシア	Malaysia	Malaysia	クアラルンプール	Kuala Lumpur	1	3.152362	101.6940229	1853918 	2020	DYB2020		
+MM	ミャンマー連邦共和国	ミャンマー	Republic of the Union of Myanmar	Myanmar	ネーピードー	Naypyidaw	1	19.7465201	96.1295371	1160242 	2014	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+MM	ミャンマー連邦共和国	ミャンマー	Republic of the Union of Myanmar	Myanmar	マンダレー	Mandalay	0	21.9816223	96.0981932	1225546 	2014	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+MM	ミャンマー連邦共和国	ミャンマー	Republic of the Union of Myanmar	Myanmar	ヤンゴン	Yangon	0	16.7750059	96.1597213	5211431 	2014	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	メキシコシティ	Mexico City	1	19.431793	-99.1339996	21804515 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	アグアスカリエンテス	Aguascalientes	0	21.8801953	-102.2956314	1140916 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	グアダラハラ	Guadalajara	0	20.6775791	-103.3477986	5268642 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	クエルナバカ	Cuernavaca	0	18.9168249	-99.2360728	1028589 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	クリアカン	Culiacan Rosales	0	24.7933668	-107.4049266	1003530 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	ケレタロ	Queretaro	0	20.5930954	-100.3900283	1594212 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	サルティーヨ	Saltillo	0	25.434133	-101.0018096	1031779 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	サンルイスポトシ	San Luis Potosi	0	22.131834	-100.9685211	1271366 	2021	DYB2021	都市圏の人口（サンルイスポトシ・ソレダー・デグラシアーノサンチェス）	The population is population in urban agglomeration which is San Luis Potosi-Soledad de Graciano Sanchez.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	ティフアナ	Tijuana	0	32.5324608	-117.0189023	2157853 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	トルーカ	Toluca	0	19.2919207	-99.6565475	2353924 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	トレオン	Torreon	0	25.5410024	-103.453248	1434283 	2021	DYB2021	都市圏の人口（ラ・ラグナ）	The population is population in urban agglomeration which is La Laguna.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	フアレス	Juarez	0	31.746341	-106.4846018	1512450 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	プエブラ	Puebla	0	19.0441433	-98.1974074	3199530 	2021	DYB2021	都市圏の人口（プエブラ・トラスカラ）	The population is population in urban agglomeration including Tlaxcala (Puebla-Tlaxcala).
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	メヒカリ	Mexicali	0	32.6396448	-115.47494	1049792 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	メリダ	Merida	0	20.9672078	-89.6244631	1316088 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	モンテレー	Monterrey	0	25.6649164	-100.3107679	5341177 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MX	メキシコ合衆国	メキシコ	United Mexican States	Mexico	レオン	Leon	0	21.1220013	-101.683209	1924771 	2021	DYB2021	都市圏の人口	The population is population in urban agglomeration.
+MR	モーリタニア・イスラム共和国	モーリタニア	Islamic Republic of Mauritania	Mauritania	ヌアクショット	Nouakchott	1	18.085313	-15.972601	1195633 	2021	DYB2021		
+MZ	モザンビーク共和国	モザンビーク	Republic of Mozambique	Mozambique	マプト	Maputo	1	-25.9681995	32.5737726	1127565 	2021	DYB2021		
+MZ	モザンビーク共和国	モザンビーク	Republic of Mozambique	Mozambique	マトラ	Matola	0	-25.9676743	32.4556275	1245799 	2021	DYB2021		
+MA	モロッコ王国	モロッコ	Kingdom of Morocco	Morocco	カサブランカ	Casablanca	0	33.5906402	-7.6197764	3566020 	2020	DYB2020	都市圏の人口（行政区域と同じ）	The population is population in urban agglomeration.
+MA	モロッコ王国	モロッコ	Kingdom of Morocco	Morocco	ケニトラ	Kenitra	0	34.2624433	-6.5824261	1151373 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+MA	モロッコ王国	モロッコ	Kingdom of Morocco	Morocco	サレ	Sale	0	34.0347648	-6.8246061	1093602 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+MA	モロッコ王国	モロッコ	Kingdom of Morocco	Morocco	タンジェ	Tangier	0	35.7670716	-5.8053477	1214841 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+MA	モロッコ王国	モロッコ	Kingdom of Morocco	Morocco	フェズ	Fez	0	34.034446	-5.016249	1249416 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+MA	モロッコ王国	モロッコ	Kingdom of Morocco	Morocco	マラケシュ	Marrakech	0	31.6283953	-7.998004	1405373 	2020	DYB2020	都市圏の人口	The population is population in urban agglomeration.
+MN	モンゴル国	モンゴル	Mongolia	Mongolia	ウランバートル	Ulan Bator	1	47.9186873	106.9158415	1618231 	2021	DYB2021		
+JO	ヨルダン・ハシェミット王国	ヨルダン	Hashemite Kingdom of Jordan	Jordan	アンマン	Amman	1	31.945327	35.9241825	3999008 	2021	DYB2021		
+LY	リビア	リビア	Libya	Libya	トリポリ	Tripoli	1	32.8911679	13.1867723	1500000 	1990	DYB2009-2010		
+RO	ルーマニア	ルーマニア	Romania	Romania	ブカレスト	Bucharest	1	44.4344622	26.0931862	1823526 	2021	DYB2021		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	モスクワ	Moscow	1	55.7613895	37.6089367	11918057 	2012	DYB2017		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	ウファ	Ufa	0	54.7717474	56.0267322	1084420 	2012	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+RU	ロシア連邦	ロシア	Russian Federation	Russia	エカテリンブルク	Yekaterinburg	0	56.837316	60.597461	1420285 	2012	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+RU	ロシア連邦	ロシア	Russian Federation	Russia	オムスク	Omsk	0	54.9895655	73.3752132	1158627 	2012	DYB2017		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	カザン	Kazan	0	55.7961001	49.1100524	1168745 	2012	DYB2017		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	クラスノヤルスク	Krasnoyarsk	0	56.0092351	92.8731713	1007654 	2012	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+RU	ロシア連邦	ロシア	Russian Federation	Russia	サマラ	Samara	0	53.1930244	50.0936986	1170485 	2012	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+RU	ロシア連邦	ロシア	Russian Federation	Russia	サンクトペテルブルク	Saint Petersburg	0	59.946279	30.396428	4990602 	2012	DYB2017		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	チェリャビンスク	Chelyabinsk	0	55.1571523	61.4011881	1149829 	2012	DYB2017		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	ニジニノブゴロド	Nizhny Novgorod	0	56.3288155	44.005181	1266231 	2012	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+RU	ロシア連邦	ロシア	Russian Federation	Russia	ノボシビルスク	Novosibirsk	0	55.0286725	82.9214559	1511369 	2012	DYB2017		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	ペルミ	Perm	0	58.013531	56.2455059	1007285 	2012	DYB2017	都市圏の人口	The population is population in urban agglomeration.
+RU	ロシア連邦	ロシア	Russian Federation	Russia	ボルゴグラード	Volgograd	0	48.7045825	44.5162302	1018762 	2012	DYB2017		
+RU	ロシア連邦	ロシア	Russian Federation	Russia	ロストフナドヌー	Rostov-on-Don	0	47.2214298	39.712656	1100091 	2012	DYB2017		

@@ -1,0 +1,7282 @@
+[
+  {
+    "name": "バクー",
+    "reading": "ばくー",
+    "country": "アゼルバイジャン共和国",
+    "population": 2285273,
+    "coordinates": [
+      49.8320385,
+      40.3670397
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "く"
+    }
+  },
+  {
+    "name": "カブール",
+    "reading": "かぶーる",
+    "country": "アフガニスタン・イスラム共和国",
+    "population": 4775074,
+    "coordinates": [
+      69.1736723,
+      34.5210955
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "る"
+    }
+  },
+  {
+    "name": "サンアントニオ",
+    "reading": "さんあんとにお",
+    "country": "アメリカ合衆国",
+    "population": 1451853,
+    "coordinates": [
+      -98.4951446,
+      29.4245868
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "お"
+    }
+  },
+  {
+    "name": "サンディエゴ",
+    "reading": "さんでぃえご",
+    "country": "アメリカ合衆国",
+    "population": 1381611,
+    "coordinates": [
+      -117.1719177,
+      32.7219437
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ご"
+    }
+  },
+  {
+    "name": "シカゴ",
+    "reading": "しかご",
+    "country": "アメリカ合衆国",
+    "population": 2696555,
+    "coordinates": [
+      -87.6320778,
+      41.8838228
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ご"
+    }
+  },
+  {
+    "name": "ダラス",
+    "reading": "だらす",
+    "country": "アメリカ合衆国",
+    "population": 1288457,
+    "coordinates": [
+      -96.7969131,
+      32.7762564
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "ニューヨーク",
+    "reading": "にゅーよーく",
+    "country": "アメリカ合衆国",
+    "population": 8467513,
+    "coordinates": [
+      -74.006059,
+      40.7127744
+    ],
+    "shiritori": {
+      "first": "に",
+      "last": "く"
+    }
+  },
+  {
+    "name": "ヒューストン",
+    "reading": "ひゅーすとん",
+    "country": "アメリカ合衆国",
+    "population": 2288250,
+    "coordinates": [
+      -95.3694177,
+      29.7601589
+    ],
+    "shiritori": {
+      "first": "ひ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "フィラデルフィア",
+    "reading": "ふぃらでるふぃあ",
+    "country": "アメリカ合衆国",
+    "population": 1576251,
+    "coordinates": [
+      -75.1634833,
+      39.9528
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "フェニックス",
+    "reading": "ふぇにっくす",
+    "country": "アメリカ合衆国",
+    "population": 1624569,
+    "coordinates": [
+      -112.0773204,
+      33.448724
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "ロサンゼルス",
+    "reading": "ろさんぜるす",
+    "country": "アメリカ合衆国",
+    "population": 3849297,
+    "coordinates": [
+      -118.2426533,
+      34.0537136
+    ],
+    "shiritori": {
+      "first": "ろ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "ドバイ",
+    "reading": "どばい",
+    "country": "アラブ首長国連邦",
+    "population": 1089000,
+    "coordinates": [
+      55.3113754,
+      25.2642949
+    ],
+    "shiritori": {
+      "first": "ど",
+      "last": "い"
+    }
+  },
+  {
+    "name": "アルジェ",
+    "reading": "あるじぇ",
+    "country": "アルジェリア民主人民共和国",
+    "population": 2712944,
+    "coordinates": [
+      3.0577373,
+      36.7762431
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "え"
+    }
+  },
+  {
+    "name": "オラン",
+    "reading": "おらん",
+    "country": "アルジェリア民主人民共和国",
+    "population": 1165687,
+    "coordinates": [
+      -0.6492208,
+      35.7025101
+    ],
+    "shiritori": {
+      "first": "お",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ブエノスアイレス",
+    "reading": "ぶえのすあいれす",
+    "country": "アルゼンチン共和国",
+    "population": 15567820,
+    "coordinates": [
+      -58.3737025,
+      -34.6081414
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "コルドバ",
+    "reading": "こるどば",
+    "country": "アルゼンチン共和国",
+    "population": 1573231,
+    "coordinates": [
+      -64.1908906,
+      -31.4162913
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "ば"
+    }
+  },
+  {
+    "name": "メンドーサ",
+    "reading": "めんどーさ",
+    "country": "アルゼンチン共和国",
+    "population": 1033391,
+    "coordinates": [
+      -68.8429983,
+      -32.8977768
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "さ"
+    }
+  },
+  {
+    "name": "ロサリオ",
+    "reading": "ろさりお",
+    "country": "アルゼンチン共和国",
+    "population": 1329857,
+    "coordinates": [
+      -60.632427,
+      -32.947091
+    ],
+    "shiritori": {
+      "first": "ろ",
+      "last": "お"
+    }
+  },
+  {
+    "name": "エレバン",
+    "reading": "えればん",
+    "country": "アルメニア共和国",
+    "population": 1087886,
+    "coordinates": [
+      44.5040456,
+      40.1746332
+    ],
+    "shiritori": {
+      "first": "え",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ルアンダ",
+    "reading": "るあんだ",
+    "country": "アンゴラ共和国",
+    "population": 1742180,
+    "coordinates": [
+      13.2358495,
+      -8.8179857
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "だ"
+    }
+  },
+  {
+    "name": "サヌア",
+    "reading": "さぬあ",
+    "country": "イエメン共和国",
+    "population": 3674000,
+    "coordinates": [
+      44.2063384,
+      15.3558942
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "アデン",
+    "reading": "あでん",
+    "country": "イエメン共和国",
+    "population": 1020000,
+    "coordinates": [
+      45.0184992,
+      12.7900688
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ロンドン",
+    "reading": "ろんどん",
+    "country": "グレートブリテン及び北アイルランド連合王国",
+    "population": 8135667,
+    "coordinates": [
+      -0.0786264,
+      51.504827
+    ],
+    "shiritori": {
+      "first": "ろ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "グラスゴー",
+    "reading": "ぐらすごー",
+    "country": "グレートブリテン及び北アイルランド連合王国",
+    "population": 1209143,
+    "coordinates": [
+      -4.2483803,
+      55.8609363
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "ご"
+    }
+  },
+  {
+    "name": "バーミンガム",
+    "reading": "ばーみんがむ",
+    "country": "グレートブリテン及び北アイルランド連合王国",
+    "population": 1085810,
+    "coordinates": [
+      -1.902783,
+      52.4801975
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "む"
+    }
+  },
+  {
+    "name": "ローマ",
+    "reading": "ろーま",
+    "country": "イタリア共和国",
+    "population": 2789260,
+    "coordinates": [
+      12.4834738,
+      41.8930546
+    ],
+    "shiritori": {
+      "first": "ろ",
+      "last": "ま"
+    }
+  },
+  {
+    "name": "ミラノ",
+    "reading": "みらの",
+    "country": "イタリア共和国",
+    "population": 1390412,
+    "coordinates": [
+      9.1903207,
+      45.4666994
+    ],
+    "shiritori": {
+      "first": "み",
+      "last": "の"
+    }
+  },
+  {
+    "name": "バグダッド",
+    "reading": "ばぐだっど",
+    "country": "イラク共和国",
+    "population": 1211934,
+    "coordinates": [
+      44.4047534,
+      33.335064
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "バスラ",
+    "reading": "ばすら",
+    "country": "イラク共和国",
+    "population": 1225793,
+    "coordinates": [
+      47.8256884,
+      30.5082064
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "モスル",
+    "reading": "もする",
+    "country": "イラク共和国",
+    "population": 1384260,
+    "coordinates": [
+      43.1676406,
+      36.3806877
+    ],
+    "shiritori": {
+      "first": "も",
+      "last": "る"
+    }
+  },
+  {
+    "name": "テヘラン",
+    "reading": "てへらん",
+    "country": "イラン・イスラム共和国",
+    "population": 8693706,
+    "coordinates": [
+      51.414932,
+      35.6812409
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "アフヴァーズ",
+    "reading": "あふゔぁーず",
+    "country": "イラン・イスラム共和国",
+    "population": 1184788,
+    "coordinates": [
+      48.6629412,
+      31.3204333
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ず"
+    }
+  },
+  {
+    "name": "イスファハン",
+    "reading": "いすふぁはん",
+    "country": "イラン・イスラム共和国",
+    "population": 1961260,
+    "coordinates": [
+      51.6702017,
+      32.6578333
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "キャラジ",
+    "reading": "きゃらじ",
+    "country": "イラン・イスラム共和国",
+    "population": 1592492,
+    "coordinates": [
+      50.9963532,
+      35.8126244
+    ],
+    "shiritori": {
+      "first": "き",
+      "last": "じ"
+    }
+  },
+  {
+    "name": "ゴム",
+    "reading": "ごむ",
+    "country": "イラン・イスラム共和国",
+    "population": 1201158,
+    "coordinates": [
+      50.8991416,
+      34.6618971
+    ],
+    "shiritori": {
+      "first": "ご",
+      "last": "む"
+    }
+  },
+  {
+    "name": "シーラーズ",
+    "reading": "しーらーず",
+    "country": "イラン・イスラム共和国",
+    "population": 1565572,
+    "coordinates": [
+      52.5429486,
+      29.6182001
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ず"
+    }
+  },
+  {
+    "name": "タブリーズ",
+    "reading": "たぶりーず",
+    "country": "イラン・イスラム共和国",
+    "population": 1558693,
+    "coordinates": [
+      46.2956786,
+      38.0736806
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ず"
+    }
+  },
+  {
+    "name": "マシュハド",
+    "reading": "ましゅはど",
+    "country": "イラン・イスラム共和国",
+    "population": 3001184,
+    "coordinates": [
+      59.6050643,
+      36.2972193
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "デリー",
+    "reading": "でりー",
+    "country": "インド",
+    "population": 11034555,
+    "coordinates": [
+      77.2207318,
+      28.6720669
+    ],
+    "shiritori": {
+      "first": "で",
+      "last": "り"
+    }
+  },
+  {
+    "name": "アウランガーバード",
+    "reading": "あうらんがーばーど",
+    "country": "インド",
+    "population": 1175116,
+    "coordinates": [
+      75.3242801,
+      19.8905175
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "アグラ",
+    "reading": "あぐら",
+    "country": "インド",
+    "population": 1585704,
+    "coordinates": [
+      78.0059804,
+      27.2030764
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "アフマダーバード",
+    "reading": "あふまだーばーど",
+    "country": "インド",
+    "population": 5633927,
+    "coordinates": [
+      72.5856015,
+      23.0212182
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "アムリトサル",
+    "reading": "あむりとさる",
+    "country": "インド",
+    "population": 1159227,
+    "coordinates": [
+      74.8638663,
+      31.6565265
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "アラーハーバード",
+    "reading": "あらーはーばーど",
+    "country": "インド",
+    "population": 1168385,
+    "coordinates": [
+      81.8273517,
+      25.4491339
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "インドール",
+    "reading": "いんどーる",
+    "country": "インド",
+    "population": 1994397,
+    "coordinates": [
+      75.8588534,
+      22.721725
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ヴァドーダラー",
+    "reading": "ゔぁどーだらー",
+    "country": "インド",
+    "population": 1752371,
+    "coordinates": [
+      73.2015319,
+      22.2968437
+    ],
+    "shiritori": {
+      "first": "ゔ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "ヴィシャーカパトナム",
+    "reading": "ゔぃしゃーかぱとなむ",
+    "country": "インド",
+    "population": 1728128,
+    "coordinates": [
+      83.3082919,
+      17.7228314
+    ],
+    "shiritori": {
+      "first": "ゔ",
+      "last": "む"
+    }
+  },
+  {
+    "name": "ヴィジャヤワーダ",
+    "reading": "ゔぃじゃやわーだ",
+    "country": "インド",
+    "population": 1143232,
+    "coordinates": [
+      80.6113531,
+      16.5109447
+    ],
+    "shiritori": {
+      "first": "ゔ",
+      "last": "だ"
+    }
+  },
+  {
+    "name": "ガーズィヤーバード",
+    "reading": "がーずぃやーばーど",
+    "country": "インド",
+    "population": 1648643,
+    "coordinates": [
+      77.4305251,
+      28.6683221
+    ],
+    "shiritori": {
+      "first": "が",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "カーンプル",
+    "reading": "かーんぷる",
+    "country": "インド",
+    "population": 2768057,
+    "coordinates": [
+      80.31686,
+      26.4753111
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "る"
+    }
+  },
+  {
+    "name": "カルヤン",
+    "reading": "かるやん",
+    "country": "インド",
+    "population": 1247327,
+    "coordinates": [
+      73.1287256,
+      19.2406977
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "グワーリオール",
+    "reading": "ぐわーりおーる",
+    "country": "インド",
+    "population": 1054420,
+    "coordinates": [
+      78.1866021,
+      26.2099511
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "コインバトール",
+    "reading": "こいんばとーる",
+    "country": "インド",
+    "population": 1050721,
+    "coordinates": [
+      76.9617704,
+      10.9932822
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "コーター",
+    "reading": "こーたー",
+    "country": "インド",
+    "population": 1001694,
+    "coordinates": [
+      75.8325324,
+      25.1660542
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "た"
+    }
+  },
+  {
+    "name": "コルカタ",
+    "reading": "こるかた",
+    "country": "インド",
+    "population": 4496694,
+    "coordinates": [
+      88.353115,
+      22.5625439
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "た"
+    }
+  },
+  {
+    "name": "ジャイプル",
+    "reading": "じゃいぷる",
+    "country": "インド",
+    "population": 3046163,
+    "coordinates": [
+      75.8052702,
+      26.8920832
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ジャバルプル",
+    "reading": "じゃばるぷる",
+    "country": "インド",
+    "population": 1081677,
+    "coordinates": [
+      79.9329826,
+      23.1652046
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "シュリーナガル",
+    "reading": "しゅりーながる",
+    "country": "インド",
+    "population": 1206419,
+    "coordinates": [
+      74.7995929,
+      34.0784164
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ジョードプル",
+    "reading": "じょーどぷる",
+    "country": "インド",
+    "population": 1056191,
+    "coordinates": [
+      73.023094,
+      26.2650702
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "スーラト",
+    "reading": "すーらと",
+    "country": "インド",
+    "population": 4501610,
+    "coordinates": [
+      72.8211828,
+      21.2000969
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "と"
+    }
+  },
+  {
+    "name": "ターネー",
+    "reading": "たーねー",
+    "country": "インド",
+    "population": 1841488,
+    "coordinates": [
+      72.9672198,
+      19.1975446
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ね"
+    }
+  },
+  {
+    "name": "ダンバード",
+    "reading": "だんばーど",
+    "country": "インド",
+    "population": 1162472,
+    "coordinates": [
+      86.4348827,
+      23.7967225
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "チェンナイ",
+    "reading": "ちぇんない",
+    "country": "インド",
+    "population": 4646732,
+    "coordinates": [
+      80.2715035,
+      13.081778
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "い"
+    }
+  },
+  {
+    "name": "ナーグプル",
+    "reading": "なーぐぷる",
+    "country": "インド",
+    "population": 2405665,
+    "coordinates": [
+      79.077254,
+      21.1542031
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ナーシク",
+    "reading": "なーしく",
+    "country": "インド",
+    "population": 1486053,
+    "coordinates": [
+      73.7755037,
+      20.0003422
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "く"
+    }
+  },
+  {
+    "name": "ナビムンバイ",
+    "reading": "なびむんばい",
+    "country": "インド",
+    "population": 1120547,
+    "coordinates": [
+      73.0278543,
+      19.0104019
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "い"
+    }
+  },
+  {
+    "name": "ハイデラーバード",
+    "reading": "はいでらーばーど",
+    "country": "インド",
+    "population": 6993262,
+    "coordinates": [
+      78.4758149,
+      17.4075874
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "ハウラー",
+    "reading": "はうらー",
+    "country": "インド",
+    "population": 1077075,
+    "coordinates": [
+      88.3367985,
+      22.5818812
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "バサイ",
+    "reading": "ばさい",
+    "country": "インド",
+    "population": 1222390,
+    "coordinates": [
+      72.8124609,
+      19.4560881
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "い"
+    }
+  },
+  {
+    "name": "パトナ",
+    "reading": "ぱとな",
+    "country": "インド",
+    "population": 1684297,
+    "coordinates": [
+      85.1350046,
+      25.6094205
+    ],
+    "shiritori": {
+      "first": "ぱ",
+      "last": "な"
+    }
+  },
+  {
+    "name": "バンガロール",
+    "reading": "ばんがろーる",
+    "country": "インド",
+    "population": 8495492,
+    "coordinates": [
+      77.5878212,
+      12.9658019
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ピンプリ・チンチワッド",
+    "reading": "ぴんぷり・ちんちわっど",
+    "country": "インド",
+    "population": 1727692,
+    "coordinates": [
+      73.804817,
+      18.6282063
+    ],
+    "shiritori": {
+      "first": "ぴ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "ファリーダーバード",
+    "reading": "ふぁりーだーばーど",
+    "country": "インド",
+    "population": 1414050,
+    "coordinates": [
+      77.3008364,
+      28.3917024
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "プネー",
+    "reading": "ぷねー",
+    "country": "インド",
+    "population": 3124458,
+    "coordinates": [
+      73.8534957,
+      18.5233237
+    ],
+    "shiritori": {
+      "first": "ぷ",
+      "last": "ね"
+    }
+  },
+  {
+    "name": "ボーパール",
+    "reading": "ぼーぱーる",
+    "country": "インド",
+    "population": 1798218,
+    "coordinates": [
+      77.4028651,
+      23.2242047
+    ],
+    "shiritori": {
+      "first": "ぼ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "マドゥライ",
+    "reading": "まどぅらい",
+    "country": "インド",
+    "population": 1017865,
+    "coordinates": [
+      78.1390279,
+      9.9364386
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "い"
+    }
+  },
+  {
+    "name": "ムンバイ",
+    "reading": "むんばい",
+    "country": "インド",
+    "population": 12442373,
+    "coordinates": [
+      72.834503,
+      18.9403642
+    ],
+    "shiritori": {
+      "first": "む",
+      "last": "い"
+    }
+  },
+  {
+    "name": "メーラト",
+    "reading": "めーらと",
+    "country": "インド",
+    "population": 1305429,
+    "coordinates": [
+      77.6962466,
+      28.9807325
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "と"
+    }
+  },
+  {
+    "name": "ラーイプル",
+    "reading": "らーいぷる",
+    "country": "インド",
+    "population": 1027264,
+    "coordinates": [
+      81.6400179,
+      21.2363164
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ラージコート",
+    "reading": "らーじこーと",
+    "country": "インド",
+    "population": 1323363,
+    "coordinates": [
+      70.8021737,
+      22.291918
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "と"
+    }
+  },
+  {
+    "name": "ラーンチー",
+    "reading": "らーんちー",
+    "country": "インド",
+    "population": 1073427,
+    "coordinates": [
+      85.3246441,
+      23.377486
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "ち"
+    }
+  },
+  {
+    "name": "ラクナウ",
+    "reading": "らくなう",
+    "country": "インド",
+    "population": 2817105,
+    "coordinates": [
+      80.9419452,
+      26.8476606
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "う"
+    }
+  },
+  {
+    "name": "ルディアーナー",
+    "reading": "るでぃあーなー",
+    "country": "インド",
+    "population": 1618879,
+    "coordinates": [
+      75.849276,
+      30.918862
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "な"
+    }
+  },
+  {
+    "name": "ワーラーナシー",
+    "reading": "わーらーなしー",
+    "country": "インド",
+    "population": 1198491,
+    "coordinates": [
+      83.014073,
+      25.3184459
+    ],
+    "shiritori": {
+      "first": "わ",
+      "last": "し"
+    }
+  },
+  {
+    "name": "ジャカルタ",
+    "reading": "じゃかるた",
+    "country": "インドネシア共和国",
+    "population": 10562088,
+    "coordinates": [
+      106.8283893,
+      -6.1815787
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "た"
+    }
+  },
+  {
+    "name": "スカブミ",
+    "reading": "すかぶみ",
+    "country": "インドネシア共和国",
+    "population": 1301873,
+    "coordinates": [
+      106.9315006,
+      -6.9178948
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "み"
+    }
+  },
+  {
+    "name": "スラバヤ",
+    "reading": "すらばや",
+    "country": "インドネシア共和国",
+    "population": 2874314,
+    "coordinates": [
+      112.7474988,
+      -7.2577569
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "や"
+    }
+  },
+  {
+    "name": "タンゲラン",
+    "reading": "たんげらん",
+    "country": "インドネシア共和国",
+    "population": 3050758,
+    "coordinates": [
+      106.6405503,
+      -6.1713359
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "チルボン",
+    "reading": "ちるぼん",
+    "country": "インドネシア共和国",
+    "population": 1891957,
+    "coordinates": [
+      108.5581603,
+      -6.7068954
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "バタム",
+    "reading": "ばたむ",
+    "country": "インドネシア共和国",
+    "population": 1347762,
+    "coordinates": [
+      104.0554723,
+      1.1276777
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "む"
+    }
+  },
+  {
+    "name": "パレンバン",
+    "reading": "ぱれんばん",
+    "country": "インドネシア共和国",
+    "population": 1649298,
+    "coordinates": [
+      104.7567502,
+      -2.9910577
+    ],
+    "shiritori": {
+      "first": "ぱ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "バンダールランプン",
+    "reading": "ばんだーるらんぷん",
+    "country": "インドネシア共和国",
+    "population": 1033601,
+    "coordinates": [
+      105.2627258,
+      -5.4299788
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "バンドン",
+    "reading": "ばんどん",
+    "country": "インドネシア共和国",
+    "population": 2444160,
+    "coordinates": [
+      107.6098588,
+      -6.9108795
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "プカンバル",
+    "reading": "ぷかんばる",
+    "country": "インドネシア共和国",
+    "population": 1090735,
+    "coordinates": [
+      101.5408782,
+      0.5171071
+    ],
+    "shiritori": {
+      "first": "ぷ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ボゴール",
+    "reading": "ぼごーる",
+    "country": "インドネシア共和国",
+    "population": 5162044,
+    "coordinates": [
+      106.7936935,
+      -6.5952177
+    ],
+    "shiritori": {
+      "first": "ぼ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "マカッサル",
+    "reading": "まかっさる",
+    "country": "インドネシア共和国",
+    "population": 1502459,
+    "coordinates": [
+      119.4080136,
+      -5.1335271
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "る"
+    }
+  },
+  {
+    "name": "マラン",
+    "reading": "まらん",
+    "country": "インドネシア共和国",
+    "population": 1382786,
+    "coordinates": [
+      112.633868,
+      -7.978075
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "メダン",
+    "reading": "めだん",
+    "country": "インドネシア共和国",
+    "population": 2435252,
+    "coordinates": [
+      98.6748504,
+      3.5904796
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "カンパラ",
+    "reading": "かんぱら",
+    "country": "ウガンダ共和国",
+    "population": 1650800,
+    "coordinates": [
+      32.5862304,
+      0.3149631
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "キーウ",
+    "reading": "きーう",
+    "country": "ウクライナ",
+    "population": 2893215,
+    "coordinates": [
+      30.520272,
+      50.446306
+    ],
+    "shiritori": {
+      "first": "き",
+      "last": "う"
+    }
+  },
+  {
+    "name": "ハルキウ",
+    "reading": "はるきう",
+    "country": "ウクライナ",
+    "population": 1430515,
+    "coordinates": [
+      36.2323481,
+      49.9900585
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "う"
+    }
+  },
+  {
+    "name": "タシケント",
+    "reading": "たしけんと",
+    "country": "ウズベキスタン共和国",
+    "population": 2694378,
+    "coordinates": [
+      69.2492835,
+      41.3108248
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "と"
+    }
+  },
+  {
+    "name": "モンテビデオ",
+    "reading": "もんてびでお",
+    "country": "ウルグアイ東方共和国",
+    "population": 1383601,
+    "coordinates": [
+      -56.1861229,
+      -34.9062357
+    ],
+    "shiritori": {
+      "first": "も",
+      "last": "お"
+    }
+  },
+  {
+    "name": "キト",
+    "reading": "きと",
+    "country": "エクアドル共和国",
+    "population": 1836779,
+    "coordinates": [
+      -78.5115271,
+      -0.220366
+    ],
+    "shiritori": {
+      "first": "き",
+      "last": "と"
+    }
+  },
+  {
+    "name": "グアヤキル",
+    "reading": "ぐあやきる",
+    "country": "エクアドル共和国",
+    "population": 2652684,
+    "coordinates": [
+      -79.8808333,
+      -2.1952778
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "カイロ",
+    "reading": "かいろ",
+    "country": "エジプト・アラブ共和国",
+    "population": 9539673,
+    "coordinates": [
+      31.2449268,
+      30.0448511
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ろ"
+    }
+  },
+  {
+    "name": "アレクサンドリア",
+    "reading": "あれくさんどりあ",
+    "country": "エジプト・アラブ共和国",
+    "population": 5163750,
+    "coordinates": [
+      29.9625879,
+      31.2404434
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "アディスアベバ",
+    "reading": "あでぃすあべば",
+    "country": "エチオピア連邦民主共和国",
+    "population": 3774000,
+    "coordinates": [
+      38.7508585,
+      9.0346684
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ば"
+    }
+  },
+  {
+    "name": "アデレード",
+    "reading": "あでれーど",
+    "country": "オーストラリア連邦",
+    "population": 1376601,
+    "coordinates": [
+      138.6002489,
+      -34.9260956
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "シドニー",
+    "reading": "しどにー",
+    "country": "オーストラリア連邦",
+    "population": 5367206,
+    "coordinates": [
+      151.2061157,
+      -33.8731575
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "に"
+    }
+  },
+  {
+    "name": "パース",
+    "reading": "ぱーす",
+    "country": "オーストラリア連邦",
+    "population": 2125114,
+    "coordinates": [
+      115.8604856,
+      -31.9549063
+    ],
+    "shiritori": {
+      "first": "ぱ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "ブリスベーン",
+    "reading": "ぶりすべーん",
+    "country": "オーストラリア連邦",
+    "population": 2560720,
+    "coordinates": [
+      153.023494,
+      -27.468993
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "メルボルン",
+    "reading": "めるぼるん",
+    "country": "オーストラリア連邦",
+    "population": 5159211,
+    "coordinates": [
+      144.9665653,
+      -37.8150856
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ウィーン",
+    "reading": "うぃーん",
+    "country": "オーストリア共和国",
+    "population": 1897491,
+    "coordinates": [
+      16.3565084,
+      48.2109437
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "アクラ",
+    "reading": "あくら",
+    "country": "ガーナ共和国",
+    "population": 1594419,
+    "coordinates": [
+      -0.2035776,
+      5.5507001
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "クマシ",
+    "reading": "くまし",
+    "country": "ガーナ共和国",
+    "population": 1730249,
+    "coordinates": [
+      -1.6146168,
+      6.694429
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "し"
+    }
+  },
+  {
+    "name": "アスタナ",
+    "reading": "あすたな",
+    "country": "カザフスタン共和国",
+    "population": 1212078,
+    "coordinates": [
+      71.420043,
+      51.1668247
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "な"
+    }
+  },
+  {
+    "name": "アルマトイ",
+    "reading": "あるまとい",
+    "country": "カザフスタン共和国",
+    "population": 2001060,
+    "coordinates": [
+      76.9456558,
+      43.2365989
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "い"
+    }
+  },
+  {
+    "name": "シムケント",
+    "reading": "しむけんと",
+    "country": "カザフスタン共和国",
+    "population": 1093468,
+    "coordinates": [
+      69.5909512,
+      42.3191745
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "と"
+    }
+  },
+  {
+    "name": "ドーハ",
+    "reading": "どーは",
+    "country": "カタール国",
+    "population": 1186023,
+    "coordinates": [
+      51.5046599,
+      25.2818113
+    ],
+    "shiritori": {
+      "first": "ど",
+      "last": "は"
+    }
+  },
+  {
+    "name": "オタワ",
+    "reading": "おたわ",
+    "country": "カナダ",
+    "population": 1054800,
+    "coordinates": [
+      -75.6904893,
+      45.420608
+    ],
+    "shiritori": {
+      "first": "お",
+      "last": "わ"
+    }
+  },
+  {
+    "name": "エドモントン",
+    "reading": "えどもんとん",
+    "country": "カナダ",
+    "population": 1480754,
+    "coordinates": [
+      -113.490263,
+      53.5456493
+    ],
+    "shiritori": {
+      "first": "え",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "カルガリー",
+    "reading": "かるがりー",
+    "country": "カナダ",
+    "population": 1559284,
+    "coordinates": [
+      -114.0573726,
+      51.0460243
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "り"
+    }
+  },
+  {
+    "name": "トロント",
+    "reading": "とろんと",
+    "country": "カナダ",
+    "population": 6572524,
+    "coordinates": [
+      -79.3840901,
+      43.6534399
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "と"
+    }
+  },
+  {
+    "name": "バンクーバー",
+    "reading": "ばんくーばー",
+    "country": "カナダ",
+    "population": 2773148,
+    "coordinates": [
+      -123.1140226,
+      49.2608138
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "ば"
+    }
+  },
+  {
+    "name": "モントリオール",
+    "reading": "もんとりおーる",
+    "country": "カナダ",
+    "population": 4342213,
+    "coordinates": [
+      -73.5543325,
+      45.5089192
+    ],
+    "shiritori": {
+      "first": "も",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ヤウンデ",
+    "reading": "やうんで",
+    "country": "カメルーン共和国",
+    "population": 3255651,
+    "coordinates": [
+      11.5165097,
+      3.8748155
+    ],
+    "shiritori": {
+      "first": "や",
+      "last": "で"
+    }
+  },
+  {
+    "name": "ドゥアラ",
+    "reading": "どぅあら",
+    "country": "カメルーン共和国",
+    "population": 3322170,
+    "coordinates": [
+      9.6852786,
+      4.0415644
+    ],
+    "shiritori": {
+      "first": "ど",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "ソウル",
+    "reading": "そうる",
+    "country": "大韓民国",
+    "population": 9601693,
+    "coordinates": [
+      126.9779451,
+      37.5662952
+    ],
+    "shiritori": {
+      "first": "そ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "仁川",
+    "reading": "いんちょん",
+    "country": "大韓民国",
+    "population": 2951030,
+    "coordinates": [
+      126.7059157,
+      37.4560897
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "蔚山",
+    "reading": "うるさん",
+    "country": "大韓民国",
+    "population": 1139703,
+    "coordinates": [
+      129.3115276,
+      35.5396224
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "光州",
+    "reading": "くぁんじゅ",
+    "country": "大韓民国",
+    "population": 1487675,
+    "coordinates": [
+      126.8514758,
+      35.1600766
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "ゆ"
+    }
+  },
+  {
+    "name": "大邱",
+    "reading": "てぐ",
+    "country": "大韓民国",
+    "population": 2419246,
+    "coordinates": [
+      128.6017501,
+      35.8714046
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "ぐ"
+    }
+  },
+  {
+    "name": "大田",
+    "reading": "てじょん",
+    "country": "大韓民国",
+    "population": 1500215,
+    "coordinates": [
+      127.3848187,
+      36.3504567
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "釜山",
+    "reading": "ぷさん",
+    "country": "大韓民国",
+    "population": 3343528,
+    "coordinates": [
+      129.074987,
+      35.1797913
+    ],
+    "shiritori": {
+      "first": "ぷ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "プノンペン",
+    "reading": "ぷのんぺん",
+    "country": "カンボジア王国",
+    "population": 1570791,
+    "coordinates": [
+      104.9168018,
+      11.5762481
+    ],
+    "shiritori": {
+      "first": "ぷ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "バッタンバン",
+    "reading": "ばったんばん",
+    "country": "カンボジア王国",
+    "population": 1126345,
+    "coordinates": [
+      103.1987751,
+      13.0907672
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ピョンヤン",
+    "reading": "ぴょんやん",
+    "country": "朝鮮民主主義人民共和国",
+    "population": 2581076,
+    "coordinates": [
+      125.7503686,
+      39.0285429
+    ],
+    "shiritori": {
+      "first": "ぴ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "コナクリ",
+    "reading": "こなくり",
+    "country": "ギニア共和国",
+    "population": 2431930,
+    "coordinates": [
+      -13.717439,
+      9.51014
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "り"
+    }
+  },
+  {
+    "name": "ハバナ",
+    "reading": "はばな",
+    "country": "キューバ共和国",
+    "population": 2130872,
+    "coordinates": [
+      -82.3559261,
+      23.1423901
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "な"
+    }
+  },
+  {
+    "name": "ビシュケク",
+    "reading": "びしゅけく",
+    "country": "キルギス共和国",
+    "population": 1086261,
+    "coordinates": [
+      74.5865589,
+      42.8761758
+    ],
+    "shiritori": {
+      "first": "び",
+      "last": "く"
+    }
+  },
+  {
+    "name": "ナイロビ",
+    "reading": "ないろび",
+    "country": "ケニア共和国",
+    "population": 4395749,
+    "coordinates": [
+      36.821837,
+      -1.286585
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "び"
+    }
+  },
+  {
+    "name": "モンバサ",
+    "reading": "もんばさ",
+    "country": "ケニア共和国",
+    "population": 1208112,
+    "coordinates": [
+      39.678747,
+      -4.063081
+    ],
+    "shiritori": {
+      "first": "も",
+      "last": "さ"
+    }
+  },
+  {
+    "name": "アビジャン",
+    "reading": "あびじゃん",
+    "country": "コートジボワール共和国",
+    "population": 5467296,
+    "coordinates": [
+      -4.0202908,
+      5.3211911
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ボゴタ",
+    "reading": "ぼごた",
+    "country": "コロンビア共和国",
+    "population": 7834167,
+    "coordinates": [
+      -74.076467,
+      4.5984614
+    ],
+    "shiritori": {
+      "first": "ぼ",
+      "last": "た"
+    }
+  },
+  {
+    "name": "カリ",
+    "reading": "かり",
+    "country": "コロンビア共和国",
+    "population": 2264748,
+    "coordinates": [
+      -76.5345849,
+      3.454437
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "り"
+    }
+  },
+  {
+    "name": "カルタヘナ",
+    "reading": "かるたへな",
+    "country": "コロンビア共和国",
+    "population": 1043926,
+    "coordinates": [
+      -75.5500987,
+      10.4218571
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "な"
+    }
+  },
+  {
+    "name": "バランキージャ",
+    "reading": "ばらんきーじゃ",
+    "country": "コロンビア共和国",
+    "population": 1297082,
+    "coordinates": [
+      -74.7781999,
+      10.9814933
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "や"
+    }
+  },
+  {
+    "name": "メデリン",
+    "reading": "めでりん",
+    "country": "コロンビア共和国",
+    "population": 2573220,
+    "coordinates": [
+      -75.573553,
+      6.2452572
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "キンシャサ",
+    "reading": "きんしゃさ",
+    "country": "コンゴ民主共和国",
+    "population": 2664309,
+    "coordinates": [
+      15.3084537,
+      -4.3061828
+    ],
+    "shiritori": {
+      "first": "き",
+      "last": "さ"
+    }
+  },
+  {
+    "name": "リヤド",
+    "reading": "りやど",
+    "country": "サウジアラビア王国",
+    "population": 5188286,
+    "coordinates": [
+      46.7372325,
+      24.6725488
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "アルマディーナ",
+    "reading": "あるまでぃーな",
+    "country": "サウジアラビア王国",
+    "population": 1100093,
+    "coordinates": [
+      39.6004628,
+      24.4595215
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "な"
+    }
+  },
+  {
+    "name": "ジッダ",
+    "reading": "じっだ",
+    "country": "サウジアラビア王国",
+    "population": 3430697,
+    "coordinates": [
+      39.1676546,
+      21.5006793
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "だ"
+    }
+  },
+  {
+    "name": "メッカ",
+    "reading": "めっか",
+    "country": "サウジアラビア王国",
+    "population": 1534731,
+    "coordinates": [
+      39.9031143,
+      21.4435691
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "か"
+    }
+  },
+  {
+    "name": "ルサカ",
+    "reading": "るさか",
+    "country": "ザンビア共和国",
+    "population": 1747152,
+    "coordinates": [
+      28.3010351,
+      -15.4209502
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "か"
+    }
+  },
+  {
+    "name": "フリータウン",
+    "reading": "ふりーたうん",
+    "country": "シエラレオネ共和国",
+    "population": 1200230,
+    "coordinates": [
+      -13.2354989,
+      8.4904231
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "トビリシ",
+    "reading": "とびりし",
+    "country": "ジョージア",
+    "population": 1184818,
+    "coordinates": [
+      44.775287,
+      41.7257221
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "し"
+    }
+  },
+  {
+    "name": "ダマスカス",
+    "reading": "だますかす",
+    "country": "シリア・アラブ共和国",
+    "population": 1680000,
+    "coordinates": [
+      36.2956763,
+      33.5156746
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "アレッポ",
+    "reading": "あれっぽ",
+    "country": "シリア・アラブ共和国",
+    "population": 4450000,
+    "coordinates": [
+      37.1470294,
+      36.2030726
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ぽ"
+    }
+  },
+  {
+    "name": "イドリブ",
+    "reading": "いどりぶ",
+    "country": "シリア・アラブ共和国",
+    "population": 1376000,
+    "coordinates": [
+      36.633822,
+      35.926947
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "ぶ"
+    }
+  },
+  {
+    "name": "デリゾール",
+    "reading": "でりぞーる",
+    "country": "シリア・アラブ共和国",
+    "population": 1111000,
+    "coordinates": [
+      40.132954,
+      35.3407158
+    ],
+    "shiritori": {
+      "first": "で",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ハサカ",
+    "reading": "はさか",
+    "country": "シリア・アラブ共和国",
+    "population": 1392000,
+    "coordinates": [
+      40.7489294,
+      36.5023318
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "か"
+    }
+  },
+  {
+    "name": "ハマー",
+    "reading": "はまー",
+    "country": "シリア・アラブ共和国",
+    "population": 1508000,
+    "coordinates": [
+      36.7643523,
+      35.1315267
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ま"
+    }
+  },
+  {
+    "name": "ホムス",
+    "reading": "ほむす",
+    "country": "シリア・アラブ共和国",
+    "population": 1667000,
+    "coordinates": [
+      36.7104229,
+      34.7299368
+    ],
+    "shiritori": {
+      "first": "ほ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "シンガポール",
+    "reading": "しんがぽーる",
+    "country": "シンガポール共和国",
+    "population": 5453566,
+    "coordinates": [
+      103.8431002,
+      1.3067039
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ハラレ",
+    "reading": "はられ",
+    "country": "ジンバブエ共和国",
+    "population": 1877614,
+    "coordinates": [
+      31.0461399,
+      -17.8319021
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "れ"
+    }
+  },
+  {
+    "name": "チューリッヒ",
+    "reading": "ちゅーりっひ",
+    "country": "スイス連邦",
+    "population": 1414771,
+    "coordinates": [
+      8.5427133,
+      47.3715274
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "ひ"
+    }
+  },
+  {
+    "name": "ハルツーム",
+    "reading": "はるつーむ",
+    "country": "スーダン共和国",
+    "population": 2919773,
+    "coordinates": [
+      32.5182284,
+      15.6074317
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "む"
+    }
+  },
+  {
+    "name": "オムドゥルマン",
+    "reading": "おむどぅるまん",
+    "country": "スーダン共和国",
+    "population": 1271403,
+    "coordinates": [
+      32.4855733,
+      15.6393358
+    ],
+    "shiritori": {
+      "first": "お",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "マドリード",
+    "reading": "まどりーど",
+    "country": "スペイン",
+    "population": 3320069,
+    "coordinates": [
+      -3.6918174,
+      40.4183806
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "バルセロナ",
+    "reading": "ばるせろな",
+    "country": "スペイン",
+    "population": 1650457,
+    "coordinates": [
+      2.1773651,
+      41.3823947
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "な"
+    }
+  },
+  {
+    "name": "ダカール",
+    "reading": "だかーる",
+    "country": "セネガル共和国",
+    "population": 1457697,
+    "coordinates": [
+      -17.4315476,
+      14.6721562
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ピキン",
+    "reading": "ぴきん",
+    "country": "セネガル共和国",
+    "population": 1489164,
+    "coordinates": [
+      -17.4022247,
+      14.7440158
+    ],
+    "shiritori": {
+      "first": "ぴ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ベオグラード",
+    "reading": "べおぐらーど",
+    "country": "セルビア共和国",
+    "population": 1694480,
+    "coordinates": [
+      20.4625572,
+      44.8107948
+    ],
+    "shiritori": {
+      "first": "べ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "モガディシオ",
+    "reading": "もがでぃしお",
+    "country": "ソマリア連邦共和国",
+    "population": 1212000,
+    "coordinates": [
+      45.3418305,
+      2.0348901
+    ],
+    "shiritori": {
+      "first": "も",
+      "last": "お"
+    }
+  },
+  {
+    "name": "バンコク",
+    "reading": "ばんこく",
+    "country": "タイ王国",
+    "population": 8392556,
+    "coordinates": [
+      100.5018236,
+      13.7538189
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "く"
+    }
+  },
+  {
+    "name": "ウドーンターニー",
+    "reading": "うどーんたーにー",
+    "country": "タイ王国",
+    "population": 1247556,
+    "coordinates": [
+      102.7874174,
+      17.4152487
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "に"
+    }
+  },
+  {
+    "name": "ウボンラーチャターニー",
+    "reading": "うぼんらーちゃたーにー",
+    "country": "タイ王国",
+    "population": 1728250,
+    "coordinates": [
+      104.8042944,
+      15.2767697
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "に"
+    }
+  },
+  {
+    "name": "コーンケン",
+    "reading": "こーんけん",
+    "country": "タイ王国",
+    "population": 1702060,
+    "coordinates": [
+      102.8356841,
+      16.4448691
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "サムットプラカーン",
+    "reading": "さむっとぷらかーん",
+    "country": "タイ王国",
+    "population": 2151753,
+    "coordinates": [
+      100.5968855,
+      13.5994195
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "スラートターニー",
+    "reading": "すらーとたーにー",
+    "country": "タイ王国",
+    "population": 1048398,
+    "coordinates": [
+      99.3329005,
+      9.1323532
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "に"
+    }
+  },
+  {
+    "name": "スリン",
+    "reading": "すりん",
+    "country": "タイ王国",
+    "population": 1046755,
+    "coordinates": [
+      103.4922798,
+      14.8822919
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ソンクラー",
+    "reading": "そんくらー",
+    "country": "タイ王国",
+    "population": 1611882,
+    "coordinates": [
+      100.5969485,
+      7.2052648
+    ],
+    "shiritori": {
+      "first": "そ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "チエンマイ",
+    "reading": "ちえんまい",
+    "country": "タイ王国",
+    "population": 1682180,
+    "coordinates": [
+      98.9708332,
+      18.8371264
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "い"
+    }
+  },
+  {
+    "name": "チエンラーイ",
+    "reading": "ちえんらーい",
+    "country": "タイ王国",
+    "population": 1107346,
+    "coordinates": [
+      99.8142679,
+      19.920675
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "い"
+    }
+  },
+  {
+    "name": "チョンブリー",
+    "reading": "ちょんぶりー",
+    "country": "タイ王国",
+    "population": 1747572,
+    "coordinates": [
+      100.9833311,
+      13.3618997
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "り"
+    }
+  },
+  {
+    "name": "ナコーンシータンマラート",
+    "reading": "なこーんしーたんまらーと",
+    "country": "タイ王国",
+    "population": 1491115,
+    "coordinates": [
+      99.9634825,
+      8.4185082
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "と"
+    }
+  },
+  {
+    "name": "ナコーンパトム",
+    "reading": "なこーんぱとむ",
+    "country": "タイ王国",
+    "population": 1056901,
+    "coordinates": [
+      100.0586629,
+      13.7667989
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "む"
+    }
+  },
+  {
+    "name": "ナコーンラーチャシーマー",
+    "reading": "なこーんらーちゃしーまー",
+    "country": "タイ王国",
+    "population": 2477991,
+    "coordinates": [
+      102.1000962,
+      14.9723581
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "ま"
+    }
+  },
+  {
+    "name": "ノンタブリー",
+    "reading": "のんたぶりー",
+    "country": "タイ王国",
+    "population": 1641691,
+    "coordinates": [
+      100.5144834,
+      13.8625051
+    ],
+    "shiritori": {
+      "first": "の",
+      "last": "り"
+    }
+  },
+  {
+    "name": "パトゥムターニー",
+    "reading": "ぱとぅむたーにー",
+    "country": "タイ王国",
+    "population": 1601351,
+    "coordinates": [
+      100.5246592,
+      14.0213121
+    ],
+    "shiritori": {
+      "first": "ぱ",
+      "last": "に"
+    }
+  },
+  {
+    "name": "ブリーラム",
+    "reading": "ぶりーらむ",
+    "country": "タイ王国",
+    "population": 1199858,
+    "coordinates": [
+      103.1011683,
+      14.9457991
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "む"
+    }
+  },
+  {
+    "name": "ローイエット",
+    "reading": "ろーいえっと",
+    "country": "タイ王国",
+    "population": 1049594,
+    "coordinates": [
+      103.6524409,
+      16.0531679
+    ],
+    "shiritori": {
+      "first": "ろ",
+      "last": "と"
+    }
+  },
+  {
+    "name": "台北",
+    "reading": "たいぺい",
+    "country": "台湾（中華民国）",
+    "population": 2524393,
+    "coordinates": [
+      121.5644327,
+      25.0375417
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "い"
+    }
+  },
+  {
+    "name": "高雄",
+    "reading": "かおしゅん",
+    "country": "台湾（中華民国）",
+    "population": 2744691,
+    "coordinates": [
+      120.3120625,
+      22.6204616
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "新北",
+    "reading": "しんぺい",
+    "country": "台湾（中華民国）",
+    "population": 4008113,
+    "coordinates": [
+      121.4654552,
+      25.0123025
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "い"
+    }
+  },
+  {
+    "name": "台中",
+    "reading": "たいちょん",
+    "country": "台湾（中華民国）",
+    "population": 2813490,
+    "coordinates": [
+      120.6469191,
+      24.1617727
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "台南",
+    "reading": "たいなん",
+    "country": "台湾（中華民国）",
+    "population": 1862059,
+    "coordinates": [
+      120.1850548,
+      22.9922351
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "桃園",
+    "reading": "たおゆぇん",
+    "country": "台湾（中華民国）",
+    "population": 2272391,
+    "coordinates": [
+      121.3010063,
+      24.9931569
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "彰化",
+    "reading": "ちゃんほわ",
+    "country": "台湾（中華民国）",
+    "population": 1255330,
+    "coordinates": [
+      120.5422565,
+      24.0809056
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "わ"
+    }
+  },
+  {
+    "name": "アルーシャ",
+    "reading": "あるーしゃ",
+    "country": "タンザニア連合共和国",
+    "population": 1000923,
+    "coordinates": [
+      36.6959131,
+      -3.3705298
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "や"
+    }
+  },
+  {
+    "name": "ザンジバル",
+    "reading": "ざんじばる",
+    "country": "タンザニア連合共和国",
+    "population": 1303569,
+    "coordinates": [
+      39.189027,
+      -6.16591
+    ],
+    "shiritori": {
+      "first": "ざ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ダルエスサラーム",
+    "reading": "だるえすさらーむ",
+    "country": "タンザニア連合共和国",
+    "population": 5147070,
+    "coordinates": [
+      39.2864438,
+      -6.8203671
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "む"
+    }
+  },
+  {
+    "name": "ムワンザ",
+    "reading": "むわんざ",
+    "country": "タンザニア連合共和国",
+    "population": 2772509,
+    "coordinates": [
+      32.9031247,
+      -2.5106504
+    ],
+    "shiritori": {
+      "first": "む",
+      "last": "ざ"
+    }
+  },
+  {
+    "name": "プラハ",
+    "reading": "ぷらは",
+    "country": "チェコ共和国",
+    "population": 1335084,
+    "coordinates": [
+      14.4212465,
+      50.0782622
+    ],
+    "shiritori": {
+      "first": "ぷ",
+      "last": "は"
+    }
+  },
+  {
+    "name": "ンジャメナ",
+    "reading": "んじゃめな",
+    "country": "チャド共和国",
+    "population": 1521882,
+    "coordinates": [
+      15.0448322,
+      12.1052915
+    ],
+    "shiritori": {
+      "first": "ん",
+      "last": "な"
+    }
+  },
+  {
+    "name": "北京",
+    "reading": "ぺきん",
+    "country": "中華人民共和国",
+    "population": 18796000,
+    "coordinates": [
+      116.7184868,
+      39.9046496
+    ],
+    "shiritori": {
+      "first": "ぺ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "鞍山",
+    "reading": "あんしゃん",
+    "country": "中華人民共和国",
+    "population": 1556285,
+    "coordinates": [
+      122.9889569,
+      41.1062139
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "安丘",
+    "reading": "あんちゅう",
+    "country": "中華人民共和国",
+    "population": 1096782,
+    "coordinates": [
+      119.2131744,
+      36.4793987
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "宜興",
+    "reading": "いーしん",
+    "country": "中華人民共和国",
+    "population": 1164275,
+    "coordinates": [
+      119.8155566,
+      31.3399357
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "益陽",
+    "reading": "いーやん",
+    "country": "中華人民共和国",
+    "population": 1228881,
+    "coordinates": [
+      112.3495122,
+      28.5586155
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "煙台",
+    "reading": "いぇんたい",
+    "country": "中華人民共和国",
+    "population": 1724404,
+    "coordinates": [
+      121.4425492,
+      37.4633792
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "い"
+    }
+  },
+  {
+    "name": "無錫",
+    "reading": "うーしー",
+    "country": "中華人民共和国",
+    "population": 1425766,
+    "coordinates": [
+      120.3075167,
+      31.4934639
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "し"
+    }
+  },
+  {
+    "name": "武進",
+    "reading": "うーじん",
+    "country": "中華人民共和国",
+    "population": 1420204,
+    "coordinates": [
+      119.937825,
+      31.7031566
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "武漢",
+    "reading": "うーはん",
+    "country": "中華人民共和国",
+    "population": 8312700,
+    "coordinates": [
+      114.2994248,
+      30.5951047
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "濰坊",
+    "reading": "うぇいふぁん",
+    "country": "中華人民共和国",
+    "population": 1380300,
+    "coordinates": [
+      119.1557607,
+      36.7073709
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "温州",
+    "reading": "うぇんぢょう",
+    "country": "中華人民共和国",
+    "population": 1915548,
+    "coordinates": [
+      120.6952913,
+      27.996698
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "う"
+    }
+  },
+  {
+    "name": "温嶺",
+    "reading": "うぇんりん",
+    "country": "中華人民共和国",
+    "population": 1162783,
+    "coordinates": [
+      121.3808909,
+      28.3759481
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "烏魯木斉",
+    "reading": "うるむち",
+    "country": "中華人民共和国",
+    "population": 1753298,
+    "coordinates": [
+      87.6139701,
+      43.8242219
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "ち"
+    }
+  },
+  {
+    "name": "鄂州",
+    "reading": "おぅーぢょう",
+    "country": "中華人民共和国",
+    "population": 1023285,
+    "coordinates": [
+      114.8898386,
+      30.3936932
+    ],
+    "shiritori": {
+      "first": "お",
+      "last": "う"
+    }
+  },
+  {
+    "name": "高州",
+    "reading": "かおちょう",
+    "country": "中華人民共和国",
+    "population": 1219132,
+    "coordinates": [
+      110.8491742,
+      21.9222581
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "う"
+    }
+  },
+  {
+    "name": "広安",
+    "reading": "ぐぁんあん",
+    "country": "中華人民共和国",
+    "population": 1093103,
+    "coordinates": [
+      106.6286039,
+      30.4594645
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "広州",
+    "reading": "ぐあんぢょう",
+    "country": "中華人民共和国",
+    "population": 8524826,
+    "coordinates": [
+      113.2589791,
+      23.1321116
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "桂平",
+    "reading": "ぐいぴん",
+    "country": "中華人民共和国",
+    "population": 1359035,
+    "coordinates": [
+      110.0743541,
+      23.3966521
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "貴港",
+    "reading": "ぐえがん",
+    "country": "中華人民共和国",
+    "population": 1413128,
+    "coordinates": [
+      109.5947248,
+      23.1143828
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "昆明",
+    "reading": "くんみん",
+    "country": "中華人民共和国",
+    "population": 3035406,
+    "coordinates": [
+      102.8311083,
+      24.8879021
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "貴陽",
+    "reading": "こいやん",
+    "country": "中華人民共和国",
+    "population": 2985105,
+    "coordinates": [
+      106.6245581,
+      26.6502201
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "公主嶺",
+    "reading": "ごんぢゅーりん",
+    "country": "中華人民共和国",
+    "population": 1041735,
+    "coordinates": [
+      124.7631423,
+      43.4778504
+    ],
+    "shiritori": {
+      "first": "ご",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "棗荘",
+    "reading": "ざおぢゅあん",
+    "country": "中華人民共和国",
+    "population": 1996798,
+    "coordinates": [
+      117.3178778,
+      34.8110913
+    ],
+    "shiritori": {
+      "first": "ざ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "棗陽",
+    "reading": "ざおやん",
+    "country": "中華人民共和国",
+    "population": 1054374,
+    "coordinates": [
+      112.7665635,
+      32.1309335
+    ],
+    "shiritori": {
+      "first": "ざ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "江陰",
+    "reading": "じぁんいん",
+    "country": "中華人民共和国",
+    "population": 1315472,
+    "coordinates": [
+      120.2804843,
+      31.9225531
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "江都",
+    "reading": "じぁんどぅー",
+    "country": "中華人民共和国",
+    "population": 1053023,
+    "coordinates": [
+      119.5646782,
+      32.4381762
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "西安",
+    "reading": "しーあん",
+    "country": "中華人民共和国",
+    "population": 4481508,
+    "coordinates": [
+      108.9351966,
+      34.3440699
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "石家荘",
+    "reading": "しーじゃーずぉあん",
+    "country": "中華人民共和国",
+    "population": 1969975,
+    "coordinates": [
+      114.5088137,
+      38.0415733
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "錫山",
+    "reading": "しーしゃん",
+    "country": "中華人民共和国",
+    "population": 1181073,
+    "coordinates": [
+      120.3531749,
+      31.5914125
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "済南",
+    "reading": "じーなん",
+    "country": "中華人民共和国",
+    "population": 2999934,
+    "coordinates": [
+      117.1139712,
+      36.6518777
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "済寧",
+    "reading": "じーにん",
+    "country": "中華人民共和国",
+    "population": 1050522,
+    "coordinates": [
+      116.5819705,
+      35.4155506
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "即墨",
+    "reading": "じーもー",
+    "country": "中華人民共和国",
+    "population": 1111202,
+    "coordinates": [
+      120.4420111,
+      36.389307
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "も"
+    }
+  },
+  {
+    "name": "仙桃",
+    "reading": "しぇんたお",
+    "country": "中華人民共和国",
+    "population": 1474078,
+    "coordinates": [
+      113.4369955,
+      30.3309558
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "お"
+    }
+  },
+  {
+    "name": "深圳",
+    "reading": "しぇんぢぇん",
+    "country": "中華人民共和国",
+    "population": 7008831,
+    "coordinates": [
+      114.0545314,
+      22.5465671
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "瀋陽",
+    "reading": "しぇんやん",
+    "country": "中華人民共和国",
+    "population": 5303053,
+    "coordinates": [
+      123.458089,
+      41.6752902
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "簡陽",
+    "reading": "じぇんやん",
+    "country": "中華人民共和国",
+    "population": 1412523,
+    "coordinates": [
+      104.5448214,
+      30.41416
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "廈門",
+    "reading": "しゃーめん",
+    "country": "中華人民共和国",
+    "population": 2053070,
+    "coordinates": [
+      118.0845005,
+      24.4824606
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "蕭山",
+    "reading": "しゃおしゃん",
+    "country": "中華人民共和国",
+    "population": 1233348,
+    "coordinates": [
+      120.2597572,
+      30.1862719
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "江津",
+    "reading": "じゃんじん",
+    "country": "中華人民共和国",
+    "population": 1322890,
+    "coordinates": [
+      106.2605483,
+      29.3226292
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "商丘",
+    "reading": "しゃんちゅう",
+    "country": "中華人民共和国",
+    "population": 1428983,
+    "coordinates": [
+      115.6507159,
+      34.4164423
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "う"
+    }
+  },
+  {
+    "name": "項城",
+    "reading": "しゃんちょん",
+    "country": "中華人民共和国",
+    "population": 1052468,
+    "coordinates": [
+      114.8697996,
+      33.4670889
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "汕頭",
+    "reading": "しゃんとう",
+    "country": "中華人民共和国",
+    "population": 1270112,
+    "coordinates": [
+      116.6775568,
+      23.3566091
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "う"
+    }
+  },
+  {
+    "name": "上海",
+    "reading": "しゃんはい",
+    "country": "中華人民共和国",
+    "population": 14348535,
+    "coordinates": [
+      121.4692687,
+      31.2321437
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "い"
+    }
+  },
+  {
+    "name": "徐州",
+    "reading": "しゅーぃぢょう",
+    "country": "中華人民共和国",
+    "population": 1679626,
+    "coordinates": [
+      117.2783733,
+      34.2066568
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "う"
+    }
+  },
+  {
+    "name": "宣威",
+    "reading": "しゅえんうぇい",
+    "country": "中華人民共和国",
+    "population": 1292825,
+    "coordinates": [
+      104.1013932,
+      26.2226403
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "い"
+    }
+  },
+  {
+    "name": "順徳",
+    "reading": "しゅんだー",
+    "country": "中華人民共和国",
+    "population": 1694152,
+    "coordinates": [
+      113.2876512,
+      22.8084956
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "だ"
+    }
+  },
+  {
+    "name": "寿光",
+    "reading": "しょうぐぁん",
+    "country": "中華人民共和国",
+    "population": 1081991,
+    "coordinates": [
+      118.7862639,
+      36.8575403
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "諸城",
+    "reading": "しょじょう",
+    "country": "中華人民共和国",
+    "population": 1053695,
+    "coordinates": [
+      119.4041802,
+      35.9956781
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "う"
+    }
+  },
+  {
+    "name": "晋江",
+    "reading": "じんじあん",
+    "country": "中華人民共和国",
+    "population": 1479259,
+    "coordinates": [
+      118.5471454,
+      24.7846618
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "新泰",
+    "reading": "しんたい",
+    "country": "中華人民共和国",
+    "population": 1344395,
+    "coordinates": [
+      117.762107,
+      35.909388
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "い"
+    }
+  },
+  {
+    "name": "荊州",
+    "reading": "じんぢょう",
+    "country": "中華人民共和国",
+    "population": 1177150,
+    "coordinates": [
+      112.235999,
+      30.3385844
+    ],
+    "shiritori": {
+      "first": "じ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "興化",
+    "reading": "しんふあ",
+    "country": "中華人民共和国",
+    "population": 1441659,
+    "coordinates": [
+      119.8468263,
+      32.9143243
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "信陽",
+    "reading": "しんやん",
+    "country": "中華人民共和国",
+    "population": 1255750,
+    "coordinates": [
+      114.0851952,
+      32.150641
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "随州",
+    "reading": "すいぢょう",
+    "country": "中華人民共和国",
+    "population": 1598752,
+    "coordinates": [
+      113.3763468,
+      31.6920189
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "う"
+    }
+  },
+  {
+    "name": "遂寧",
+    "reading": "すいにん",
+    "country": "中華人民共和国",
+    "population": 1355388,
+    "coordinates": [
+      105.5893891,
+      30.535446
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "宿州",
+    "reading": "すーぢょう",
+    "country": "中華人民共和国",
+    "population": 1601181,
+    "coordinates": [
+      116.9587806,
+      33.6487773
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "う"
+    }
+  },
+  {
+    "name": "蘇州",
+    "reading": "すーぢょう",
+    "country": "中華人民共和国",
+    "population": 1344709,
+    "coordinates": [
+      120.5810077,
+      31.3019417
+    ],
+    "shiritori": {
+      "first": "す",
+      "last": "う"
+    }
+  },
+  {
+    "name": "淄博",
+    "reading": "ずーぼー",
+    "country": "中華人民共和国",
+    "population": 2817479,
+    "coordinates": [
+      118.0488091,
+      36.813085
+    ],
+    "shiritori": {
+      "first": "ず",
+      "last": "ぼ"
+    }
+  },
+  {
+    "name": "資陽",
+    "reading": "ずーやん",
+    "country": "中華人民共和国",
+    "population": 1016034,
+    "coordinates": [
+      104.6251845,
+      30.1316754
+    ],
+    "shiritori": {
+      "first": "ず",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "鄭州",
+    "reading": "ずぇんぢょう",
+    "country": "中華人民共和国",
+    "population": 2589387,
+    "coordinates": [
+      113.6193223,
+      34.7477857
+    ],
+    "shiritori": {
+      "first": "ず",
+      "last": "う"
+    }
+  },
+  {
+    "name": "鄒城",
+    "reading": "ずぉうちょん",
+    "country": "中華人民共和国",
+    "population": 1101003,
+    "coordinates": [
+      117.0016364,
+      35.4046683
+    ],
+    "shiritori": {
+      "first": "ず",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "中山",
+    "reading": "ずぉんしゃん",
+    "country": "中華人民共和国",
+    "population": 2363322,
+    "coordinates": [
+      113.3881505,
+      22.5196006
+    ],
+    "shiritori": {
+      "first": "ず",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "大慶",
+    "reading": "だーちん",
+    "country": "中華人民共和国",
+    "population": 1380051,
+    "coordinates": [
+      125.0978135,
+      46.5879559
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "大同",
+    "reading": "だーとん",
+    "country": "中華人民共和国",
+    "population": 1526744,
+    "coordinates": [
+      113.3597721,
+      40.0952816
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "大連",
+    "reading": "だーりえん",
+    "country": "中華人民共和国",
+    "population": 3245191,
+    "coordinates": [
+      121.6096782,
+      38.9132697
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "泰安",
+    "reading": "たいあん",
+    "country": "中華人民共和国",
+    "population": 1538211,
+    "coordinates": [
+      117.08093,
+      36.2003108
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "泰興",
+    "reading": "たいしん",
+    "country": "中華人民共和国",
+    "population": 1235454,
+    "coordinates": [
+      120.0463789,
+      32.1749791
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "台州",
+    "reading": "たいぢょう",
+    "country": "中華人民共和国",
+    "population": 1491963,
+    "coordinates": [
+      121.4163298,
+      28.659135
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "う"
+    }
+  },
+  {
+    "name": "太原",
+    "reading": "たいゆあん",
+    "country": "中華人民共和国",
+    "population": 2558382,
+    "coordinates": [
+      112.5436769,
+      37.8700141
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "唐山",
+    "reading": "たんしゃん",
+    "country": "中華人民共和国",
+    "population": 1711311,
+    "coordinates": [
+      118.173932,
+      39.6295218
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "啓東",
+    "reading": "ちーどん",
+    "country": "中華人民共和国",
+    "population": 1057073,
+    "coordinates": [
+      121.6510548,
+      31.7950456
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "赤峰",
+    "reading": "ちーふぉん",
+    "country": "中華人民共和国",
+    "population": 1153723,
+    "coordinates": [
+      118.8805894,
+      42.255944
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "吉林",
+    "reading": "ぢーりん",
+    "country": "中華人民共和国",
+    "population": 1953134,
+    "coordinates": [
+      126.5435638,
+      43.8357685
+    ],
+    "shiritori": {
+      "first": "ぢ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "斉斉哈爾",
+    "reading": "ちちはる",
+    "country": "中華人民共和国",
+    "population": 1540089,
+    "coordinates": [
+      123.9117149,
+      47.3530288
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "る"
+    }
+  },
+  {
+    "name": "潮陽",
+    "reading": "ちゃおやん",
+    "country": "中華人民共和国",
+    "population": 2470812,
+    "coordinates": [
+      116.5969606,
+      23.2685287
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "湛江",
+    "reading": "ちゃんじぁん",
+    "country": "中華人民共和国",
+    "population": 1350665,
+    "coordinates": [
+      110.3532028,
+      21.2727282
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "長沙",
+    "reading": "ちゃんしゃー",
+    "country": "中華人民共和国",
+    "population": 2122873,
+    "coordinates": [
+      112.933457,
+      28.2317758
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "や"
+    }
+  },
+  {
+    "name": "常熟",
+    "reading": "ちゃんすぅおー",
+    "country": "中華人民共和国",
+    "population": 1239637,
+    "coordinates": [
+      120.7481094,
+      31.6578962
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "お"
+    }
+  },
+  {
+    "name": "常徳",
+    "reading": "ちゃんだー",
+    "country": "中華人民共和国",
+    "population": 1346739,
+    "coordinates": [
+      111.6933311,
+      29.0344074
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "だ"
+    }
+  },
+  {
+    "name": "長春",
+    "reading": "ちゃんちゅん",
+    "country": "中華人民共和国",
+    "population": 3225557,
+    "coordinates": [
+      125.3170843,
+      43.8144637
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "常州",
+    "reading": "ちゃんぢょう",
+    "country": "中華人民共和国",
+    "population": 1081845,
+    "coordinates": [
+      119.9692827,
+      31.8133181
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "う"
+    }
+  },
+  {
+    "name": "諸曁",
+    "reading": "ぢゅーじー",
+    "country": "中華人民共和国",
+    "population": 1070675,
+    "coordinates": [
+      120.2423491,
+      29.7121465
+    ],
+    "shiritori": {
+      "first": "ぢ",
+      "last": "じ"
+    }
+  },
+  {
+    "name": "泉州",
+    "reading": "ちゅわんぢょう",
+    "country": "中華人民共和国",
+    "population": 1192286,
+    "coordinates": [
+      118.6713419,
+      24.8770138
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "う"
+    }
+  },
+  {
+    "name": "鍾祥",
+    "reading": "ぢょんしゃん",
+    "country": "中華人民共和国",
+    "population": 1021998,
+    "coordinates": [
+      112.5828965,
+      31.170342
+    ],
+    "shiritori": {
+      "first": "ぢ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "欽州",
+    "reading": "ちんじょう",
+    "country": "中華人民共和国",
+    "population": 1035504,
+    "coordinates": [
+      108.650635,
+      21.9841318
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "う"
+    }
+  },
+  {
+    "name": "青島",
+    "reading": "ちんだお",
+    "country": "中華人民共和国",
+    "population": 2720972,
+    "coordinates": [
+      120.3774645,
+      36.0668695
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "お"
+    }
+  },
+  {
+    "name": "自貢",
+    "reading": "つーごん",
+    "country": "中華人民共和国",
+    "population": 1051384,
+    "coordinates": [
+      104.7767894,
+      29.3418399
+    ],
+    "shiritori": {
+      "first": "つ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "慈渓",
+    "reading": "つーしー",
+    "country": "中華人民共和国",
+    "population": 1214537,
+    "coordinates": [
+      121.2622406,
+      30.1729512
+    ],
+    "shiritori": {
+      "first": "つ",
+      "last": "し"
+    }
+  },
+  {
+    "name": "成都",
+    "reading": "つぇんどぅー",
+    "country": "中華人民共和国",
+    "population": 4333541,
+    "coordinates": [
+      104.0634097,
+      30.5753729
+    ],
+    "shiritori": {
+      "first": "つ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "重慶",
+    "reading": "つぉんちん",
+    "country": "中華人民共和国",
+    "population": 9691901,
+    "coordinates": [
+      106.5468717,
+      29.5667685
+    ],
+    "shiritori": {
+      "first": "つ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "天水",
+    "reading": "てぃえんしゅい",
+    "country": "中華人民共和国",
+    "population": 1146986,
+    "coordinates": [
+      105.7206763,
+      34.5833458
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "い"
+    }
+  },
+  {
+    "name": "天津",
+    "reading": "てぃえんじん",
+    "country": "中華人民共和国",
+    "population": 7499181,
+    "coordinates": [
+      117.1948783,
+      39.0839665
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "天門",
+    "reading": "てぃえんめん",
+    "country": "中華人民共和国",
+    "population": 1613739,
+    "coordinates": [
+      113.1606565,
+      30.6662124
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "定州",
+    "reading": "てぃんちょう",
+    "country": "中華人民共和国",
+    "population": 1107903,
+    "coordinates": [
+      114.9842161,
+      38.5160273
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "う"
+    }
+  },
+  {
+    "name": "鄧州",
+    "reading": "てんちょう",
+    "country": "中華人民共和国",
+    "population": 1290656,
+    "coordinates": [
+      112.081209,
+      32.6897697
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "う"
+    }
+  },
+  {
+    "name": "東莞",
+    "reading": "どんぐあん",
+    "country": "中華人民共和国",
+    "population": 6445777,
+    "coordinates": [
+      113.7466294,
+      23.0234629
+    ],
+    "shiritori": {
+      "first": "ど",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "東台",
+    "reading": "どんたい",
+    "country": "中華人民共和国",
+    "population": 1164653,
+    "coordinates": [
+      120.315548,
+      32.8697727
+    ],
+    "shiritori": {
+      "first": "ど",
+      "last": "い"
+    }
+  },
+  {
+    "name": "滕州",
+    "reading": "とんぢょう",
+    "country": "中華人民共和国",
+    "population": 1548817,
+    "coordinates": [
+      117.1599902,
+      35.11434
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "う"
+    }
+  },
+  {
+    "name": "通州",
+    "reading": "とんぢょう",
+    "country": "中華人民共和国",
+    "population": 1371498,
+    "coordinates": [
+      121.0691663,
+      32.0680597
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "う"
+    }
+  },
+  {
+    "name": "南安",
+    "reading": "なんあん",
+    "country": "中華人民共和国",
+    "population": 1385276,
+    "coordinates": [
+      118.3816575,
+      24.962873
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "南京",
+    "reading": "なんじん",
+    "country": "中華人民共和国",
+    "population": 3624234,
+    "coordinates": [
+      118.7916685,
+      32.062314
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "南昌",
+    "reading": "なんちゃん",
+    "country": "中華人民共和国",
+    "population": 1844253,
+    "coordinates": [
+      115.8533421,
+      28.6861474
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "南充",
+    "reading": "なんちょん",
+    "country": "中華人民共和国",
+    "population": 1771920,
+    "coordinates": [
+      106.1066211,
+      30.8401143
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "南寧",
+    "reading": "なんにん",
+    "country": "中華人民共和国",
+    "population": 1766701,
+    "coordinates": [
+      108.3621402,
+      22.8199729
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "南海",
+    "reading": "なんはい",
+    "country": "中華人民共和国",
+    "population": 2133741,
+    "coordinates": [
+      113.1379108,
+      23.0315394
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "い"
+    }
+  },
+  {
+    "name": "南陽",
+    "reading": "なんやん",
+    "country": "中華人民共和国",
+    "population": 1584715,
+    "coordinates": [
+      112.522665,
+      32.9924011
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "寧波",
+    "reading": "にんぽー",
+    "country": "中華人民共和国",
+    "population": 1567499,
+    "coordinates": [
+      121.6204654,
+      29.8627926
+    ],
+    "shiritori": {
+      "first": "に",
+      "last": "ぽ"
+    }
+  },
+  {
+    "name": "内江",
+    "reading": "ねいじゃん",
+    "country": "中華人民共和国",
+    "population": 1391931,
+    "coordinates": [
+      105.0546616,
+      29.5826801
+    ],
+    "shiritori": {
+      "first": "ね",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "哈爾浜",
+    "reading": "はーあるぴん",
+    "country": "中華人民共和国",
+    "population": 3481504,
+    "coordinates": [
+      126.5291519,
+      45.801217
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "巴中",
+    "reading": "ばーぢょん",
+    "country": "中華人民共和国",
+    "population": 1185862,
+    "coordinates": [
+      106.7432865,
+      31.8699073
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "合肥",
+    "reading": "はーふぇい",
+    "country": "中華人民共和国",
+    "population": 1659075,
+    "coordinates": [
+      117.2218708,
+      31.823575
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "い"
+    }
+  },
+  {
+    "name": "海城",
+    "reading": "はいちょん",
+    "country": "中華人民共和国",
+    "population": 1181130,
+    "coordinates": [
+      122.6799276,
+      40.8808329
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "包頭",
+    "reading": "ぱおとう",
+    "country": "中華人民共和国",
+    "population": 1671181,
+    "coordinates": [
+      109.9473038,
+      40.6200534
+    ],
+    "shiritori": {
+      "first": "ぱ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "邯鄲",
+    "reading": "はんだん",
+    "country": "中華人民共和国",
+    "population": 1329734,
+    "coordinates": [
+      114.53341,
+      36.6257544
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "漢川",
+    "reading": "はんちゅあん",
+    "country": "中華人民共和国",
+    "population": 1057396,
+    "coordinates": [
+      113.8325601,
+      30.6767728
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "杭州",
+    "reading": "はんぢょう",
+    "country": "中華人民共和国",
+    "population": 2451319,
+    "coordinates": [
+      120.2051729,
+      30.2489606
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "う"
+    }
+  },
+  {
+    "name": "畢節",
+    "reading": "びーじぇー",
+    "country": "中華人民共和国",
+    "population": 1128230,
+    "coordinates": [
+      105.2885283,
+      27.2870713
+    ],
+    "shiritori": {
+      "first": "び",
+      "last": "え"
+    }
+  },
+  {
+    "name": "邳州",
+    "reading": "ぴーぢょう",
+    "country": "中華人民共和国",
+    "population": 1539922,
+    "coordinates": [
+      118.0067892,
+      34.3401128
+    ],
+    "shiritori": {
+      "first": "ぴ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "平度",
+    "reading": "ぴんどぅ",
+    "country": "中華人民共和国",
+    "population": 1321975,
+    "coordinates": [
+      119.966354,
+      36.7527049
+    ],
+    "shiritori": {
+      "first": "ぴ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "淮南",
+    "reading": "ふぁいなん",
+    "country": "中華人民共和国",
+    "population": 1357228,
+    "coordinates": [
+      117.0129783,
+      32.5894083
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "撫順",
+    "reading": "ふーしゅん",
+    "country": "中華人民共和国",
+    "population": 1434447,
+    "coordinates": [
+      123.9513185,
+      41.87895
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "福州",
+    "reading": "ふーぢょう",
+    "country": "中華人民共和国",
+    "population": 2124435,
+    "coordinates": [
+      119.2913656,
+      26.0773171
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "撫州",
+    "reading": "ふーぢょう",
+    "country": "中華人民共和国",
+    "population": 1007391,
+    "coordinates": [
+      116.3530273,
+      27.9523524
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "湖州",
+    "reading": "ふーぢょう",
+    "country": "中華人民共和国",
+    "population": 1145414,
+    "coordinates": [
+      120.0818364,
+      30.8964472
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "福清",
+    "reading": "ふーちん",
+    "country": "中華人民共和国",
+    "population": 1174540,
+    "coordinates": [
+      119.3794156,
+      25.7228117
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "普寧",
+    "reading": "ぷーにん",
+    "country": "中華人民共和国",
+    "population": 1856402,
+    "coordinates": [
+      116.1611531,
+      23.3003839
+    ],
+    "shiritori": {
+      "first": "ぷ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "富陽",
+    "reading": "ふーやん",
+    "country": "中華人民共和国",
+    "population": 1719057,
+    "coordinates": [
+      119.9557244,
+      30.0506661
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "豊城",
+    "reading": "ふぉんちょん",
+    "country": "中華人民共和国",
+    "population": 1216412,
+    "coordinates": [
+      115.7661661,
+      28.1640468
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "呼和浩特",
+    "reading": "ふふほと",
+    "country": "中華人民共和国",
+    "population": 1406955,
+    "coordinates": [
+      111.7417195,
+      40.841401
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "と"
+    }
+  },
+  {
+    "name": "北流",
+    "reading": "べいりゅう",
+    "country": "中華人民共和国",
+    "population": 1049035,
+    "coordinates": [
+      110.3494756,
+      22.7111764
+    ],
+    "shiritori": {
+      "first": "べ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "淮安",
+    "reading": "ほぁいあん",
+    "country": "中華人民共和国",
+    "population": 1200679,
+    "coordinates": [
+      119.1075748,
+      33.5525646
+    ],
+    "shiritori": {
+      "first": "ほ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "化州",
+    "reading": "ほあちょう",
+    "country": "中華人民共和国",
+    "population": 1007796,
+    "coordinates": [
+      110.6352671,
+      21.6675882
+    ],
+    "shiritori": {
+      "first": "ほ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "合川",
+    "reading": "ほーちゅあん",
+    "country": "中華人民共和国",
+    "population": 1420520,
+    "coordinates": [
+      106.2724608,
+      29.9747502
+    ],
+    "shiritori": {
+      "first": "ほ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "亳州",
+    "reading": "ぼーぢょう",
+    "country": "中華人民共和国",
+    "population": 1351939,
+    "coordinates": [
+      115.7730595,
+      33.8468632
+    ],
+    "shiritori": {
+      "first": "ぼ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "菏沢",
+    "reading": "ほーづー",
+    "country": "中華人民共和国",
+    "population": 1280031,
+    "coordinates": [
+      115.4738228,
+      35.2348208
+    ],
+    "shiritori": {
+      "first": "ほ",
+      "last": "ず"
+    }
+  },
+  {
+    "name": "香港",
+    "reading": "ほんこん",
+    "country": "中華人民共和国",
+    "population": 7413100,
+    "coordinates": [
+      114.16586,
+      22.2802975
+    ],
+    "shiritori": {
+      "first": "ほ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "麻城",
+    "reading": "まーちょん",
+    "country": "中華人民共和国",
+    "population": 1129047,
+    "coordinates": [
+      115.002613,
+      31.1748915
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "綿陽",
+    "reading": "みえんやん",
+    "country": "中華人民共和国",
+    "population": 1162962,
+    "coordinates": [
+      104.6764862,
+      31.4699245
+    ],
+    "shiritori": {
+      "first": "み",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "牡丹江",
+    "reading": "むーだんじぁん",
+    "country": "中華人民共和国",
+    "population": 1014206,
+    "coordinates": [
+      129.626088,
+      44.5498792
+    ],
+    "shiritori": {
+      "first": "む",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "禹州",
+    "reading": "ゆぃぢょう",
+    "country": "中華人民共和国",
+    "population": 1122669,
+    "coordinates": [
+      113.4822419,
+      34.1433748
+    ],
+    "shiritori": {
+      "first": "ゆ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "玉樹",
+    "reading": "ゆーしゅー",
+    "country": "中華人民共和国",
+    "population": 1155670,
+    "coordinates": [
+      97.0090781,
+      32.9949517
+    ],
+    "shiritori": {
+      "first": "ゆ",
+      "last": "ゆ"
+    }
+  },
+  {
+    "name": "楽清",
+    "reading": "ゆえちん",
+    "country": "中華人民共和国",
+    "population": 1162765,
+    "coordinates": [
+      120.9812552,
+      28.1163193
+    ],
+    "shiritori": {
+      "first": "ゆ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "永城",
+    "reading": "よんちょん",
+    "country": "中華人民共和国",
+    "population": 1264607,
+    "coordinates": [
+      116.4439687,
+      33.9311629
+    ],
+    "shiritori": {
+      "first": "よ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "楽山",
+    "reading": "らーしゃん",
+    "country": "中華人民共和国",
+    "population": 1120158,
+    "coordinates": [
+      103.7633817,
+      29.5552987
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "莱蕪",
+    "reading": "らいうー",
+    "country": "中華人民共和国",
+    "population": 1233525,
+    "coordinates": [
+      117.6698781,
+      36.2143101
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "う"
+    }
+  },
+  {
+    "name": "蘭州",
+    "reading": "らんちょう",
+    "country": "中華人民共和国",
+    "population": 2087759,
+    "coordinates": [
+      103.831814,
+      36.0612876
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "う"
+    }
+  },
+  {
+    "name": "日照",
+    "reading": "りーざお",
+    "country": "中華人民共和国",
+    "population": 1148190,
+    "coordinates": [
+      119.5214836,
+      35.4172558
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "お"
+    }
+  },
+  {
+    "name": "廉江",
+    "reading": "りぇんじゃん",
+    "country": "中華人民共和国",
+    "population": 1205764,
+    "coordinates": [
+      110.281957,
+      21.6125773
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "柳州",
+    "reading": "りゅうぢょう",
+    "country": "中華人民共和国",
+    "population": 1220392,
+    "coordinates": [
+      109.4238969,
+      24.3286693
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "う"
+    }
+  },
+  {
+    "name": "瀏陽",
+    "reading": "りゅうやん",
+    "country": "中華人民共和国",
+    "population": 1307572,
+    "coordinates": [
+      113.6378164,
+      28.1672836
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "臨沂",
+    "reading": "りんいー",
+    "country": "中華人民共和国",
+    "population": 1938510,
+    "coordinates": [
+      118.3507053,
+      35.105204
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "い"
+    }
+  },
+  {
+    "name": "瑞安",
+    "reading": "るいあん",
+    "country": "中華人民共和国",
+    "population": 1207788,
+    "coordinates": [
+      120.6511811,
+      27.7817892
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "六安",
+    "reading": "るーあん",
+    "country": "中華人民共和国",
+    "population": 1559037,
+    "coordinates": [
+      116.5143503,
+      31.7383139
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "如皋",
+    "reading": "るーがお",
+    "country": "中華人民共和国",
+    "population": 1362533,
+    "coordinates": [
+      120.5697473,
+      32.3735061
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "お"
+    }
+  },
+  {
+    "name": "瀘州",
+    "reading": "るーぢょう",
+    "country": "中華人民共和国",
+    "population": 1252884,
+    "coordinates": [
+      105.4381174,
+      28.874
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "う"
+    }
+  },
+  {
+    "name": "陸豊",
+    "reading": "るーふぉん",
+    "country": "中華人民共和国",
+    "population": 1164767,
+    "coordinates": [
+      115.6475487,
+      22.9221
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "洛陽",
+    "reading": "るおやん",
+    "country": "中華人民共和国",
+    "population": 1491680,
+    "coordinates": [
+      112.4476511,
+      34.6212737
+    ],
+    "shiritori": {
+      "first": "る",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "雷州",
+    "reading": "れいじょう",
+    "country": "中華人民共和国",
+    "population": 1268298,
+    "coordinates": [
+      110.0921423,
+      20.9170387
+    ],
+    "shiritori": {
+      "first": "れ",
+      "last": "う"
+    }
+  },
+  {
+    "name": "耒陽",
+    "reading": "れいやん",
+    "country": "中華人民共和国",
+    "population": 1180235,
+    "coordinates": [
+      112.8544574,
+      26.425976
+    ],
+    "shiritori": {
+      "first": "れ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "チュニス",
+    "reading": "ちゅにす",
+    "country": "チュニジア共和国",
+    "population": 1056247,
+    "coordinates": [
+      10.1659935,
+      36.7974237
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "す"
+    }
+  },
+  {
+    "name": "ベルリン",
+    "reading": "べるりん",
+    "country": "ドイツ連邦共和国",
+    "population": 3644826,
+    "coordinates": [
+      13.4086443,
+      52.5182775
+    ],
+    "shiritori": {
+      "first": "べ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ケルン",
+    "reading": "けるん",
+    "country": "ドイツ連邦共和国",
+    "population": 1085664,
+    "coordinates": [
+      6.9591214,
+      50.9381035
+    ],
+    "shiritori": {
+      "first": "け",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ハンブルク",
+    "reading": "はんぶるく",
+    "country": "ドイツ連邦共和国",
+    "population": 1841179,
+    "coordinates": [
+      9.9923335,
+      53.5504312
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "く"
+    }
+  },
+  {
+    "name": "ミュンヘン",
+    "reading": "みゅんへん",
+    "country": "ドイツ連邦共和国",
+    "population": 1471508,
+    "coordinates": [
+      11.5758153,
+      48.1375798
+    ],
+    "shiritori": {
+      "first": "み",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ロメ",
+    "reading": "ろめ",
+    "country": "トーゴ共和国",
+    "population": 1788600,
+    "coordinates": [
+      1.2153581,
+      6.1310843
+    ],
+    "shiritori": {
+      "first": "ろ",
+      "last": "め"
+    }
+  },
+  {
+    "name": "サントドミンゴ",
+    "reading": "さんとどみんご",
+    "country": "ドミニカ共和国",
+    "population": 1043186,
+    "coordinates": [
+      -69.9269311,
+      18.4482387
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ご"
+    }
+  },
+  {
+    "name": "サントドミンゴエステ",
+    "reading": "さんとどみんごえすて",
+    "country": "ドミニカ共和国",
+    "population": 1161393,
+    "coordinates": [
+      -69.8587009,
+      18.5047821
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "て"
+    }
+  },
+  {
+    "name": "アンカラ",
+    "reading": "あんから",
+    "country": "トルコ共和国",
+    "population": 5663322,
+    "coordinates": [
+      32.8382867,
+      39.9395921
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "アイドゥン",
+    "reading": "あいどぅん",
+    "country": "トルコ共和国",
+    "population": 1119084,
+    "coordinates": [
+      27.8460664,
+      37.8472525
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "アダナ",
+    "reading": "あだな",
+    "country": "トルコ共和国",
+    "population": 2258718,
+    "coordinates": [
+      35.3256402,
+      36.9931244
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "な"
+    }
+  },
+  {
+    "name": "アンタルヤ",
+    "reading": "あんたるや",
+    "country": "トルコ共和国",
+    "population": 2548308,
+    "coordinates": [
+      30.710506,
+      36.894914
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "や"
+    }
+  },
+  {
+    "name": "イスタンブール",
+    "reading": "いすたんぶーる",
+    "country": "トルコ共和国",
+    "population": 15462452,
+    "coordinates": [
+      28.9552083,
+      41.0134947
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "る"
+    }
+  },
+  {
+    "name": "イズミル",
+    "reading": "いずみる",
+    "country": "トルコ共和国",
+    "population": 4394694,
+    "coordinates": [
+      27.1288705,
+      38.419754
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ヴァン",
+    "reading": "ゔぁん",
+    "country": "トルコ共和国",
+    "population": 1149342,
+    "coordinates": [
+      43.4038643,
+      38.4910134
+    ],
+    "shiritori": {
+      "first": "ゔ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "カイセリ",
+    "reading": "かいせり",
+    "country": "トルコ共和国",
+    "population": 1421455,
+    "coordinates": [
+      35.489218,
+      38.72261
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "り"
+    }
+  },
+  {
+    "name": "ガジアンテップ",
+    "reading": "がじあんてっぷ",
+    "country": "トルコ共和国",
+    "population": 2101157,
+    "coordinates": [
+      37.3735625,
+      37.0663072
+    ],
+    "shiritori": {
+      "first": "が",
+      "last": "ぷ"
+    }
+  },
+  {
+    "name": "カフラマンマラシュ",
+    "reading": "かふらまんまらしゅ",
+    "country": "トルコ共和国",
+    "population": 1168163,
+    "coordinates": [
+      36.926797,
+      37.5764076
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ゆ"
+    }
+  },
+  {
+    "name": "コジャエリ",
+    "reading": "こじゃえり",
+    "country": "トルコ共和国",
+    "population": 1997258,
+    "coordinates": [
+      29.9329995,
+      40.7604515
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "り"
+    }
+  },
+  {
+    "name": "コンヤ",
+    "reading": "こんや",
+    "country": "トルコ共和国",
+    "population": 2250020,
+    "coordinates": [
+      32.4989594,
+      37.8717005
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "や"
+    }
+  },
+  {
+    "name": "サカリヤ",
+    "reading": "さかりや",
+    "country": "トルコ共和国",
+    "population": 1042649,
+    "coordinates": [
+      30.3166223,
+      40.8526601
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "や"
+    }
+  },
+  {
+    "name": "サムスン",
+    "reading": "さむすん",
+    "country": "トルコ共和国",
+    "population": 1356079,
+    "coordinates": [
+      36.3378538,
+      41.2897054
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "シャンルウルファ",
+    "reading": "しゃんるうるふぁ",
+    "country": "トルコ共和国",
+    "population": 2115256,
+    "coordinates": [
+      38.8006906,
+      37.1603305
+    ],
+    "shiritori": {
+      "first": "し",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "ディヤルバクル",
+    "reading": "でぃやるばくる",
+    "country": "トルコ共和国",
+    "population": 1783431,
+    "coordinates": [
+      40.2255692,
+      37.9156468
+    ],
+    "shiritori": {
+      "first": "で",
+      "last": "る"
+    }
+  },
+  {
+    "name": "テキルダー",
+    "reading": "てきるだー",
+    "country": "トルコ共和国",
+    "population": 1081065,
+    "coordinates": [
+      27.5151779,
+      40.9791432
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "だ"
+    }
+  },
+  {
+    "name": "デニズリ",
+    "reading": "でにずり",
+    "country": "トルコ共和国",
+    "population": 1040915,
+    "coordinates": [
+      29.0850982,
+      37.7811241
+    ],
+    "shiritori": {
+      "first": "で",
+      "last": "り"
+    }
+  },
+  {
+    "name": "ハタイ",
+    "reading": "はたい",
+    "country": "トルコ共和国",
+    "population": 1659320,
+    "coordinates": [
+      36.1597201,
+      36.198501
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "い"
+    }
+  },
+  {
+    "name": "バルケスィル",
+    "reading": "ばるけすぃる",
+    "country": "トルコ共和国",
+    "population": 1240285,
+    "coordinates": [
+      27.8837042,
+      39.6452964
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ブルサ",
+    "reading": "ぶるさ",
+    "country": "トルコ共和国",
+    "population": 3101833,
+    "coordinates": [
+      29.066238,
+      40.182712
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "さ"
+    }
+  },
+  {
+    "name": "マニサ",
+    "reading": "まにさ",
+    "country": "トルコ共和国",
+    "population": 1450616,
+    "coordinates": [
+      27.4341184,
+      38.6141726
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "さ"
+    }
+  },
+  {
+    "name": "ムーラ",
+    "reading": "むーら",
+    "country": "トルコ共和国",
+    "population": 1000773,
+    "coordinates": [
+      28.3672873,
+      37.2173271
+    ],
+    "shiritori": {
+      "first": "む",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "メルシン",
+    "reading": "めるしん",
+    "country": "トルコ共和国",
+    "population": 1868757,
+    "coordinates": [
+      34.5580413,
+      36.7723799
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "イバダン",
+    "reading": "いばだん",
+    "country": "ナイジェリア連邦共和国",
+    "population": 1835300,
+    "coordinates": [
+      3.9088469,
+      7.4110917
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "カノ",
+    "reading": "かの",
+    "country": "ナイジェリア連邦共和国",
+    "population": 2166554,
+    "coordinates": [
+      8.5196842,
+      11.9883143
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "の"
+    }
+  },
+  {
+    "name": "ラゴス",
+    "reading": "らごす",
+    "country": "ナイジェリア連邦共和国",
+    "population": 5195247,
+    "coordinates": [
+      3.3976748,
+      6.4507616
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "す"
+    }
+  },
+  {
+    "name": "ニアメ",
+    "reading": "にあめ",
+    "country": "ニジェール共和国",
+    "population": 1283888,
+    "coordinates": [
+      2.1091785,
+      13.5138169
+    ],
+    "shiritori": {
+      "first": "に",
+      "last": "め"
+    }
+  },
+  {
+    "name": "東京",
+    "reading": "とうきょう",
+    "country": "日本国",
+    "population": 9733276,
+    "coordinates": [
+      139.6921007,
+      35.6896342
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "う"
+    }
+  },
+  {
+    "name": "大阪",
+    "reading": "おおさか",
+    "country": "日本国",
+    "population": 2752412,
+    "coordinates": [
+      135.5021669,
+      34.6937366
+    ],
+    "shiritori": {
+      "first": "お",
+      "last": "か"
+    }
+  },
+  {
+    "name": "川崎",
+    "reading": "かわさき",
+    "country": "日本国",
+    "population": 1538262,
+    "coordinates": [
+      139.702997,
+      35.5308074
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "き"
+    }
+  },
+  {
+    "name": "京都",
+    "reading": "きょうと",
+    "country": "日本国",
+    "population": 1463723,
+    "coordinates": [
+      135.768125,
+      35.0116574
+    ],
+    "shiritori": {
+      "first": "き",
+      "last": "と"
+    }
+  },
+  {
+    "name": "神戸",
+    "reading": "こうべ",
+    "country": "日本国",
+    "population": 1525152,
+    "coordinates": [
+      135.195739,
+      34.6894859
+    ],
+    "shiritori": {
+      "first": "こ",
+      "last": "べ"
+    }
+  },
+  {
+    "name": "さいたま",
+    "reading": "さいたま",
+    "country": "日本国",
+    "population": 1324025,
+    "coordinates": [
+      139.6454616,
+      35.861665
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ま"
+    }
+  },
+  {
+    "name": "札幌",
+    "reading": "さっぽろ",
+    "country": "日本国",
+    "population": 1973395,
+    "coordinates": [
+      141.3543614,
+      43.0620803
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ろ"
+    }
+  },
+  {
+    "name": "仙台",
+    "reading": "せんだい",
+    "country": "日本国",
+    "population": 1096704,
+    "coordinates": [
+      140.8694255,
+      38.2682009
+    ],
+    "shiritori": {
+      "first": "せ",
+      "last": "い"
+    }
+  },
+  {
+    "name": "名古屋",
+    "reading": "なごや",
+    "country": "日本国",
+    "population": 2332176,
+    "coordinates": [
+      136.9065665,
+      35.1814303
+    ],
+    "shiritori": {
+      "first": "な",
+      "last": "や"
+    }
+  },
+  {
+    "name": "広島",
+    "reading": "ひろしま",
+    "country": "日本国",
+    "population": 1200754,
+    "coordinates": [
+      132.4550605,
+      34.3851663
+    ],
+    "shiritori": {
+      "first": "ひ",
+      "last": "ま"
+    }
+  },
+  {
+    "name": "福岡",
+    "reading": "ふくおか",
+    "country": "日本国",
+    "population": 1612392,
+    "coordinates": [
+      130.4017186,
+      33.5901979
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "か"
+    }
+  },
+  {
+    "name": "横浜",
+    "reading": "よこはま",
+    "country": "日本国",
+    "population": 3777491,
+    "coordinates": [
+      139.6342277,
+      35.4503614
+    ],
+    "shiritori": {
+      "first": "よ",
+      "last": "ま"
+    }
+  },
+  {
+    "name": "オークランド",
+    "reading": "おーくらんど",
+    "country": "ニュージーランド",
+    "population": 1715600,
+    "coordinates": [
+      174.7633152,
+      -36.850937
+    ],
+    "shiritori": {
+      "first": "お",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "イスラマバード",
+    "reading": "いすらまばーど",
+    "country": "パキスタン・イスラム共和国",
+    "population": 1014825,
+    "coordinates": [
+      73.0108131,
+      33.6669681
+    ],
+    "shiritori": {
+      "first": "い",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "カラチ",
+    "reading": "からち",
+    "country": "パキスタン・イスラム共和国",
+    "population": 14910352,
+    "coordinates": [
+      67.0076902,
+      24.8555366
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ち"
+    }
+  },
+  {
+    "name": "クエッタ",
+    "reading": "くえった",
+    "country": "パキスタン・イスラム共和国",
+    "population": 1001205,
+    "coordinates": [
+      67.0114467,
+      30.1993629
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "た"
+    }
+  },
+  {
+    "name": "グジュランワラ",
+    "reading": "ぐじゅらんわら",
+    "country": "パキスタン・イスラム共和国",
+    "population": 2027001,
+    "coordinates": [
+      74.1927947,
+      32.1475067
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "ハイデラバード",
+    "reading": "はいでらばーど",
+    "country": "パキスタン・イスラム共和国",
+    "population": 1732693,
+    "coordinates": [
+      68.3684426,
+      25.3914957
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "ファイサラバード",
+    "reading": "ふぁいさらばーど",
+    "country": "パキスタン・イスラム共和国",
+    "population": 3203846,
+    "coordinates": [
+      73.0941314,
+      31.4186744
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "ペシャーワル",
+    "reading": "ぺしゃーわる",
+    "country": "パキスタン・イスラム共和国",
+    "population": 1970042,
+    "coordinates": [
+      71.5716303,
+      34.0176356
+    ],
+    "shiritori": {
+      "first": "ぺ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ムルタン",
+    "reading": "むるたん",
+    "country": "パキスタン・イスラム共和国",
+    "population": 1871843,
+    "coordinates": [
+      71.4490077,
+      30.2096946
+    ],
+    "shiritori": {
+      "first": "む",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ラホール",
+    "reading": "らほーる",
+    "country": "パキスタン・イスラム共和国",
+    "population": 11126285,
+    "coordinates": [
+      74.3054851,
+      31.5746202
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ラワルピンディ",
+    "reading": "らわるぴんでぃ",
+    "country": "パキスタン・イスラム共和国",
+    "population": 2098231,
+    "coordinates": [
+      73.0646972,
+      33.6051069
+    ],
+    "shiritori": {
+      "first": "ら",
+      "last": "い"
+    }
+  },
+  {
+    "name": "パナマシティ",
+    "reading": "ぱなましてぃ",
+    "country": "パナマ共和国",
+    "population": 1140001,
+    "coordinates": [
+      -79.5347442,
+      8.9709043
+    ],
+    "shiritori": {
+      "first": "ぱ",
+      "last": "い"
+    }
+  },
+  {
+    "name": "アスンシオン",
+    "reading": "あすんしおん",
+    "country": "パラグアイ共和国",
+    "population": 2887087,
+    "coordinates": [
+      -57.5595886,
+      -25.3043626
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ブダペスト",
+    "reading": "ぶだぺすと",
+    "country": "ハンガリー",
+    "population": 2622241,
+    "coordinates": [
+      19.045669,
+      47.507121
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "と"
+    }
+  },
+  {
+    "name": "ダッカ",
+    "reading": "だっか",
+    "country": "バングラデシュ人民共和国",
+    "population": 8906035,
+    "coordinates": [
+      90.4113704,
+      23.711335
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "か"
+    }
+  },
+  {
+    "name": "チョットグラム",
+    "reading": "ちょっとぐらむ",
+    "country": "バングラデシュ人民共和国",
+    "population": 2591681,
+    "coordinates": [
+      91.8142381,
+      22.3443623
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "む"
+    }
+  },
+  {
+    "name": "マニラ",
+    "reading": "まにら",
+    "country": "フィリピン共和国",
+    "population": 1846513,
+    "coordinates": [
+      120.9816112,
+      14.5895137
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "カローカン",
+    "reading": "かろーかん",
+    "country": "フィリピン共和国",
+    "population": 1661584,
+    "coordinates": [
+      120.9906325,
+      14.6487713
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ケソンシティ",
+    "reading": "けそんしてぃ",
+    "country": "フィリピン共和国",
+    "population": 2960048,
+    "coordinates": [
+      121.0500976,
+      14.6464639
+    ],
+    "shiritori": {
+      "first": "け",
+      "last": "い"
+    }
+  },
+  {
+    "name": "ダバオ",
+    "reading": "だばお",
+    "country": "フィリピン共和国",
+    "population": 1776949,
+    "coordinates": [
+      125.6077665,
+      7.064525
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "お"
+    }
+  },
+  {
+    "name": "ブラジリア",
+    "reading": "ぶらじりあ",
+    "country": "ブラジル連邦共和国",
+    "population": 3094325,
+    "coordinates": [
+      -47.9079509,
+      -15.7845812
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "カンピーナス",
+    "reading": "かんぴーなす",
+    "country": "ブラジル連邦共和国",
+    "population": 1223237,
+    "coordinates": [
+      -47.057332,
+      -22.9009391
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "す"
+    }
+  },
+  {
+    "name": "グアルーリョス",
+    "reading": "ぐあるーりょす",
+    "country": "ブラジル連邦共和国",
+    "population": 1404694,
+    "coordinates": [
+      -46.5170303,
+      -23.4556312
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "クリチバ",
+    "reading": "くりちば",
+    "country": "ブラジル連邦共和国",
+    "population": 1963726,
+    "coordinates": [
+      -49.2687481,
+      -25.4168589
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "ば"
+    }
+  },
+  {
+    "name": "ゴイアニア",
+    "reading": "ごいあにあ",
+    "country": "ブラジル連邦共和国",
+    "population": 1555626,
+    "coordinates": [
+      -49.2271902,
+      -16.702725
+    ],
+    "shiritori": {
+      "first": "ご",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "サルバドール",
+    "reading": "さるばどーる",
+    "country": "ブラジル連邦共和国",
+    "population": 2900319,
+    "coordinates": [
+      -38.5124909,
+      -12.9749022
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "サンゴンサロ",
+    "reading": "さんごんさろ",
+    "country": "ブラジル連邦共和国",
+    "population": 1098357,
+    "coordinates": [
+      -43.0491043,
+      -22.8250717
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ろ"
+    }
+  },
+  {
+    "name": "サンパウロ",
+    "reading": "さんぱうろ",
+    "country": "ブラジル連邦共和国",
+    "population": 12396372,
+    "coordinates": [
+      -46.637397,
+      -23.5474385
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ろ"
+    }
+  },
+  {
+    "name": "サンルイス",
+    "reading": "さんるいす",
+    "country": "ブラジル連邦共和国",
+    "population": 1115932,
+    "coordinates": [
+      -44.3060052,
+      -2.5274248
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "フォルタレザ",
+    "reading": "ふぉるたれざ",
+    "country": "ブラジル連邦共和国",
+    "population": 2703391,
+    "coordinates": [
+      -38.5235817,
+      -3.7251881
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ざ"
+    }
+  },
+  {
+    "name": "ベレン",
+    "reading": "べれん",
+    "country": "ブラジル連邦共和国",
+    "population": 1506420,
+    "coordinates": [
+      -48.5023104,
+      -1.4558482
+    ],
+    "shiritori": {
+      "first": "べ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ベロオリゾンテ",
+    "reading": "べろおりぞんて",
+    "country": "ブラジル連邦共和国",
+    "population": 2530701,
+    "coordinates": [
+      -43.9363914,
+      -19.9237641
+    ],
+    "shiritori": {
+      "first": "べ",
+      "last": "て"
+    }
+  },
+  {
+    "name": "ポルトアレグレ",
+    "reading": "ぽるとあれぐれ",
+    "country": "ブラジル連邦共和国",
+    "population": 1492530,
+    "coordinates": [
+      -51.2286421,
+      -30.0281574
+    ],
+    "shiritori": {
+      "first": "ぽ",
+      "last": "れ"
+    }
+  },
+  {
+    "name": "マセイオ",
+    "reading": "ませいお",
+    "country": "ブラジル連邦共和国",
+    "population": 1031597,
+    "coordinates": [
+      -35.7218663,
+      -9.6728928
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "お"
+    }
+  },
+  {
+    "name": "マナウス",
+    "reading": "まなうす",
+    "country": "ブラジル連邦共和国",
+    "population": 2255903,
+    "coordinates": [
+      -60.0508336,
+      -3.1093323
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "す"
+    }
+  },
+  {
+    "name": "リオデジャネイロ",
+    "reading": "りおでじゃねいろ",
+    "country": "ブラジル連邦共和国",
+    "population": 6775561,
+    "coordinates": [
+      -43.2056255,
+      -22.9112021
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "ろ"
+    }
+  },
+  {
+    "name": "レシフェ",
+    "reading": "れしふぇ",
+    "country": "ブラジル連邦共和国",
+    "population": 1661017,
+    "coordinates": [
+      -34.8724242,
+      -8.0542964
+    ],
+    "shiritori": {
+      "first": "れ",
+      "last": "え"
+    }
+  },
+  {
+    "name": "パリ",
+    "reading": "ぱり",
+    "country": "フランス共和国",
+    "population": 10706072,
+    "coordinates": [
+      2.3524135,
+      48.8564826
+    ],
+    "shiritori": {
+      "first": "ぱ",
+      "last": "り"
+    }
+  },
+  {
+    "name": "マルセイユ",
+    "reading": "まるせいゆ",
+    "country": "フランス共和国",
+    "population": 1585498,
+    "coordinates": [
+      5.3695381,
+      43.2972622
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ゆ"
+    }
+  },
+  {
+    "name": "リール",
+    "reading": "りーる",
+    "country": "フランス共和国",
+    "population": 1039397,
+    "coordinates": [
+      3.0709246,
+      50.6307664
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "る"
+    }
+  },
+  {
+    "name": "リヨン",
+    "reading": "りよん",
+    "country": "フランス共和国",
+    "population": 1639558,
+    "coordinates": [
+      4.8342517,
+      45.7675541
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ソフィア",
+    "reading": "そふぃあ",
+    "country": "ブルガリア共和国",
+    "population": 1221785,
+    "coordinates": [
+      23.331701,
+      42.6969843
+    ],
+    "shiritori": {
+      "first": "そ",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "ワガドゥグー",
+    "reading": "わがどぅぐー",
+    "country": "ブルキナファソ",
+    "population": 2415266,
+    "coordinates": [
+      -1.527066,
+      12.3680826
+    ],
+    "shiritori": {
+      "first": "わ",
+      "last": "ぐ"
+    }
+  },
+  {
+    "name": "ハノイ",
+    "reading": "はのい",
+    "country": "ベトナム社会主義共和国",
+    "population": 8246540,
+    "coordinates": [
+      105.8542103,
+      21.0282935
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "い"
+    }
+  },
+  {
+    "name": "カントー",
+    "reading": "かんとー",
+    "country": "ベトナム社会主義共和国",
+    "population": 1240731,
+    "coordinates": [
+      105.7882356,
+      10.0370802
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "と"
+    }
+  },
+  {
+    "name": "ダナン",
+    "reading": "だなん",
+    "country": "ベトナム社会主義共和国",
+    "population": 1169480,
+    "coordinates": [
+      108.2227022,
+      16.0770941
+    ],
+    "shiritori": {
+      "first": "だ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ハイフォン",
+    "reading": "はいふぉん",
+    "country": "ベトナム社会主義共和国",
+    "population": 2053493,
+    "coordinates": [
+      106.6833928,
+      20.8646498
+    ],
+    "shiritori": {
+      "first": "は",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ホーチミン",
+    "reading": "ほーちみん",
+    "country": "ベトナム社会主義共和国",
+    "population": 9227598,
+    "coordinates": [
+      106.700972,
+      10.776561
+    ],
+    "shiritori": {
+      "first": "ほ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "カラカス",
+    "reading": "からかす",
+    "country": "ベネズエラ・ボリバル共和国",
+    "population": 2082130,
+    "coordinates": [
+      -66.9150848,
+      10.5049943
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "す"
+    }
+  },
+  {
+    "name": "マラカイボ",
+    "reading": "まらかいぼ",
+    "country": "ベネズエラ・ボリバル共和国",
+    "population": 1653215,
+    "coordinates": [
+      -71.6075778,
+      10.6409345
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ぼ"
+    }
+  },
+  {
+    "name": "ミンスク",
+    "reading": "みんすく",
+    "country": "ベラルーシ共和国",
+    "population": 2020133,
+    "coordinates": [
+      27.5497696,
+      53.8952131
+    ],
+    "shiritori": {
+      "first": "み",
+      "last": "く"
+    }
+  },
+  {
+    "name": "リマ",
+    "reading": "りま",
+    "country": "ペルー共和国",
+    "population": 10922735,
+    "coordinates": [
+      -77.0311674,
+      -12.0452322
+    ],
+    "shiritori": {
+      "first": "り",
+      "last": "ま"
+    }
+  },
+  {
+    "name": "アレキパ",
+    "reading": "あれきぱ",
+    "country": "ペルー共和国",
+    "population": 1121510,
+    "coordinates": [
+      -71.5370483,
+      -16.3997173
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ぱ"
+    }
+  },
+  {
+    "name": "トルヒーヨ",
+    "reading": "とるひーよ",
+    "country": "ペルー共和国",
+    "population": 1088266,
+    "coordinates": [
+      -79.0284169,
+      -8.1126895
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "よ"
+    }
+  },
+  {
+    "name": "ブリュッセル",
+    "reading": "ぶりゅっせる",
+    "country": "ベルギー王国",
+    "population": 1550299,
+    "coordinates": [
+      4.3518717,
+      50.8465882
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ワルシャワ",
+    "reading": "わるしゃわ",
+    "country": "ポーランド共和国",
+    "population": 1792692,
+    "coordinates": [
+      21.0061014,
+      52.2317616
+    ],
+    "shiritori": {
+      "first": "わ",
+      "last": "わ"
+    }
+  },
+  {
+    "name": "サンタクルス",
+    "reading": "さんたくるす",
+    "country": "ボリビア多民族国",
+    "population": 1616063,
+    "coordinates": [
+      -63.1818521,
+      -17.7825937
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "アンタナナリボ",
+    "reading": "あんたななりぼ",
+    "country": "マダガスカル共和国",
+    "population": 1275207,
+    "coordinates": [
+      47.5236879,
+      -18.9052409
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ぼ"
+    }
+  },
+  {
+    "name": "バマコ",
+    "reading": "ばまこ",
+    "country": "マリ共和国",
+    "population": 1810366,
+    "coordinates": [
+      -8.001597,
+      12.6471316
+    ],
+    "shiritori": {
+      "first": "ば",
+      "last": "こ"
+    }
+  },
+  {
+    "name": "クアラルンプール",
+    "reading": "くあらるんぷーる",
+    "country": "マレーシア",
+    "population": 1853918,
+    "coordinates": [
+      101.6940229,
+      3.152362
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "る"
+    }
+  },
+  {
+    "name": "ネーピードー",
+    "reading": "ねーぴーどー",
+    "country": "ミャンマー連邦共和国",
+    "population": 1160242,
+    "coordinates": [
+      96.1295371,
+      19.7465201
+    ],
+    "shiritori": {
+      "first": "ね",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "マンダレー",
+    "reading": "まんだれー",
+    "country": "ミャンマー連邦共和国",
+    "population": 1225546,
+    "coordinates": [
+      96.0981932,
+      21.9816223
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "れ"
+    }
+  },
+  {
+    "name": "ヤンゴン",
+    "reading": "やんごん",
+    "country": "ミャンマー連邦共和国",
+    "population": 5211431,
+    "coordinates": [
+      96.1597213,
+      16.7750059
+    ],
+    "shiritori": {
+      "first": "や",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "メキシコシティ",
+    "reading": "めきしこしてぃ",
+    "country": "メキシコ合衆国",
+    "population": 21804515,
+    "coordinates": [
+      -99.1339996,
+      19.431793
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "い"
+    }
+  },
+  {
+    "name": "アグアスカリエンテス",
+    "reading": "あぐあすかりえんてす",
+    "country": "メキシコ合衆国",
+    "population": 1140916,
+    "coordinates": [
+      -102.2956314,
+      21.8801953
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "グアダラハラ",
+    "reading": "ぐあだらはら",
+    "country": "メキシコ合衆国",
+    "population": 5268642,
+    "coordinates": [
+      -103.3477986,
+      20.6775791
+    ],
+    "shiritori": {
+      "first": "ぐ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "クエルナバカ",
+    "reading": "くえるなばか",
+    "country": "メキシコ合衆国",
+    "population": 1028589,
+    "coordinates": [
+      -99.2360728,
+      18.9168249
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "か"
+    }
+  },
+  {
+    "name": "クリアカン",
+    "reading": "くりあかん",
+    "country": "メキシコ合衆国",
+    "population": 1003530,
+    "coordinates": [
+      -107.4049266,
+      24.7933668
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ケレタロ",
+    "reading": "けれたろ",
+    "country": "メキシコ合衆国",
+    "population": 1594212,
+    "coordinates": [
+      -100.3900283,
+      20.5930954
+    ],
+    "shiritori": {
+      "first": "け",
+      "last": "ろ"
+    }
+  },
+  {
+    "name": "サルティーヨ",
+    "reading": "さるてぃーよ",
+    "country": "メキシコ合衆国",
+    "population": 1031779,
+    "coordinates": [
+      -101.0018096,
+      25.434133
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "よ"
+    }
+  },
+  {
+    "name": "サンルイスポトシ",
+    "reading": "さんるいすぽとし",
+    "country": "メキシコ合衆国",
+    "population": 1271366,
+    "coordinates": [
+      -100.9685211,
+      22.131834
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "し"
+    }
+  },
+  {
+    "name": "ティフアナ",
+    "reading": "てぃふあな",
+    "country": "メキシコ合衆国",
+    "population": 2157853,
+    "coordinates": [
+      -117.0189023,
+      32.5324608
+    ],
+    "shiritori": {
+      "first": "て",
+      "last": "な"
+    }
+  },
+  {
+    "name": "トルーカ",
+    "reading": "とるーか",
+    "country": "メキシコ合衆国",
+    "population": 2353924,
+    "coordinates": [
+      -99.6565475,
+      19.2919207
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "か"
+    }
+  },
+  {
+    "name": "トレオン",
+    "reading": "とれおん",
+    "country": "メキシコ合衆国",
+    "population": 1434283,
+    "coordinates": [
+      -103.453248,
+      25.5410024
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "フアレス",
+    "reading": "ふあれす",
+    "country": "メキシコ合衆国",
+    "population": 1512450,
+    "coordinates": [
+      -106.4846018,
+      31.746341
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "す"
+    }
+  },
+  {
+    "name": "プエブラ",
+    "reading": "ぷえぶら",
+    "country": "メキシコ合衆国",
+    "population": 3199530,
+    "coordinates": [
+      -98.1974074,
+      19.0441433
+    ],
+    "shiritori": {
+      "first": "ぷ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "メヒカリ",
+    "reading": "めひかり",
+    "country": "メキシコ合衆国",
+    "population": 1049792,
+    "coordinates": [
+      -115.47494,
+      32.6396448
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "り"
+    }
+  },
+  {
+    "name": "メリダ",
+    "reading": "めりだ",
+    "country": "メキシコ合衆国",
+    "population": 1316088,
+    "coordinates": [
+      -89.6244631,
+      20.9672078
+    ],
+    "shiritori": {
+      "first": "め",
+      "last": "だ"
+    }
+  },
+  {
+    "name": "モンテレー",
+    "reading": "もんてれー",
+    "country": "メキシコ合衆国",
+    "population": 5341177,
+    "coordinates": [
+      -100.3107679,
+      25.6649164
+    ],
+    "shiritori": {
+      "first": "も",
+      "last": "れ"
+    }
+  },
+  {
+    "name": "レオン",
+    "reading": "れおん",
+    "country": "メキシコ合衆国",
+    "population": 1924771,
+    "coordinates": [
+      -101.683209,
+      21.1220013
+    ],
+    "shiritori": {
+      "first": "れ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "ヌアクショット",
+    "reading": "ぬあくしょっと",
+    "country": "モーリタニア・イスラム共和国",
+    "population": 1195633,
+    "coordinates": [
+      -15.972601,
+      18.085313
+    ],
+    "shiritori": {
+      "first": "ぬ",
+      "last": "と"
+    }
+  },
+  {
+    "name": "マプト",
+    "reading": "まぷと",
+    "country": "モザンビーク共和国",
+    "population": 1127565,
+    "coordinates": [
+      32.5737726,
+      -25.9681995
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "と"
+    }
+  },
+  {
+    "name": "マトラ",
+    "reading": "まとら",
+    "country": "モザンビーク共和国",
+    "population": 1245799,
+    "coordinates": [
+      32.4556275,
+      -25.9676743
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "カサブランカ",
+    "reading": "かさぶらんか",
+    "country": "モロッコ王国",
+    "population": 3566020,
+    "coordinates": [
+      -7.6197764,
+      33.5906402
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "か"
+    }
+  },
+  {
+    "name": "ケニトラ",
+    "reading": "けにとら",
+    "country": "モロッコ王国",
+    "population": 1151373,
+    "coordinates": [
+      -6.5824261,
+      34.2624433
+    ],
+    "shiritori": {
+      "first": "け",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "サレ",
+    "reading": "され",
+    "country": "モロッコ王国",
+    "population": 1093602,
+    "coordinates": [
+      -6.8246061,
+      34.0347648
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "れ"
+    }
+  },
+  {
+    "name": "タンジェ",
+    "reading": "たんじぇ",
+    "country": "モロッコ王国",
+    "population": 1214841,
+    "coordinates": [
+      -5.8053477,
+      35.7670716
+    ],
+    "shiritori": {
+      "first": "た",
+      "last": "え"
+    }
+  },
+  {
+    "name": "フェズ",
+    "reading": "ふぇず",
+    "country": "モロッコ王国",
+    "population": 1249416,
+    "coordinates": [
+      -5.016249,
+      34.034446
+    ],
+    "shiritori": {
+      "first": "ふ",
+      "last": "ず"
+    }
+  },
+  {
+    "name": "マラケシュ",
+    "reading": "まらけしゅ",
+    "country": "モロッコ王国",
+    "population": 1405373,
+    "coordinates": [
+      -7.998004,
+      31.6283953
+    ],
+    "shiritori": {
+      "first": "ま",
+      "last": "ゆ"
+    }
+  },
+  {
+    "name": "ウランバートル",
+    "reading": "うらんばーとる",
+    "country": "モンゴル国",
+    "population": 1618231,
+    "coordinates": [
+      106.9158415,
+      47.9186873
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "る"
+    }
+  },
+  {
+    "name": "アンマン",
+    "reading": "あんまん",
+    "country": "ヨルダン・ハシェミット王国",
+    "population": 3999008,
+    "coordinates": [
+      35.9241825,
+      31.945327
+    ],
+    "shiritori": {
+      "first": "あ",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "トリポリ",
+    "reading": "とりぽり",
+    "country": "リビア",
+    "population": 1500000,
+    "coordinates": [
+      13.1867723,
+      32.8911679
+    ],
+    "shiritori": {
+      "first": "と",
+      "last": "り"
+    }
+  },
+  {
+    "name": "ブカレスト",
+    "reading": "ぶかれすと",
+    "country": "ルーマニア",
+    "population": 1823526,
+    "coordinates": [
+      26.0931862,
+      44.4344622
+    ],
+    "shiritori": {
+      "first": "ぶ",
+      "last": "と"
+    }
+  },
+  {
+    "name": "モスクワ",
+    "reading": "もすくわ",
+    "country": "ロシア連邦",
+    "population": 11918057,
+    "coordinates": [
+      37.6089367,
+      55.7613895
+    ],
+    "shiritori": {
+      "first": "も",
+      "last": "わ"
+    }
+  },
+  {
+    "name": "ウファ",
+    "reading": "うふぁ",
+    "country": "ロシア連邦",
+    "population": 1084420,
+    "coordinates": [
+      56.0267322,
+      54.7717474
+    ],
+    "shiritori": {
+      "first": "う",
+      "last": "あ"
+    }
+  },
+  {
+    "name": "エカテリンブルク",
+    "reading": "えかてりんぶるく",
+    "country": "ロシア連邦",
+    "population": 1420285,
+    "coordinates": [
+      60.597461,
+      56.837316
+    ],
+    "shiritori": {
+      "first": "え",
+      "last": "く"
+    }
+  },
+  {
+    "name": "オムスク",
+    "reading": "おむすく",
+    "country": "ロシア連邦",
+    "population": 1158627,
+    "coordinates": [
+      73.3752132,
+      54.9895655
+    ],
+    "shiritori": {
+      "first": "お",
+      "last": "く"
+    }
+  },
+  {
+    "name": "カザン",
+    "reading": "かざん",
+    "country": "ロシア連邦",
+    "population": 1168745,
+    "coordinates": [
+      49.1100524,
+      55.7961001
+    ],
+    "shiritori": {
+      "first": "か",
+      "last": "ん"
+    }
+  },
+  {
+    "name": "クラスノヤルスク",
+    "reading": "くらすのやるすく",
+    "country": "ロシア連邦",
+    "population": 1007654,
+    "coordinates": [
+      92.8731713,
+      56.0092351
+    ],
+    "shiritori": {
+      "first": "く",
+      "last": "く"
+    }
+  },
+  {
+    "name": "サマラ",
+    "reading": "さまら",
+    "country": "ロシア連邦",
+    "population": 1170485,
+    "coordinates": [
+      50.0936986,
+      53.1930244
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "ら"
+    }
+  },
+  {
+    "name": "サンクトペテルブルク",
+    "reading": "さんくとぺてるぶるく",
+    "country": "ロシア連邦",
+    "population": 4990602,
+    "coordinates": [
+      30.396428,
+      59.946279
+    ],
+    "shiritori": {
+      "first": "さ",
+      "last": "く"
+    }
+  },
+  {
+    "name": "チェリャビンスク",
+    "reading": "ちぇりゃびんすく",
+    "country": "ロシア連邦",
+    "population": 1149829,
+    "coordinates": [
+      61.4011881,
+      55.1571523
+    ],
+    "shiritori": {
+      "first": "ち",
+      "last": "く"
+    }
+  },
+  {
+    "name": "ニジニノブゴロド",
+    "reading": "にじにのぶごろど",
+    "country": "ロシア連邦",
+    "population": 1266231,
+    "coordinates": [
+      44.005181,
+      56.3288155
+    ],
+    "shiritori": {
+      "first": "に",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "ノボシビルスク",
+    "reading": "のぼしびるすく",
+    "country": "ロシア連邦",
+    "population": 1511369,
+    "coordinates": [
+      82.9214559,
+      55.0286725
+    ],
+    "shiritori": {
+      "first": "の",
+      "last": "く"
+    }
+  },
+  {
+    "name": "ペルミ",
+    "reading": "ぺるみ",
+    "country": "ロシア連邦",
+    "population": 1007285,
+    "coordinates": [
+      56.2455059,
+      58.013531
+    ],
+    "shiritori": {
+      "first": "ぺ",
+      "last": "み"
+    }
+  },
+  {
+    "name": "ボルゴグラード",
+    "reading": "ぼるごぐらーど",
+    "country": "ロシア連邦",
+    "population": 1018762,
+    "coordinates": [
+      44.5162302,
+      48.7045825
+    ],
+    "shiritori": {
+      "first": "ぼ",
+      "last": "ど"
+    }
+  },
+  {
+    "name": "ロストフナドヌー",
+    "reading": "ろすとふなどぬー",
+    "country": "ロシア連邦",
+    "population": 1100091,
+    "coordinates": [
+      39.712656,
+      47.2214298
+    ],
+    "shiritori": {
+      "first": "ろ",
+      "last": "ぬ"
+    }
+  }
+]
