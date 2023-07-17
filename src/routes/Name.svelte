@@ -20,9 +20,9 @@
 		<div
 			in:fly={{ x: xShift, duration: transitionDuration }}
 			out:fly={{ x: -xShift, duration: transitionDuration }}
-			class="z-10 absolute bg-neutral-9 rounded text-white w-sm px-3 py-4 text-center opacity-70"
+			class="z-10 absolute bg-neutral-9 rounded-lg text-white px-4 py-4 text-center opacity-70"
 		>
-			<div class="flex justify-between items-center">
+			<div class="flex justify-between items-center gap-x-7">
 				<div
 					class="text-lg font-bold bg-white/70 text-black p-2 w-4 h-4 flex justify-center items-center"
 				>
