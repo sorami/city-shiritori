@@ -157,9 +157,13 @@
 </svelte:head>
 
 <div class="font-custom">
-	<div class="flex justify-between px-16">
-		<div>
-			<h1 class="text-xl text-neutral-700">都市名しりとり</h1>
+	<div class="flex flex-wrap justify-between px-16 mt-8">
+		<div class="flex items-center gap-x-2">
+			<h1 class="text-2xl text-neutral-700 tracking-wide">都市名しりとり</h1>
+			<button
+				on:click={() => (showModal = true)}
+				class="i-material-symbols-help text-3xl text-neutral-600 hover:opacity-70 hover:cursor-pointer"
+			/>
 		</div>
 
 		<div class="flex gap-x-3 items-center text-neutral-600 text-xl">
@@ -178,16 +182,10 @@
 		</div>
 	</div>
 
-	<div class="grid h-screen place-items-center">
+	<div class="grid h-90% w-screen place-items-center">
 		<Name city={nextCity} {transitionDuration} />
 		<div id="wrapper" />
 	</div>
 
 	<Modal bind:showModal />
-	<div class="fixed bottom-8 right-8">
-		<button
-			on:click={() => (showModal = true)}
-			class="i-mdi-information text-4xl text-neutral-600 hover:opacity-70 hover:cursor-pointer"
-		/>
-	</div>
 </div>
