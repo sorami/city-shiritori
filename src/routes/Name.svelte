@@ -28,7 +28,7 @@
 				>
 					{city.shiritori.first}
 				</div>
-				<div class="font-bold">→</div>
+				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
 				<div class="flex flex-col gap-y-2">
 					<div class="text-xs tracking-widest italic">
 						{city.reading}
@@ -42,7 +42,7 @@
 						{(city.population / 10000).toFixed(0)}万人
 					</div>
 				</div>
-				<div>→</div>
+				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
 				<div
 					class="text-lg font-bold bg-white/70 text-black p-2 w-4 h-4 flex justify-center items-center"
 				>
