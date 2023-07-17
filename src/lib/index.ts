@@ -83,4 +83,4 @@ class Versor {
 }
 
 export { Versor };
-export type { City };
+export type { City, Vec3, Vec4 };

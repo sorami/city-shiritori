@@ -5,7 +5,7 @@
 	import * as topojson from 'topojson-client';
 	import type { Topology } from 'topojson-specification';
 	import { Versor } from '$lib';
-	import type { City } from '$lib';
+	import type { City, Vec3, Vec4 } from '$lib';
 	import Name from './Name.svelte';
 
 	let currentCity: City;
@@ -31,9 +31,9 @@
 		canvas.width = width * dpi;
 		canvas.height = height * dpi;
 		canvas.style.width = width + 'px';
-		const context = canvas.getContext('2d');
-		if (!context) return;
-		context.scale(dpi, dpi);
+		const ctx = canvas.getContext('2d');
+		if (!ctx) return;
+		ctx.scale(dpi, dpi);
 		document.getElementById('wrapper')!.appendChild(canvas);
 
 		const projection = d3.geoOrthographic().fitExtent(
@@ -43,56 +43,60 @@
 			],
 			sphere
 		);
-		const path = d3.geoPath(projection, context);
+		const path = d3.geoPath(projection, ctx);
 
 		const cities: City[] | undefined = await d3.json('./cities.json');
-		if (!cities) return cities;
+		if (!cities) return;
 
 		function render(city: City, arcCoordinates?: [number, number][]) {
-			if (!context) return;
+			if (!ctx) return;
 
-			context.clearRect(0, 0, width, height);
+			ctx.clearRect(0, 0, width, height);
 
-			context.beginPath(), path(land), (context.fillStyle = '#aaa'), context.fill();
-			context.beginPath(),
-				path(borders),
-				(context.strokeStyle = '#fff'),
-				(context.lineWidth = 0.5),
-				context.stroke();
-			context.beginPath(),
-				path(sphere),
-				(context.strokeStyle = '#ccc'),
-				(context.lineWidth = 1.5),
-				context.stroke();
+			// land
+			ctx.beginPath();
+			path(land);
+			ctx.fillStyle = '#aaa';
+			ctx.fill();
 
-			context.beginPath(),
-				path(d3.geoCircle().center(city.coordinates).radius(1.2)()),
-				(context.fillStyle = 'tomato'),
-				context.fill();
+			// borders
+			path(borders);
+			ctx.beginPath();
+			ctx.strokeStyle = '#fff';
+			ctx.lineWidth = 0.5;
+			ctx.setLineDash([]);
+			ctx.stroke();
+
+			// sphere outline
+			ctx.beginPath();
+			path(sphere);
+			ctx.strokeStyle = '#ccc';
+			ctx.lineWidth = 1.5;
+			ctx.stroke();
+
+			// city circle
+			ctx.beginPath();
+			path(d3.geoCircle().center(city.coordinates).radius(1.2)());
+			ctx.fillStyle = 'tomato';
+			ctx.fill();
 
 			if (arcCoordinates) {
-				context.beginPath(),
-					path({ type: 'LineString', coordinates: arcCoordinates }),
-					(context.strokeStyle = '#333'),
-					(context.lineWidth = 2),
-					context.stroke();
+				ctx.beginPath();
+				path({ type: 'LineString', coordinates: arcCoordinates });
+				ctx.strokeStyle = '#333';
+				ctx.lineWidth = 2;
+				ctx.setLineDash([]);
+				ctx.stroke();
 			}
-
-			return context.canvas;
 		}
-
-		let p1: [number, number];
-		let p2: [number, number] = [0, 0];
-		let r1: [number, number, number];
-		let r2: [number, number, number] = [0, 0, 0];
 
 		currentCity = cities[Math.floor(Math.random() * cities.length)];
 		// currentCity = cities.find((city) => city.name === '札幌')!;
-		p1 = p2;
-		p2 = currentCity.coordinates;
-		r1 = r2;
-		r2 = [-p2[0], tilt - p2[1], 0];
-		const ip = d3.geoInterpolate(p1, p2);
+		let p1: [number, number] = [0, 0];
+		let p2 = currentCity.coordinates;
+		let r1: Vec3 = [0, 0, 0];
+		let r2: Vec3 = [-p2[0], tilt - p2[1], 0];
+
 		const iv = Versor.interpolateAngles(r1, r2);
 		projection.rotate(iv(1));
 		render(currentCity);
@@ -103,15 +107,19 @@
 				(city) => currentCity.shiritori.last === city.shiritori.first
 			);
 			if (nextCities.length === 0) {
-				console.log(currentCity);
+				console.warn('no next cities', currentCity);
+				break;
 			}
+
 			currentCity = nextCities[Math.floor(Math.random() * nextCities.length)];
+
 			p1 = p2;
 			p2 = currentCity.coordinates;
 			r1 = r2;
 			r2 = [-p2[0], tilt - p2[1], 0];
 			const ip = d3.geoInterpolate(p1, p2);
 			const iv = Versor.interpolateAngles(r1, r2);
+
 			await d3
 				.transition()
 				.duration(transitionDuration)
