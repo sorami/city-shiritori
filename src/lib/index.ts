@@ -8,7 +8,7 @@ type City = {
 		first: string;
 		last: string;
 	};
-	notKatakana?: boolean;
+	notKana?: boolean;
 };
 
 type Vec3 = [number, number, number];

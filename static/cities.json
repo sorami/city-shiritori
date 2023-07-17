@@ -1818,7 +1818,7 @@
       "first": "い",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "蔚山",
@@ -1833,7 +1833,7 @@
       "first": "う",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "光州",
@@ -1848,7 +1848,7 @@
       "first": "く",
       "last": "ゆ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "大邱",
@@ -1863,7 +1863,7 @@
       "first": "て",
       "last": "ぐ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "大田",
@@ -1878,7 +1878,7 @@
       "first": "て",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "釜山",
@@ -1893,7 +1893,7 @@
       "first": "ぷ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "プノンペン",
@@ -2720,7 +2720,7 @@
       "first": "た",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "高雄",
@@ -2735,7 +2735,7 @@
       "first": "か",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "新北",
@@ -2750,7 +2750,7 @@
       "first": "し",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "台中",
@@ -2765,7 +2765,7 @@
       "first": "た",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "台南",
@@ -2780,7 +2780,7 @@
       "first": "た",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "桃園",
@@ -2795,7 +2795,7 @@
       "first": "た",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "彰化",
@@ -2810,7 +2810,7 @@
       "first": "ち",
       "last": "わ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "アルーシャ",
@@ -2909,7 +2909,7 @@
       "first": "ぺ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "鞍山",
@@ -2924,7 +2924,7 @@
       "first": "あ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "安丘",
@@ -2939,7 +2939,7 @@
       "first": "あ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "宜興",
@@ -2954,7 +2954,7 @@
       "first": "い",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "益陽",
@@ -2969,7 +2969,7 @@
       "first": "い",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "煙台",
@@ -2984,7 +2984,7 @@
       "first": "い",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "無錫",
@@ -2999,7 +2999,7 @@
       "first": "う",
       "last": "し"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "武進",
@@ -3014,7 +3014,7 @@
       "first": "う",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "武漢",
@@ -3029,7 +3029,7 @@
       "first": "う",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "濰坊",
@@ -3044,7 +3044,7 @@
       "first": "う",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "温州",
@@ -3059,7 +3059,7 @@
       "first": "う",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "温嶺",
@@ -3074,7 +3074,7 @@
       "first": "う",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "烏魯木斉",
@@ -3089,7 +3089,7 @@
       "first": "う",
       "last": "ち"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "鄂州",
@@ -3104,7 +3104,7 @@
       "first": "お",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "高州",
@@ -3119,7 +3119,7 @@
       "first": "か",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "広安",
@@ -3134,7 +3134,7 @@
       "first": "ぐ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "広州",
@@ -3149,7 +3149,7 @@
       "first": "ぐ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "桂平",
@@ -3164,7 +3164,7 @@
       "first": "ぐ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "貴港",
@@ -3179,7 +3179,7 @@
       "first": "ぐ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "昆明",
@@ -3194,7 +3194,7 @@
       "first": "く",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "貴陽",
@@ -3209,7 +3209,7 @@
       "first": "こ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "公主嶺",
@@ -3224,7 +3224,7 @@
       "first": "ご",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "棗荘",
@@ -3239,7 +3239,7 @@
       "first": "ざ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "棗陽",
@@ -3254,7 +3254,7 @@
       "first": "ざ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "江陰",
@@ -3269,7 +3269,7 @@
       "first": "じ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "江都",
@@ -3284,7 +3284,7 @@
       "first": "じ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "西安",
@@ -3299,7 +3299,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "石家荘",
@@ -3314,7 +3314,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "錫山",
@@ -3329,7 +3329,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "済南",
@@ -3344,7 +3344,7 @@
       "first": "じ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "済寧",
@@ -3359,7 +3359,7 @@
       "first": "じ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "即墨",
@@ -3374,7 +3374,7 @@
       "first": "じ",
       "last": "も"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "仙桃",
@@ -3389,7 +3389,7 @@
       "first": "し",
       "last": "お"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "深圳",
@@ -3404,7 +3404,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "瀋陽",
@@ -3419,7 +3419,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "簡陽",
@@ -3434,7 +3434,7 @@
       "first": "じ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "廈門",
@@ -3449,7 +3449,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "蕭山",
@@ -3464,7 +3464,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "江津",
@@ -3479,7 +3479,7 @@
       "first": "じ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "商丘",
@@ -3494,7 +3494,7 @@
       "first": "し",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "項城",
@@ -3509,7 +3509,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "汕頭",
@@ -3524,7 +3524,7 @@
       "first": "し",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "上海",
@@ -3539,7 +3539,7 @@
       "first": "し",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "徐州",
@@ -3554,7 +3554,7 @@
       "first": "し",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "宣威",
@@ -3569,7 +3569,7 @@
       "first": "し",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "順徳",
@@ -3584,7 +3584,7 @@
       "first": "し",
       "last": "だ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "寿光",
@@ -3599,7 +3599,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "諸城",
@@ -3614,7 +3614,7 @@
       "first": "し",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "晋江",
@@ -3629,7 +3629,7 @@
       "first": "じ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "新泰",
@@ -3644,7 +3644,7 @@
       "first": "し",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "荊州",
@@ -3659,7 +3659,7 @@
       "first": "じ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "興化",
@@ -3674,7 +3674,7 @@
       "first": "し",
       "last": "あ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "信陽",
@@ -3689,7 +3689,7 @@
       "first": "し",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "随州",
@@ -3704,7 +3704,7 @@
       "first": "す",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "遂寧",
@@ -3719,7 +3719,7 @@
       "first": "す",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "宿州",
@@ -3734,7 +3734,7 @@
       "first": "す",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "蘇州",
@@ -3749,7 +3749,7 @@
       "first": "す",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "淄博",
@@ -3764,7 +3764,7 @@
       "first": "ず",
       "last": "ぼ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "資陽",
@@ -3779,7 +3779,7 @@
       "first": "ず",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "鄭州",
@@ -3794,7 +3794,7 @@
       "first": "ず",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "鄒城",
@@ -3809,7 +3809,7 @@
       "first": "ず",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "中山",
@@ -3824,7 +3824,7 @@
       "first": "ず",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "大慶",
@@ -3839,7 +3839,7 @@
       "first": "だ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "大同",
@@ -3854,7 +3854,7 @@
       "first": "だ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "大連",
@@ -3869,7 +3869,7 @@
       "first": "だ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "泰安",
@@ -3884,7 +3884,7 @@
       "first": "た",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "泰興",
@@ -3899,7 +3899,7 @@
       "first": "た",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "台州",
@@ -3914,7 +3914,7 @@
       "first": "た",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "太原",
@@ -3929,7 +3929,7 @@
       "first": "た",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "唐山",
@@ -3944,7 +3944,7 @@
       "first": "た",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "啓東",
@@ -3959,7 +3959,7 @@
       "first": "ち",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "赤峰",
@@ -3974,7 +3974,7 @@
       "first": "ち",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "吉林",
@@ -3989,7 +3989,7 @@
       "first": "ぢ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "斉斉哈爾",
@@ -4004,7 +4004,7 @@
       "first": "ち",
       "last": "る"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "潮陽",
@@ -4019,7 +4019,7 @@
       "first": "ち",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "湛江",
@@ -4034,7 +4034,7 @@
       "first": "ち",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "長沙",
@@ -4049,7 +4049,7 @@
       "first": "ち",
       "last": "や"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "常熟",
@@ -4064,7 +4064,7 @@
       "first": "ち",
       "last": "お"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "常徳",
@@ -4079,7 +4079,7 @@
       "first": "ち",
       "last": "だ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "長春",
@@ -4094,7 +4094,7 @@
       "first": "ち",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "常州",
@@ -4109,7 +4109,7 @@
       "first": "ち",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "諸曁",
@@ -4124,7 +4124,7 @@
       "first": "ぢ",
       "last": "じ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "泉州",
@@ -4139,7 +4139,7 @@
       "first": "ち",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "鍾祥",
@@ -4154,7 +4154,7 @@
       "first": "ぢ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "欽州",
@@ -4169,7 +4169,7 @@
       "first": "ち",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "青島",
@@ -4184,7 +4184,7 @@
       "first": "ち",
       "last": "お"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "自貢",
@@ -4199,7 +4199,7 @@
       "first": "つ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "慈渓",
@@ -4214,7 +4214,7 @@
       "first": "つ",
       "last": "し"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "成都",
@@ -4229,7 +4229,7 @@
       "first": "つ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "重慶",
@@ -4244,7 +4244,7 @@
       "first": "つ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "天水",
@@ -4259,7 +4259,7 @@
       "first": "て",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "天津",
@@ -4274,7 +4274,7 @@
       "first": "て",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "天門",
@@ -4289,7 +4289,7 @@
       "first": "て",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "定州",
@@ -4304,7 +4304,7 @@
       "first": "て",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "鄧州",
@@ -4319,7 +4319,7 @@
       "first": "て",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "東莞",
@@ -4334,7 +4334,7 @@
       "first": "ど",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "東台",
@@ -4349,7 +4349,7 @@
       "first": "ど",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "滕州",
@@ -4364,7 +4364,7 @@
       "first": "と",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "通州",
@@ -4379,7 +4379,7 @@
       "first": "と",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "南安",
@@ -4394,7 +4394,7 @@
       "first": "な",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "南京",
@@ -4409,7 +4409,7 @@
       "first": "な",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "南昌",
@@ -4424,7 +4424,7 @@
       "first": "な",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "南充",
@@ -4439,7 +4439,7 @@
       "first": "な",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "南寧",
@@ -4454,7 +4454,7 @@
       "first": "な",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "南海",
@@ -4469,7 +4469,7 @@
       "first": "な",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "南陽",
@@ -4484,7 +4484,7 @@
       "first": "な",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "寧波",
@@ -4499,7 +4499,7 @@
       "first": "に",
       "last": "ぽ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "内江",
@@ -4514,7 +4514,7 @@
       "first": "ね",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "哈爾浜",
@@ -4529,7 +4529,7 @@
       "first": "は",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "巴中",
@@ -4544,7 +4544,7 @@
       "first": "ば",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "合肥",
@@ -4559,7 +4559,7 @@
       "first": "は",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "海城",
@@ -4574,7 +4574,7 @@
       "first": "は",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "包頭",
@@ -4589,7 +4589,7 @@
       "first": "ぱ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "邯鄲",
@@ -4604,7 +4604,7 @@
       "first": "は",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "漢川",
@@ -4619,7 +4619,7 @@
       "first": "は",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "杭州",
@@ -4634,7 +4634,7 @@
       "first": "は",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "畢節",
@@ -4649,7 +4649,7 @@
       "first": "び",
       "last": "え"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "邳州",
@@ -4664,7 +4664,7 @@
       "first": "ぴ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "平度",
@@ -4679,7 +4679,7 @@
       "first": "ぴ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "淮南",
@@ -4694,7 +4694,7 @@
       "first": "ふ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "撫順",
@@ -4709,7 +4709,7 @@
       "first": "ふ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "福州",
@@ -4724,7 +4724,7 @@
       "first": "ふ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "撫州",
@@ -4739,7 +4739,7 @@
       "first": "ふ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "湖州",
@@ -4754,7 +4754,7 @@
       "first": "ふ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "福清",
@@ -4769,7 +4769,7 @@
       "first": "ふ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "普寧",
@@ -4784,7 +4784,7 @@
       "first": "ぷ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "富陽",
@@ -4799,7 +4799,7 @@
       "first": "ふ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "豊城",
@@ -4814,7 +4814,7 @@
       "first": "ふ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "呼和浩特",
@@ -4829,7 +4829,7 @@
       "first": "ふ",
       "last": "と"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "北流",
@@ -4844,7 +4844,7 @@
       "first": "べ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "淮安",
@@ -4859,7 +4859,7 @@
       "first": "ほ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "化州",
@@ -4874,7 +4874,7 @@
       "first": "ほ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "合川",
@@ -4889,7 +4889,7 @@
       "first": "ほ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "亳州",
@@ -4904,7 +4904,7 @@
       "first": "ぼ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "菏沢",
@@ -4919,7 +4919,7 @@
       "first": "ほ",
       "last": "ず"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "香港",
@@ -4934,7 +4934,7 @@
       "first": "ほ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "麻城",
@@ -4949,7 +4949,7 @@
       "first": "ま",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "綿陽",
@@ -4964,7 +4964,7 @@
       "first": "み",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "牡丹江",
@@ -4979,7 +4979,7 @@
       "first": "む",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "禹州",
@@ -4994,7 +4994,7 @@
       "first": "ゆ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "玉樹",
@@ -5009,7 +5009,7 @@
       "first": "ゆ",
       "last": "ゆ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "楽清",
@@ -5024,7 +5024,7 @@
       "first": "ゆ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "永城",
@@ -5039,7 +5039,7 @@
       "first": "よ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "楽山",
@@ -5054,7 +5054,7 @@
       "first": "ら",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "莱蕪",
@@ -5069,7 +5069,7 @@
       "first": "ら",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "蘭州",
@@ -5084,7 +5084,7 @@
       "first": "ら",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "日照",
@@ -5099,7 +5099,7 @@
       "first": "り",
       "last": "お"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "廉江",
@@ -5114,7 +5114,7 @@
       "first": "り",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "柳州",
@@ -5129,7 +5129,7 @@
       "first": "り",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "瀏陽",
@@ -5144,7 +5144,7 @@
       "first": "り",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "臨沂",
@@ -5159,7 +5159,7 @@
       "first": "り",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "瑞安",
@@ -5174,7 +5174,7 @@
       "first": "る",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "六安",
@@ -5189,7 +5189,7 @@
       "first": "る",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "如皋",
@@ -5204,7 +5204,7 @@
       "first": "る",
       "last": "お"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "瀘州",
@@ -5219,7 +5219,7 @@
       "first": "る",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "陸豊",
@@ -5234,7 +5234,7 @@
       "first": "る",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "洛陽",
@@ -5249,7 +5249,7 @@
       "first": "る",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "雷州",
@@ -5264,7 +5264,7 @@
       "first": "れ",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "耒陽",
@@ -5279,7 +5279,7 @@
       "first": "れ",
       "last": "ん"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "チュニス",
@@ -5798,7 +5798,7 @@
       "first": "と",
       "last": "う"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "大阪",
@@ -5813,7 +5813,7 @@
       "first": "お",
       "last": "か"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "川崎",
@@ -5828,7 +5828,7 @@
       "first": "か",
       "last": "き"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "京都",
@@ -5843,7 +5843,7 @@
       "first": "き",
       "last": "と"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "神戸",
@@ -5858,7 +5858,7 @@
       "first": "こ",
       "last": "べ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "さいたま",
@@ -5872,8 +5872,7 @@
     "shiritori": {
       "first": "さ",
       "last": "ま"
-    },
-    "notKatakana": true
+    }
   },
   {
     "name": "札幌",
@@ -5888,7 +5887,7 @@
       "first": "さ",
       "last": "ろ"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "仙台",
@@ -5903,7 +5902,7 @@
       "first": "せ",
       "last": "い"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "名古屋",
@@ -5918,7 +5917,7 @@
       "first": "な",
       "last": "や"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "広島",
@@ -5933,7 +5932,7 @@
       "first": "ひ",
       "last": "ま"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "福岡",
@@ -5948,7 +5947,7 @@
       "first": "ふ",
       "last": "か"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "横浜",
@@ -5963,7 +5962,7 @@
       "first": "よ",
       "last": "ま"
     },
-    "notKatakana": true
+    "notKana": true
   },
   {
     "name": "オークランド",

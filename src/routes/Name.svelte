@@ -30,7 +30,7 @@
 				</div>
 				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
 				<div class="flex flex-col gap-y-2">
-					{#if city.notKatakana}
+					{#if city.notKana}
 						<div class="text-xs tracking-widest italic">
 							{city.reading}
 						</div>
