@@ -10,7 +10,11 @@
 
 	let prevCity: City;
 	let nextCity: City;
-	let transitionDuration = 1500;
+
+	let speedSliderValue = 1500;
+	const MAX_SPEED = 3000;
+	$: transitionDuration = MAX_SPEED - speedSliderValue;
+
 	const tilt = 20;
 
 	onMount(async () => {
@@ -151,17 +155,19 @@
 
 <div class="grid h-screen place-items-center font-custom">
 	<div class="font-bold text-neutral-600 text-xl">都市名しりとり</div>
-	<div>
-		🚀 <input
+	<div class="flex gap-x-3 items-center text-neutral-600 text-xl">
+		<div class="i-mdi-snail" />
+		<input
 			type="range"
 			name="speed"
 			id="speed"
-			bind:value={transitionDuration}
-			min="100"
-			max="3000"
+			bind:value={speedSliderValue}
+			min="0"
+			max={MAX_SPEED - 100}
 			step="100"
 			class="w-52"
-		/> 🐢
+		/>
+		<div class="i-material-symbols-rocket-launch" />
 	</div>
 	<Name city={nextCity} {transitionDuration} />
 	<div id="wrapper" />
