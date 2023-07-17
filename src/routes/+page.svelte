@@ -106,9 +106,9 @@
 		const cities: City[] | undefined = await d3.json('./cities.json');
 		if (!cities) return;
 
-		// nextCity = cities[Math.floor(Math.random() * cities.length)];
+		nextCity = cities[Math.floor(Math.random() * cities.length)];
 		// nextCity = cities.find((city) => city.name === '札幌')!;
-		nextCity = cities.find((city) => city.name === 'ナコーンシータンマラート')!; // 最長の都市名
+		// nextCity = cities.find((city) => city.name === 'ナコーンシータンマラート')!; // 最長の都市名
 		let p1: [number, number] = [0, 0];
 		let p2 = nextCity.coordinates;
 		let r1: Vec3 = [0, 0, 0];
