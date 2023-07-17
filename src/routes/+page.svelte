@@ -149,7 +149,7 @@
 	<title>都市名しりとり</title>
 </svelte:head>
 
-<div class="grid h-screen place-items-center">
+<div class="grid h-screen place-items-center font-custom">
 	<div class="font-bold text-neutral-600 text-xl">都市名しりとり</div>
 	<div>
 		🚀 <input

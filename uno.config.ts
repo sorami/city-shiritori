@@ -1,5 +1,14 @@
-import { defineConfig } from 'unocss';
+// uno.config.ts
+import { defineConfig, presetUno, presetWebFonts } from 'unocss';
 
 export default defineConfig({
-	// ...UnoCSS options
+	presets: [
+		presetUno(),
+		presetWebFonts({
+			provider: 'google',
+			fonts: {
+				custom: 'Kosugi Maru'
+			}
+		})
+	]
 });
