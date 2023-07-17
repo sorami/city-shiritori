@@ -157,8 +157,10 @@
 </svelte:head>
 
 <div class="grid h-screen place-items-center font-custom">
-	<div class="font-bold text-neutral-600 text-xl">都市名しりとり</div>
-	<div class="flex gap-x-3 items-center text-neutral-600 text-xl">
+	<Name city={nextCity} {transitionDuration} />
+	<div id="wrapper" />
+
+	<div class="flex gap-x-3 items-center text-neutral-600 text-xl fixed bottom-8 left-8">
 		<div class="i-mdi-snail" />
 		<input
 			type="range"
@@ -172,8 +174,6 @@
 		/>
 		<div class="i-material-symbols-rocket-launch" />
 	</div>
-	<Name city={nextCity} {transitionDuration} />
-	<div id="wrapper" />
 </div>
 
 <Modal bind:showModal />
