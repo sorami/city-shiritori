@@ -74,6 +74,15 @@
 	<p>もっとも多い「終わりの文字」は <code>ん</code> （149都市）。</p>
 	<p>もっとも長い都市名は <code>ナコーンシータンマラート</code> 。</p>
 
+	<h3>コード</h3>
+	<p>
+		GitHub: <a
+			href="https://github.com/sorami/city-shiritori/"
+			target="_blank"
+			rel="noopener noreferrer">sorami/city-shiritori</a
+		>
+	</p>
+
 	<h3>参考</h3>
 	<p>
 		<a href="https://observablehq.com/@d3/world-tour" target="_blank" rel="noopener noreferrer"
