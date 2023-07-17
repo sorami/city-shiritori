@@ -184,7 +184,7 @@
 
 	<div class="grid h-90% w-screen place-items-center">
 		<Name city={nextCity} {transitionDuration} />
-		<div id="wrapper" />
+		<div class="w-full h-full" id="wrapper" />
 	</div>
 
 	<Modal bind:showModal />
