@@ -8,6 +8,9 @@
 	import type { City, Vec3, Vec4 } from '$lib';
 	import Name from './Name.svelte';
 
+	import Modal from './Modal.svelte';
+	let showModal = false;
+
 	let prevCity: City;
 	let nextCity: City;
 
@@ -150,7 +153,7 @@
 </script>
 
 <svelte:head>
-	<title>都市名しりとり</title>
+	<title>都市名しりとり - sorami.dev</title>
 </svelte:head>
 
 <div class="grid h-screen place-items-center font-custom">
@@ -171,4 +174,12 @@
 	</div>
 	<Name city={nextCity} {transitionDuration} />
 	<div id="wrapper" />
+</div>
+
+<Modal bind:showModal />
+<div class="fixed bottom-8 right-8">
+	<button
+		on:click={() => (showModal = true)}
+		class="i-mdi-information text-4xl text-neutral-600 hover:opacity-70 hover:cursor-pointer"
+	/>
 </div>

@@ -33,6 +33,9 @@ devDependencies:
   '@typescript-eslint/parser':
     specifier: ^5.45.0
     version: 5.62.0(eslint@8.45.0)(typescript@5.1.6)
+  '@unocss/transformer-directives':
+    specifier: ^0.53.5
+    version: 0.53.5
   eslint:
     specifier: ^8.28.0
     version: 8.45.0

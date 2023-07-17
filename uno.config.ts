@@ -1,5 +1,6 @@
 // uno.config.ts
 import { defineConfig, presetUno, presetIcons, presetWebFonts } from 'unocss';
+import transformerDirectives from '@unocss/transformer-directives';
 
 export default defineConfig({
 	presets: [
@@ -11,5 +12,6 @@ export default defineConfig({
 				custom: 'Kosugi Maru'
 			}
 		})
-	]
+	],
+	transformers: [transformerDirectives()]
 });
