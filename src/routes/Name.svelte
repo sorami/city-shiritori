@@ -5,7 +5,7 @@
 
 	export let city: City;
 
-	const transitionDuration = 1000;
+	export let transitionDuration;
 	let xShift = 300;
 
 	onMount(() => {

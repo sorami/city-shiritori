@@ -163,6 +163,6 @@
 			class="w-52"
 		/> 🐢
 	</div>
-	<Name city={nextCity} />
+	<Name city={nextCity} {transitionDuration} />
 	<div id="wrapper" />
 </div>
