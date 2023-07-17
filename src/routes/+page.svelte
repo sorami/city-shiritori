@@ -10,6 +10,7 @@
 
 	let currentCity: City;
 	let transitionDuration = 1500;
+	const tilt = 20;
 
 	onMount(async () => {
 		const width = window.innerWidth * 0.9;
@@ -23,7 +24,6 @@
 		// @ts-ignore
 		const borders = topojson.mesh(world, world.objects.countries, (a, b) => a !== b);
 		const sphere = { type: 'Sphere', geometries: {} as d3.GeoGeometryObjects[] };
-		const tilt = 20;
 
 		// cf. https://github.com/observablehq/stdlib/blob/main/src/dom/context2d.js
 		const dpi = window.devicePixelRatio;
