@@ -1817,7 +1817,8 @@
     "shiritori": {
       "first": "い",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "蔚山",
@@ -1831,7 +1832,8 @@
     "shiritori": {
       "first": "う",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "光州",
@@ -1845,7 +1847,8 @@
     "shiritori": {
       "first": "く",
       "last": "ゆ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "大邱",
@@ -1859,7 +1862,8 @@
     "shiritori": {
       "first": "て",
       "last": "ぐ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "大田",
@@ -1873,7 +1877,8 @@
     "shiritori": {
       "first": "て",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "釜山",
@@ -1887,7 +1892,8 @@
     "shiritori": {
       "first": "ぷ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "プノンペン",
@@ -2713,7 +2719,8 @@
     "shiritori": {
       "first": "た",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "高雄",
@@ -2727,7 +2734,8 @@
     "shiritori": {
       "first": "か",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "新北",
@@ -2741,7 +2749,8 @@
     "shiritori": {
       "first": "し",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "台中",
@@ -2755,7 +2764,8 @@
     "shiritori": {
       "first": "た",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "台南",
@@ -2769,7 +2779,8 @@
     "shiritori": {
       "first": "た",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "桃園",
@@ -2783,7 +2794,8 @@
     "shiritori": {
       "first": "た",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "彰化",
@@ -2797,7 +2809,8 @@
     "shiritori": {
       "first": "ち",
       "last": "わ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "アルーシャ",
@@ -2895,7 +2908,8 @@
     "shiritori": {
       "first": "ぺ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "鞍山",
@@ -2909,7 +2923,8 @@
     "shiritori": {
       "first": "あ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "安丘",
@@ -2923,7 +2938,8 @@
     "shiritori": {
       "first": "あ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "宜興",
@@ -2937,7 +2953,8 @@
     "shiritori": {
       "first": "い",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "益陽",
@@ -2951,7 +2968,8 @@
     "shiritori": {
       "first": "い",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "煙台",
@@ -2965,7 +2983,8 @@
     "shiritori": {
       "first": "い",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "無錫",
@@ -2979,7 +2998,8 @@
     "shiritori": {
       "first": "う",
       "last": "し"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "武進",
@@ -2993,7 +3013,8 @@
     "shiritori": {
       "first": "う",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "武漢",
@@ -3007,7 +3028,8 @@
     "shiritori": {
       "first": "う",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "濰坊",
@@ -3021,7 +3043,8 @@
     "shiritori": {
       "first": "う",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "温州",
@@ -3035,7 +3058,8 @@
     "shiritori": {
       "first": "う",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "温嶺",
@@ -3049,7 +3073,8 @@
     "shiritori": {
       "first": "う",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "烏魯木斉",
@@ -3063,7 +3088,8 @@
     "shiritori": {
       "first": "う",
       "last": "ち"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "鄂州",
@@ -3077,7 +3103,8 @@
     "shiritori": {
       "first": "お",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "高州",
@@ -3091,7 +3118,8 @@
     "shiritori": {
       "first": "か",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "広安",
@@ -3105,7 +3133,8 @@
     "shiritori": {
       "first": "ぐ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "広州",
@@ -3119,7 +3148,8 @@
     "shiritori": {
       "first": "ぐ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "桂平",
@@ -3133,7 +3163,8 @@
     "shiritori": {
       "first": "ぐ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "貴港",
@@ -3147,7 +3178,8 @@
     "shiritori": {
       "first": "ぐ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "昆明",
@@ -3161,7 +3193,8 @@
     "shiritori": {
       "first": "く",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "貴陽",
@@ -3175,7 +3208,8 @@
     "shiritori": {
       "first": "こ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "公主嶺",
@@ -3189,7 +3223,8 @@
     "shiritori": {
       "first": "ご",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "棗荘",
@@ -3203,7 +3238,8 @@
     "shiritori": {
       "first": "ざ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "棗陽",
@@ -3217,7 +3253,8 @@
     "shiritori": {
       "first": "ざ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "江陰",
@@ -3231,7 +3268,8 @@
     "shiritori": {
       "first": "じ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "江都",
@@ -3245,7 +3283,8 @@
     "shiritori": {
       "first": "じ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "西安",
@@ -3259,7 +3298,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "石家荘",
@@ -3273,7 +3313,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "錫山",
@@ -3287,7 +3328,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "済南",
@@ -3301,7 +3343,8 @@
     "shiritori": {
       "first": "じ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "済寧",
@@ -3315,7 +3358,8 @@
     "shiritori": {
       "first": "じ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "即墨",
@@ -3329,7 +3373,8 @@
     "shiritori": {
       "first": "じ",
       "last": "も"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "仙桃",
@@ -3343,7 +3388,8 @@
     "shiritori": {
       "first": "し",
       "last": "お"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "深圳",
@@ -3357,7 +3403,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "瀋陽",
@@ -3371,7 +3418,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "簡陽",
@@ -3385,7 +3433,8 @@
     "shiritori": {
       "first": "じ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "廈門",
@@ -3399,7 +3448,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "蕭山",
@@ -3413,7 +3463,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "江津",
@@ -3427,7 +3478,8 @@
     "shiritori": {
       "first": "じ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "商丘",
@@ -3441,7 +3493,8 @@
     "shiritori": {
       "first": "し",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "項城",
@@ -3455,7 +3508,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "汕頭",
@@ -3469,7 +3523,8 @@
     "shiritori": {
       "first": "し",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "上海",
@@ -3483,7 +3538,8 @@
     "shiritori": {
       "first": "し",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "徐州",
@@ -3497,7 +3553,8 @@
     "shiritori": {
       "first": "し",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "宣威",
@@ -3511,7 +3568,8 @@
     "shiritori": {
       "first": "し",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "順徳",
@@ -3525,7 +3583,8 @@
     "shiritori": {
       "first": "し",
       "last": "だ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "寿光",
@@ -3539,7 +3598,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "諸城",
@@ -3553,7 +3613,8 @@
     "shiritori": {
       "first": "し",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "晋江",
@@ -3567,7 +3628,8 @@
     "shiritori": {
       "first": "じ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "新泰",
@@ -3581,7 +3643,8 @@
     "shiritori": {
       "first": "し",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "荊州",
@@ -3595,7 +3658,8 @@
     "shiritori": {
       "first": "じ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "興化",
@@ -3609,7 +3673,8 @@
     "shiritori": {
       "first": "し",
       "last": "あ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "信陽",
@@ -3623,7 +3688,8 @@
     "shiritori": {
       "first": "し",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "随州",
@@ -3637,7 +3703,8 @@
     "shiritori": {
       "first": "す",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "遂寧",
@@ -3651,7 +3718,8 @@
     "shiritori": {
       "first": "す",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "宿州",
@@ -3665,7 +3733,8 @@
     "shiritori": {
       "first": "す",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "蘇州",
@@ -3679,7 +3748,8 @@
     "shiritori": {
       "first": "す",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "淄博",
@@ -3693,7 +3763,8 @@
     "shiritori": {
       "first": "ず",
       "last": "ぼ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "資陽",
@@ -3707,7 +3778,8 @@
     "shiritori": {
       "first": "ず",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "鄭州",
@@ -3721,7 +3793,8 @@
     "shiritori": {
       "first": "ず",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "鄒城",
@@ -3735,7 +3808,8 @@
     "shiritori": {
       "first": "ず",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "中山",
@@ -3749,7 +3823,8 @@
     "shiritori": {
       "first": "ず",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "大慶",
@@ -3763,7 +3838,8 @@
     "shiritori": {
       "first": "だ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "大同",
@@ -3777,7 +3853,8 @@
     "shiritori": {
       "first": "だ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "大連",
@@ -3791,7 +3868,8 @@
     "shiritori": {
       "first": "だ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "泰安",
@@ -3805,7 +3883,8 @@
     "shiritori": {
       "first": "た",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "泰興",
@@ -3819,7 +3898,8 @@
     "shiritori": {
       "first": "た",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "台州",
@@ -3833,7 +3913,8 @@
     "shiritori": {
       "first": "た",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "太原",
@@ -3847,7 +3928,8 @@
     "shiritori": {
       "first": "た",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "唐山",
@@ -3861,7 +3943,8 @@
     "shiritori": {
       "first": "た",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "啓東",
@@ -3875,7 +3958,8 @@
     "shiritori": {
       "first": "ち",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "赤峰",
@@ -3889,7 +3973,8 @@
     "shiritori": {
       "first": "ち",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "吉林",
@@ -3903,7 +3988,8 @@
     "shiritori": {
       "first": "ぢ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "斉斉哈爾",
@@ -3917,7 +4003,8 @@
     "shiritori": {
       "first": "ち",
       "last": "る"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "潮陽",
@@ -3931,7 +4018,8 @@
     "shiritori": {
       "first": "ち",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "湛江",
@@ -3945,7 +4033,8 @@
     "shiritori": {
       "first": "ち",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "長沙",
@@ -3959,7 +4048,8 @@
     "shiritori": {
       "first": "ち",
       "last": "や"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "常熟",
@@ -3973,7 +4063,8 @@
     "shiritori": {
       "first": "ち",
       "last": "お"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "常徳",
@@ -3987,7 +4078,8 @@
     "shiritori": {
       "first": "ち",
       "last": "だ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "長春",
@@ -4001,7 +4093,8 @@
     "shiritori": {
       "first": "ち",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "常州",
@@ -4015,7 +4108,8 @@
     "shiritori": {
       "first": "ち",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "諸曁",
@@ -4029,7 +4123,8 @@
     "shiritori": {
       "first": "ぢ",
       "last": "じ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "泉州",
@@ -4043,7 +4138,8 @@
     "shiritori": {
       "first": "ち",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "鍾祥",
@@ -4057,7 +4153,8 @@
     "shiritori": {
       "first": "ぢ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "欽州",
@@ -4071,7 +4168,8 @@
     "shiritori": {
       "first": "ち",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "青島",
@@ -4085,7 +4183,8 @@
     "shiritori": {
       "first": "ち",
       "last": "お"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "自貢",
@@ -4099,7 +4198,8 @@
     "shiritori": {
       "first": "つ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "慈渓",
@@ -4113,7 +4213,8 @@
     "shiritori": {
       "first": "つ",
       "last": "し"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "成都",
@@ -4127,7 +4228,8 @@
     "shiritori": {
       "first": "つ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "重慶",
@@ -4141,7 +4243,8 @@
     "shiritori": {
       "first": "つ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "天水",
@@ -4155,7 +4258,8 @@
     "shiritori": {
       "first": "て",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "天津",
@@ -4169,7 +4273,8 @@
     "shiritori": {
       "first": "て",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "天門",
@@ -4183,7 +4288,8 @@
     "shiritori": {
       "first": "て",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "定州",
@@ -4197,7 +4303,8 @@
     "shiritori": {
       "first": "て",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "鄧州",
@@ -4211,7 +4318,8 @@
     "shiritori": {
       "first": "て",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "東莞",
@@ -4225,7 +4333,8 @@
     "shiritori": {
       "first": "ど",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "東台",
@@ -4239,7 +4348,8 @@
     "shiritori": {
       "first": "ど",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "滕州",
@@ -4253,7 +4363,8 @@
     "shiritori": {
       "first": "と",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "通州",
@@ -4267,7 +4378,8 @@
     "shiritori": {
       "first": "と",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "南安",
@@ -4281,7 +4393,8 @@
     "shiritori": {
       "first": "な",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "南京",
@@ -4295,7 +4408,8 @@
     "shiritori": {
       "first": "な",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "南昌",
@@ -4309,7 +4423,8 @@
     "shiritori": {
       "first": "な",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "南充",
@@ -4323,7 +4438,8 @@
     "shiritori": {
       "first": "な",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "南寧",
@@ -4337,7 +4453,8 @@
     "shiritori": {
       "first": "な",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "南海",
@@ -4351,7 +4468,8 @@
     "shiritori": {
       "first": "な",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "南陽",
@@ -4365,7 +4483,8 @@
     "shiritori": {
       "first": "な",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "寧波",
@@ -4379,7 +4498,8 @@
     "shiritori": {
       "first": "に",
       "last": "ぽ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "内江",
@@ -4393,7 +4513,8 @@
     "shiritori": {
       "first": "ね",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "哈爾浜",
@@ -4407,7 +4528,8 @@
     "shiritori": {
       "first": "は",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "巴中",
@@ -4421,7 +4543,8 @@
     "shiritori": {
       "first": "ば",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "合肥",
@@ -4435,7 +4558,8 @@
     "shiritori": {
       "first": "は",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "海城",
@@ -4449,7 +4573,8 @@
     "shiritori": {
       "first": "は",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "包頭",
@@ -4463,7 +4588,8 @@
     "shiritori": {
       "first": "ぱ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "邯鄲",
@@ -4477,7 +4603,8 @@
     "shiritori": {
       "first": "は",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "漢川",
@@ -4491,7 +4618,8 @@
     "shiritori": {
       "first": "は",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "杭州",
@@ -4505,7 +4633,8 @@
     "shiritori": {
       "first": "は",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "畢節",
@@ -4519,7 +4648,8 @@
     "shiritori": {
       "first": "び",
       "last": "え"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "邳州",
@@ -4533,7 +4663,8 @@
     "shiritori": {
       "first": "ぴ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "平度",
@@ -4547,7 +4678,8 @@
     "shiritori": {
       "first": "ぴ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "淮南",
@@ -4561,7 +4693,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "撫順",
@@ -4575,7 +4708,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "福州",
@@ -4589,7 +4723,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "撫州",
@@ -4603,7 +4738,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "湖州",
@@ -4617,7 +4753,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "福清",
@@ -4631,7 +4768,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "普寧",
@@ -4645,7 +4783,8 @@
     "shiritori": {
       "first": "ぷ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "富陽",
@@ -4659,7 +4798,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "豊城",
@@ -4673,7 +4813,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "呼和浩特",
@@ -4687,7 +4828,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "と"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "北流",
@@ -4701,7 +4843,8 @@
     "shiritori": {
       "first": "べ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "淮安",
@@ -4715,7 +4858,8 @@
     "shiritori": {
       "first": "ほ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "化州",
@@ -4729,7 +4873,8 @@
     "shiritori": {
       "first": "ほ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "合川",
@@ -4743,7 +4888,8 @@
     "shiritori": {
       "first": "ほ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "亳州",
@@ -4757,7 +4903,8 @@
     "shiritori": {
       "first": "ぼ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "菏沢",
@@ -4771,7 +4918,8 @@
     "shiritori": {
       "first": "ほ",
       "last": "ず"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "香港",
@@ -4785,7 +4933,8 @@
     "shiritori": {
       "first": "ほ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "麻城",
@@ -4799,7 +4948,8 @@
     "shiritori": {
       "first": "ま",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "綿陽",
@@ -4813,7 +4963,8 @@
     "shiritori": {
       "first": "み",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "牡丹江",
@@ -4827,7 +4978,8 @@
     "shiritori": {
       "first": "む",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "禹州",
@@ -4841,7 +4993,8 @@
     "shiritori": {
       "first": "ゆ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "玉樹",
@@ -4855,7 +5008,8 @@
     "shiritori": {
       "first": "ゆ",
       "last": "ゆ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "楽清",
@@ -4869,7 +5023,8 @@
     "shiritori": {
       "first": "ゆ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "永城",
@@ -4883,7 +5038,8 @@
     "shiritori": {
       "first": "よ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "楽山",
@@ -4897,7 +5053,8 @@
     "shiritori": {
       "first": "ら",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "莱蕪",
@@ -4911,7 +5068,8 @@
     "shiritori": {
       "first": "ら",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "蘭州",
@@ -4925,7 +5083,8 @@
     "shiritori": {
       "first": "ら",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "日照",
@@ -4939,7 +5098,8 @@
     "shiritori": {
       "first": "り",
       "last": "お"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "廉江",
@@ -4953,7 +5113,8 @@
     "shiritori": {
       "first": "り",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "柳州",
@@ -4967,7 +5128,8 @@
     "shiritori": {
       "first": "り",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "瀏陽",
@@ -4981,7 +5143,8 @@
     "shiritori": {
       "first": "り",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "臨沂",
@@ -4995,7 +5158,8 @@
     "shiritori": {
       "first": "り",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "瑞安",
@@ -5009,7 +5173,8 @@
     "shiritori": {
       "first": "る",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "六安",
@@ -5023,7 +5188,8 @@
     "shiritori": {
       "first": "る",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "如皋",
@@ -5037,7 +5203,8 @@
     "shiritori": {
       "first": "る",
       "last": "お"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "瀘州",
@@ -5051,7 +5218,8 @@
     "shiritori": {
       "first": "る",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "陸豊",
@@ -5065,7 +5233,8 @@
     "shiritori": {
       "first": "る",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "洛陽",
@@ -5079,7 +5248,8 @@
     "shiritori": {
       "first": "る",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "雷州",
@@ -5093,7 +5263,8 @@
     "shiritori": {
       "first": "れ",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "耒陽",
@@ -5107,7 +5278,8 @@
     "shiritori": {
       "first": "れ",
       "last": "ん"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "チュニス",
@@ -5625,7 +5797,8 @@
     "shiritori": {
       "first": "と",
       "last": "う"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "大阪",
@@ -5639,7 +5812,8 @@
     "shiritori": {
       "first": "お",
       "last": "か"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "川崎",
@@ -5653,7 +5827,8 @@
     "shiritori": {
       "first": "か",
       "last": "き"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "京都",
@@ -5667,7 +5842,8 @@
     "shiritori": {
       "first": "き",
       "last": "と"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "神戸",
@@ -5681,7 +5857,8 @@
     "shiritori": {
       "first": "こ",
       "last": "べ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "さいたま",
@@ -5695,7 +5872,8 @@
     "shiritori": {
       "first": "さ",
       "last": "ま"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "札幌",
@@ -5709,7 +5887,8 @@
     "shiritori": {
       "first": "さ",
       "last": "ろ"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "仙台",
@@ -5723,7 +5902,8 @@
     "shiritori": {
       "first": "せ",
       "last": "い"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "名古屋",
@@ -5737,7 +5917,8 @@
     "shiritori": {
       "first": "な",
       "last": "や"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "広島",
@@ -5751,7 +5932,8 @@
     "shiritori": {
       "first": "ひ",
       "last": "ま"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "福岡",
@@ -5765,7 +5947,8 @@
     "shiritori": {
       "first": "ふ",
       "last": "か"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "横浜",
@@ -5779,7 +5962,8 @@
     "shiritori": {
       "first": "よ",
       "last": "ま"
-    }
+    },
+    "notKatakana": true
   },
   {
     "name": "オークランド",

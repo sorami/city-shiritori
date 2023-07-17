@@ -30,9 +30,11 @@
 				</div>
 				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
 				<div class="flex flex-col gap-y-2">
-					<div class="text-xs tracking-widest italic">
-						{city.reading}
-					</div>
+					{#if city.notKatakana}
+						<div class="text-xs tracking-widest italic">
+							{city.reading}
+						</div>
+					{/if}
 					<div class="text-xl font-bold">{city.name}</div>
 
 					<div class="text-xs">
