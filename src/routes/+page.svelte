@@ -8,7 +8,8 @@
 	import type { City, Vec3, Vec4 } from '$lib';
 	import Name from './Name.svelte';
 
-	let currentCity: City;
+	let prevCity: City;
+	let nextCity: City;
 	let transitionDuration = 1500;
 	const tilt = 20;
 
@@ -45,10 +46,7 @@
 		);
 		const path = d3.geoPath(projection, ctx);
 
-		const cities: City[] | undefined = await d3.json('./cities.json');
-		if (!cities) return;
-
-		function render(city: City, arcCoordinates?: [number, number][]) {
+		function render(nextCity: City, prevCity?: City, arcCoordinates?: [number, number][]) {
 			if (!ctx) return;
 
 			ctx.clearRect(0, 0, width, height);
@@ -74,11 +72,19 @@
 			ctx.lineWidth = 1.5;
 			ctx.stroke();
 
-			// city circle
+			// next city, circle
 			ctx.beginPath();
-			path(d3.geoCircle().center(city.coordinates).radius(1.2)());
+			path(d3.geoCircle().center(nextCity.coordinates).radius(1.2)());
 			ctx.fillStyle = 'tomato';
 			ctx.fill();
+
+			if (prevCity) {
+				// prev city, circle
+				ctx.beginPath();
+				path(d3.geoCircle().center(prevCity.coordinates).radius(1.2)());
+				ctx.fillStyle = 'tomato';
+				ctx.fill();
+			}
 
 			if (arcCoordinates) {
 				ctx.beginPath();
@@ -90,31 +96,33 @@
 			}
 		}
 
-		currentCity = cities[Math.floor(Math.random() * cities.length)];
+		const cities: City[] | undefined = await d3.json('./cities.json');
+		if (!cities) return;
+
+		nextCity = cities[Math.floor(Math.random() * cities.length)];
 		// currentCity = cities.find((city) => city.name === '札幌')!;
 		let p1: [number, number] = [0, 0];
-		let p2 = currentCity.coordinates;
+		let p2 = nextCity.coordinates;
 		let r1: Vec3 = [0, 0, 0];
 		let r2: Vec3 = [-p2[0], tilt - p2[1], 0];
 
 		const iv = Versor.interpolateAngles(r1, r2);
 		projection.rotate(iv(1));
-		render(currentCity);
+		render(nextCity);
 		await new Promise((resolve) => setTimeout(resolve, transitionDuration / 2));
 
 		while (true) {
-			const nextCities = cities.filter(
-				(city) => currentCity.shiritori.last === city.shiritori.first
-			);
+			prevCity = nextCity;
+
+			const nextCities = cities.filter((city) => prevCity.shiritori.last === city.shiritori.first);
 			if (nextCities.length === 0) {
-				console.warn('no next cities', currentCity);
+				console.warn('no next cities', prevCity);
 				break;
 			}
-
-			currentCity = nextCities[Math.floor(Math.random() * nextCities.length)];
+			nextCity = nextCities[Math.floor(Math.random() * nextCities.length)];
 
 			p1 = p2;
-			p2 = currentCity.coordinates;
+			p2 = nextCity.coordinates;
 			r1 = r2;
 			r2 = [-p2[0], tilt - p2[1], 0];
 			const ip = d3.geoInterpolate(p1, p2);
@@ -125,11 +133,11 @@
 				.duration(transitionDuration)
 				.tween('render', () => (t) => {
 					projection.rotate(iv(t));
-					render(currentCity, [p1, ip(t)]);
+					render(nextCity, prevCity, [p1, ip(t)]);
 				})
 				.transition()
 				.tween('render', () => (t) => {
-					render(currentCity, [ip(t), p2]);
+					render(nextCity, prevCity, [ip(t), p2]);
 				})
 				.end();
 		}
@@ -154,6 +162,6 @@
 			class="w-52"
 		/> 🐢
 	</div>
-	<Name city={currentCity} />
+	<Name city={nextCity} />
 	<div id="wrapper" />
 </div>
