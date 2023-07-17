@@ -156,30 +156,38 @@
 	<title>都市名しりとり - sorami.dev</title>
 </svelte:head>
 
-<div class="grid h-screen place-items-center font-custom">
-	<Name city={nextCity} {transitionDuration} />
-	<div id="wrapper" />
+<div class="font-custom">
+	<div class="flex justify-between px-16">
+		<div>
+			<h1 class="text-xl text-neutral-700">都市名しりとり</h1>
+		</div>
 
-	<div class="flex gap-x-3 items-center text-neutral-600 text-xl fixed bottom-8 left-8">
-		<div class="i-mdi-snail" />
-		<input
-			type="range"
-			name="speed"
-			id="speed"
-			bind:value={speedSliderValue}
-			min="0"
-			max={MAX_SPEED - 100}
-			step="100"
-			class="w-52"
-		/>
-		<div class="i-material-symbols-rocket-launch" />
+		<div class="flex gap-x-3 items-center text-neutral-600 text-xl">
+			<div class="i-mdi-snail" />
+			<input
+				type="range"
+				name="speed"
+				id="speed"
+				bind:value={speedSliderValue}
+				min="0"
+				max={MAX_SPEED - 100}
+				step="100"
+				class="w-52"
+			/>
+			<div class="i-material-symbols-rocket-launch" />
+		</div>
 	</div>
-</div>
 
-<Modal bind:showModal />
-<div class="fixed bottom-8 right-8">
-	<button
-		on:click={() => (showModal = true)}
-		class="i-mdi-information text-4xl text-neutral-600 hover:opacity-70 hover:cursor-pointer"
-	/>
+	<div class="grid h-screen place-items-center">
+		<Name city={nextCity} {transitionDuration} />
+		<div id="wrapper" />
+	</div>
+
+	<Modal bind:showModal />
+	<div class="fixed bottom-8 right-8">
+		<button
+			on:click={() => (showModal = true)}
+			class="i-mdi-information text-4xl text-neutral-600 hover:opacity-70 hover:cursor-pointer"
+		/>
+	</div>
 </div>
