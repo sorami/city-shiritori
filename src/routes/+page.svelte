@@ -60,8 +60,8 @@
 			ctx.fill();
 
 			// borders
-			path(borders);
 			ctx.beginPath();
+			path(borders);
 			ctx.strokeStyle = '#fff';
 			ctx.lineWidth = 0.5;
 			ctx.setLineDash([]);
