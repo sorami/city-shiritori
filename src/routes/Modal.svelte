@@ -120,6 +120,7 @@
 	}
 	p {
 		@apply text-sm;
+		@apply leading-relaxed;
 	}
 	p + p {
 		@apply mt-4.5;
