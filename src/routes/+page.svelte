@@ -157,7 +157,7 @@
 		title: '都市名しりとり - sorami.dev',
 		url: 'https://sorami.dev/city-shiritori',
 		favicon: 'https://sorami.dev/_assets/favicon.svg',
-		description: '都市名でしりとりをする',
+		description: '札幌 → ロンドン → ンジャメナ ...',
 		thumbnail: 'https://sorami.dev/city-shiritori/thumbnail.png'
 	};
 </script>
