@@ -1,5 +1,7 @@
 # city-shiritori 都市名しりとり
 
+![thumbnail](./static/thumbnail.png)
+
 ## References
 
 - [World Tour / D3 | Observable](https://observablehq.com/@d3/world-tour)
