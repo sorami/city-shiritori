@@ -20,14 +20,17 @@
 		<div
 			in:fly={{ x: xShift, duration: transitionDuration }}
 			out:fly={{ x: -xShift, duration: transitionDuration }}
-			class="z-10 absolute bg-neutral-9 rounded-lg text-white px-4 py-4 mx-2 text-center opacity-70"
+			id="name-container"
+			class="bg-neutral-9 rounded-lg text-white px-4 py-4 mx-2 text-center opacity-70"
 		>
 			<div class="flex justify-between items-center gap-x-7">
+				<!-- 最初のかな -->
 				<div
-					class="text-lg font-bold bg-white/70 text-black p-2 w-4 h-4 flex justify-center items-center"
+					class="text-lg font-bold bg-white/70 text-black p-3 w-4 h-4 flex justify-center items-center"
 				>
 					{city.shiritori.first}
 				</div>
+
 				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
 				<div class="flex flex-col gap-y-2">
 					{#if city.notKana}
@@ -44,9 +47,11 @@
 						{(city.population / 10000).toFixed(0)}万人
 					</div>
 				</div>
+
+				<!-- 最後のかな -->
 				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
 				<div
-					class="text-lg font-bold bg-white/70 text-black p-2 w-4 h-4 flex justify-center items-center"
+					class="text-lg font-bold bg-white/70 text-black p-3 w-4 h-4 flex justify-center items-center"
 				>
 					{city.shiritori.last}
 				</div>
@@ -54,3 +59,13 @@
 		</div>
 	{/key}
 {/if}
+
+<style>
+	#name-container {
+		position: absolute;
+		top: 48%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		z-index: 1000;
+	}
+</style>

@@ -1,5 +1,7 @@
 <script lang="ts">
 	import 'virtual:uno.css';
+	import '@unocss/reset/tailwind-compat.css';
+
 	import { onMount } from 'svelte';
 	import * as d3 from 'd3';
 	import * as topojson from 'topojson-client';
@@ -21,8 +23,8 @@
 	const tilt = 20;
 
 	onMount(async () => {
-		const width = window.innerWidth * 0.9;
-		const height = window.innerHeight * 0.9;
+		const width = window.innerWidth;
+		const height = window.innerHeight * 0.92;
 
 		const world: Topology | undefined = await d3.json(
 			'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
@@ -42,7 +44,7 @@
 		const ctx = canvas.getContext('2d');
 		if (!ctx) return;
 		ctx.scale(dpi, dpi);
-		document.getElementById('wrapper')!.appendChild(canvas);
+		document.getElementById('globe-wrapper')!.appendChild(canvas);
 
 		const projection = d3.geoOrthographic().fitExtent(
 			[
@@ -157,7 +159,7 @@
 </svelte:head>
 
 <div class="font-custom">
-	<div class="flex flex-wrap justify-between px-16 mt-8">
+	<div class="flex flex-wrap justify-around items-center gap-3 mt-8">
 		<div class="flex items-center gap-x-2">
 			<h1 class="text-2xl text-neutral-700 tracking-wide">都市名しりとり</h1>
 			<button
@@ -165,14 +167,12 @@
 				class="i-material-symbols-help text-3xl text-neutral-600 hover:opacity-70 hover:cursor-pointer"
 			/>
 		</div>
-
 		<SpeedSlider bind:speedSliderValue />
 	</div>
 
-	<div class="grid h-90% w-screen place-items-center">
-		<Name city={nextCity} {transitionDuration} />
-		<div class="w-full h-full" id="wrapper" />
-	</div>
+	<div id="globe-wrapper" />
+
+	<Name city={nextCity} {transitionDuration} />
 
 	<Modal bind:showModal />
 </div>
