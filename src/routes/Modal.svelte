@@ -22,37 +22,32 @@
 
 	<h3>ルール</h3>
 	<p>
-		終わりの文字が「長音」の場合、その一つ前の文字を用いる:
-		<code>バクー</code> →
-		<code>クエッタ</code>
+		終わりの文字が「長音」の場合、その一つ前の文字を用いる: <br />
+		<code>バクー</code> → <code>クエッタ</code>
 	</p>
 	<p>
-		終わりの文字が「促音」の場合、もとの文字（清音）を用いる:
-		<code>ウファ</code> →
-		<code>アダナ</code>
+		終わりの文字が「促音」の場合、もとの文字（清音）を用いる: <br />
+		<code>ウファ</code> → <code>アダナ</code>
 	</p>
 	<p>
-		「濁音・半濁音」は、そのまま用いる:
-		<code>バグダッド</code> →
-		<code>ドゥアラ</code>
+		「濁音・半濁音」は、そのまま用いる: <br />
+		<code>バグダッド</code> → <code>ドゥアラ</code>
 	</p>
 	<p>
-		終わりの文字が <code>ん</code> でも続ける: <code>ロンドン</code> →
-		<code>ンジャメナ</code>
+		終わりの文字が <code>ん</code> でも続ける:<br />
+		<code>ロンドン</code> → <code>ンジャメナ</code>
 	</p>
 
 	<h3>データ</h3>
-	<p>人口100万を超える世界の都市、計520を含む。</p>
+	<p>人口100万を超える世界の都市、計520を対象とする。</p>
 	<p>
-		元データ: <a
-			href="https://amano-tec.com/data/megacities.html"
-			target="_blank"
-			rel="noopener noreferrer"
+		元データ: <br />
+		<a href="https://amano-tec.com/data/megacities.html" target="_blank" rel="noopener noreferrer"
 			>世界の百万都市の位置データ Location Data of Megacities - ASTI アマノ技研</a
 		>
 	</p>
 	<p>
-		データの前処理は、次のノートブックを参照のこと:
+		データの前処理は、次のノートブックを参照のこと: <br />
 		<a
 			href="https://github.com/sorami/city-shiritori/blob/main/data/cities.ipynb"
 			target="_blank"
@@ -60,18 +55,19 @@
 		>
 	</p>
 	<p>
-		次に続けることができない都市名は存在しない: <code>菏沢（ほーづー）</code> のみ、
-		<code>づ</code>
-		から始まる都市名がないため、 <code>ず</code> という扱いにしている。
+		次に続けることができない都市名は存在しない: <br />
+		<code>菏沢（ほーづー）</code> のみ、 <code>づ</code> から始まる都市名がないため、
+		<code>ず</code> という扱いにしている。
 	</p>
 	<p>
-		どの都市からも続かない都市名は複数存在する: 始まりの文字が <code>が</code>,
+		どの都市からも続かない都市名は複数存在する: <br />
+		始まりの"読み"が <code>が</code>,
 		<code>け</code>, <code>せ</code>, <code>そ</code>, <code>ぢ</code>, <code>つ</code>,
 		<code>つ</code>, <code>ぴ</code>, <code>ふ</code>, <code>ぺ</code>, <code>ほ</code>,
-		<code>ゔ</code>
+		<code>ゔ</code>。
 	</p>
-	<p>もっとも多い「始まりの文字」は <code>あ</code> （29都市）。</p>
-	<p>もっとも多い「終わりの文字」は <code>ん</code> （149都市）。</p>
+	<p>もっとも多い「始まりの"読み"」は <code>あ</code> （29都市）。</p>
+	<p>もっとも多い「終わりの"読み"」は <code>ん</code> （149都市）。</p>
 	<p>もっとも長い都市名は <code>ナコーンシータンマラート</code> 。</p>
 
 	<h3>コード</h3>
@@ -103,6 +99,7 @@
 
 	a {
 		@apply text-white;
+		@apply underline;
 	}
 	a:hover {
 		@apply opaicty-70;
@@ -114,13 +111,18 @@
 	}
 	h2 {
 		@apply text-2xl;
+		@apply font-bold;
 	}
 	h3 {
-		@apply text-base;
-		@apply mt-8;
+		@apply text-lg;
+		@apply font-bold;
+		@apply mt-8 mb-2;
 	}
 	p {
 		@apply text-sm;
+	}
+	p + p {
+		@apply mt-4.5;
 	}
 	code {
 		@apply font-mono;
