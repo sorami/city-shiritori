@@ -98,7 +98,7 @@
 			if (arcCoordinates) {
 				ctx.beginPath();
 				path({ type: 'LineString', coordinates: arcCoordinates });
-				ctx.strokeStyle = '#333';
+				ctx.strokeStyle = '#444';
 				ctx.lineWidth = 2;
 				ctx.setLineDash([]);
 				ctx.stroke();

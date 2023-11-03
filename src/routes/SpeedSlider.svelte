@@ -13,7 +13,7 @@
 		min="0"
 		max={MAX_DURATION - 100}
 		step="100"
-		class="w-52"
+		class="w-52 accent-neutral-5 focus:accent-neutral-8"
 	/>
 	<div class="i-material-symbols-rocket-launch" />
 </div>
