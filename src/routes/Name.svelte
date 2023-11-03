@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { fly } from 'svelte/transition';
+	import { fly, blur, fade, slide } from 'svelte/transition';
 	import type { City } from '$lib';
 	import { onMount } from 'svelte';
 
@@ -11,6 +11,15 @@
 	onMount(() => {
 		xShift = window.innerWidth / 2;
 	});
+
+	const inTransition = (node: any) =>
+		screen.width < 640
+			? fade(node, { delay: transitionDuration * 0.3, duration: transitionDuration * 0.7 })
+			: fly(node, { x: xShift, duration: transitionDuration });
+	const outTransition = (node: any) =>
+		screen.width < 640
+			? fade(node, { delay: 0, duration: transitionDuration * 0.3 })
+			: fly(node, { x: -xShift, duration: transitionDuration });
 </script>
 
 {#if city}
@@ -18,8 +27,8 @@
 	<!-- cf. https://svelte.dev/tutorial/key-blocks -->
 	{#key city}
 		<div
-			in:fly={{ x: xShift, duration: transitionDuration }}
-			out:fly={{ x: -xShift, duration: transitionDuration }}
+			in:inTransition
+			out:outTransition
 			id="name-container"
 			class="bg-neutral-9/75 sm:bg-neutral-9 rounded-lg text-white px-4 py-4 mx-2 text-center opacity-70"
 		>
