@@ -21,7 +21,7 @@
 			in:fly={{ x: xShift, duration: transitionDuration }}
 			out:fly={{ x: -xShift, duration: transitionDuration }}
 			id="name-container"
-			class="bg-neutral-9/65 sm:bg-neutral-9 rounded-lg text-white px-4 py-4 mx-2 text-center opacity-70"
+			class="bg-neutral-9/75 sm:bg-neutral-9 rounded-lg text-white px-4 py-4 mx-2 text-center opacity-70"
 		>
 			<div class="flex justify-between items-center gap-x-7">
 				<!-- 最初のかな -->
@@ -36,7 +36,7 @@
 				<!-- 矢印 -->
 				<div class="hidden sm:block i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
 
-				<div class="flex flex-col gap-y-2">
+				<div class="flex flex-col gap-y-0 sm:gap-y-2">
 					{#if city.notKana}
 						<div class="text-xs tracking-widest italic">
 							{city.reading}
@@ -70,8 +70,13 @@
 <style>
 	#name-container {
 		position: absolute;
-		top: 48%;
 		left: 50%;
+
+		@apply top-2/3;
+		@screeen sm {
+			@apply top-1/2;
+		}
+
 		transform: translate(-50%, -50%);
 		z-index: 1000;
 	}
