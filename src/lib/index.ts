@@ -1,4 +1,4 @@
-const MAX_SPEED = 3000;
+const MAX_DURATION = 3000;
 
 type City = {
 	name: string;
@@ -85,5 +85,5 @@ class Versor {
 	}
 }
 
-export { MAX_SPEED, Versor };
+export { MAX_DURATION, Versor };
 export type { City, Vec3 };

@@ -73,8 +73,8 @@
 		left: 50%;
 
 		@apply top-2/3;
-		@screeen sm {
-			@apply top-1/2;
+		@screen sm {
+			top: 50%;
 		}
 
 		transform: translate(-50%, -50%);

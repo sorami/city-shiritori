@@ -6,7 +6,7 @@
 	import * as d3 from 'd3';
 	import * as topojson from 'topojson-client';
 	import type { Topology } from 'topojson-specification';
-	import { MAX_SPEED, Versor } from '$lib';
+	import { MAX_DURATION, Versor } from '$lib';
 	import type { City, Vec3 } from '$lib';
 	import Name from './Name.svelte';
 	import SpeedSlider from './SpeedSlider.svelte';
@@ -18,7 +18,7 @@
 	let nextCity: City;
 
 	let speedSliderValue = 1500;
-	$: transitionDuration = MAX_SPEED - speedSliderValue;
+	$: transitionDuration = MAX_DURATION - speedSliderValue;
 
 	const tilt = 20;
 

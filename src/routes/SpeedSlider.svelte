@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let speedSliderValue: number;
-	import { MAX_SPEED } from '$lib';
+	import { MAX_DURATION } from '$lib';
 </script>
 
 <div class="flex gap-x-3 items-center text-neutral-600 text-xl">
@@ -11,7 +11,7 @@
 		id="speed"
 		bind:value={speedSliderValue}
 		min="0"
-		max={MAX_SPEED - 100}
+		max={MAX_DURATION - 100}
 		step="100"
 		class="w-52"
 	/>
