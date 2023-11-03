@@ -152,10 +152,38 @@
 				.end();
 		}
 	});
+
+	let headerInfo = {
+		title: '都市名しりとり - sorami.dev',
+		url: 'https://sorami.dev/city-shiritori',
+		favicon: 'https://sorami.dev/_assets/favicon.svg',
+		description: '都市名でしりとりをする',
+		thumbnail: 'https://sorami.dev/city-shiritori/thumbnail.png'
+	};
 </script>
 
 <svelte:head>
-	<title>都市名しりとり - sorami.dev</title>
+	<title>{headerInfo.title}</title>
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="canonical" href={headerInfo.url} />
+	<link rel="icon" type="image/svg+xml" href={headerInfo.favicon} />
+
+	<meta name="title" content={headerInfo.title} />
+	<meta name="description" content={headerInfo.description} />
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content={headerInfo.url} />
+	<meta property="og:title" content={headerInfo.title} />
+	<meta property="og:description" content={headerInfo.description} />
+	<meta property="og:image" content={headerInfo.thumbnail} />
+
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content={headerInfo.url} />
+	<meta property="twitter:title" content={headerInfo.title} />
+	<meta property="twitter:description" content={headerInfo.description} />
+	<meta property="twitter:image" content={headerInfo.thumbnail} />
 </svelte:head>
 
 <div class="font-custom">
