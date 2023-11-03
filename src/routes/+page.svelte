@@ -4,9 +4,10 @@
 	import * as d3 from 'd3';
 	import * as topojson from 'topojson-client';
 	import type { Topology } from 'topojson-specification';
-	import { Versor } from '$lib';
-	import type { City, Vec3, Vec4 } from '$lib';
+	import { MAX_SPEED, Versor } from '$lib';
+	import type { City, Vec3 } from '$lib';
 	import Name from './Name.svelte';
+	import SpeedSlider from './SpeedSlider.svelte';
 
 	import Modal from './Modal.svelte';
 	let showModal = false;
@@ -15,7 +16,6 @@
 	let nextCity: City;
 
 	let speedSliderValue = 1500;
-	const MAX_SPEED = 3000;
 	$: transitionDuration = MAX_SPEED - speedSliderValue;
 
 	const tilt = 20;
@@ -166,20 +166,7 @@
 			/>
 		</div>
 
-		<div class="flex gap-x-3 items-center text-neutral-600 text-xl">
-			<div class="i-mdi-snail" />
-			<input
-				type="range"
-				name="speed"
-				id="speed"
-				bind:value={speedSliderValue}
-				min="0"
-				max={MAX_SPEED - 100}
-				step="100"
-				class="w-52"
-			/>
-			<div class="i-material-symbols-rocket-launch" />
-		</div>
+		<SpeedSlider bind:speedSliderValue />
 	</div>
 
 	<div class="grid h-90% w-screen place-items-center">

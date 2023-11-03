@@ -1,3 +1,5 @@
+const MAX_SPEED = 3000;
+
 type City = {
 	name: string;
 	reading: string;
@@ -83,5 +85,5 @@ class Versor {
 	}
 }
 
-export { Versor };
-export type { City, Vec3, Vec4 };
+export { MAX_SPEED, Versor };
+export type { City, Vec3 };
