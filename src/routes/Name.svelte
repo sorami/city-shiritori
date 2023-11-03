@@ -21,25 +21,28 @@
 			in:fly={{ x: xShift, duration: transitionDuration }}
 			out:fly={{ x: -xShift, duration: transitionDuration }}
 			id="name-container"
-			class="bg-neutral-9 rounded-lg text-white px-4 py-4 mx-2 text-center opacity-70"
+			class="bg-neutral-9/65 sm:bg-neutral-9 rounded-lg text-white px-4 py-4 mx-2 text-center opacity-70"
 		>
 			<div class="flex justify-between items-center gap-x-7">
 				<!-- 最初のかな -->
-				<div
-					class="text-lg font-bold bg-white/70 text-black p-3 w-4 h-4 flex justify-center items-center"
-				>
-					{city.shiritori.first}
+				<div class="hidden sm:block">
+					<div
+						class="text-lg font-bold bg-white/70 text-black p-3 w-4 h-4 flex justify-center items-center"
+					>
+						{city.shiritori.first}
+					</div>
 				</div>
 
-				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
+				<!-- 矢印 -->
+				<div class="hidden sm:block i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
+
 				<div class="flex flex-col gap-y-2">
 					{#if city.notKana}
 						<div class="text-xs tracking-widest italic">
 							{city.reading}
 						</div>
 					{/if}
-					<div class="text-xl font-bold">{city.name}</div>
-
+					<div class="text-base sm:text-xl font-bold">{city.name}</div>
 					<div class="text-xs">
 						{city.country}
 					</div>
@@ -48,12 +51,16 @@
 					</div>
 				</div>
 
+				<!-- 矢印 -->
+				<div class="hidden sm:block i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
+
 				<!-- 最後のかな -->
-				<div class="i-material-symbols-line-end-arrow-rounded text-lg opacity-75" />
-				<div
-					class="text-lg font-bold bg-white/70 text-black p-3 w-4 h-4 flex justify-center items-center"
-				>
-					{city.shiritori.last}
+				<div class="hidden sm:block">
+					<div
+						class="text-lg font-bold bg-white/70 text-black p-3 w-4 h-4 flex justify-center items-center"
+					>
+						{city.shiritori.last}
+					</div>
 				</div>
 			</div>
 		</div>
